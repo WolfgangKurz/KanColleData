@@ -1,10 +1,13 @@
 Update: 2016-09-27
 
-### Sally Flag
-Fleet organizing flag
-Single fleet : [1, 0]
-Combined fleets : [0, n]
-n: Bit flag. 1: Surface Task Force, 2: Carrier Task Force, 4: Transport Escort
+### Sally Flag : Fleet organizing flag
+[1, 0]	Single fleet
+[0, n]	Combined fleets
+
+### n: Bit flag
+1	Surface Task Force
+2	Carrier Task Force
+4	Transport Escort
 
 ID	MapArea ID	Map No.	Name	Level	Operation Name	Items	Map Hp	Required defeat count	Sally Flag
 11	1	1	鎮守府正面海域	1	近海警備	0,0,0,0			1,0

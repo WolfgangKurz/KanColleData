@@ -14,8 +14,8 @@ Update: 2016-09-27
 10	Long-distance air-raid battle
 
 ### Cell type - No battle
-Value 6 is in "api_req_map/start" and "api_req_map/next".
-In "api_start2", Value 6 will be displayed to 4.
+## Value 6 is in "api_req_map/start" and "api_req_map/next".
+## In "api_start2", Value 6 will be displayed to 4.
 
 ID	MapArea ID	Map No.	Cell No.	Cell type
 1	1	1	0	0

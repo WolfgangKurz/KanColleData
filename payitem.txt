@@ -1,7 +1,6 @@
 Update: 2016-09-27
 
-### Packed items
-[Fuel],[Ammo],[Steel],[Bauxite],[Instance Build],[Instance Repair],[Dev. Material],[Dock Key]
+### Packed items : [Fuel],[Ammo],[Steel],[Bauxite],[Instance Build],[Instance Repair],[Dev. Material],[Dock Key]
 
 ID	Type	Name	Packed items	Price
 1	0	燃料パック200	200,0,0,0,0,0,0,0	100

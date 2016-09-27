@@ -1,7 +1,6 @@
 Update: 2016-09-27
 
-### Return Flag
-Can cancel?
+### Return Flag : Can cancel?
 
 ID	MapArea ID	Name	Time (mins)	Difficulty	Use fuels	Use ammos	Win item 1	Win item 2	Return flag
 1	1	練習航海	15	1	0.3	0	0,0	0,0	1
