@@ -1,0 +1,25 @@
+Update: 2016-09-27
+
+ID	Name	Repair multiple	Build siluet	Comment
+1	海防艦	1	2	No ships yet
+2	駆逐艦	2	3	
+3	軽巡洋艦	2	3	
+4	重雷装巡洋艦	2	3	
+5	重巡洋艦	3	4	
+6	航空巡洋艦	3	4	
+7	軽空母	3	4	
+8	戦艦	3	4	Fast Battleship
+9	戦艦	4	5	Slow Battleship
+10	航空戦艦	4	5	
+11	正規空母	4	5	
+12	超弩級戦艦	4	5	No ships yet
+13	潜水艦	1	3	
+14	潜水空母	2	5	
+15	補給艦	1	2	Enemy Fleet Oiler
+16	水上機母艦	2	3	
+17	揚陸艦	2	5	
+18	装甲空母	4	5	
+19	工作艦	4	5	
+20	潜水母艦	3	5	
+21	練習巡洋艦	2	3	
+22	補給艦	2	3	Player Fleet Oiler

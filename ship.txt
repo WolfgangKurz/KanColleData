@@ -1,0 +1,666 @@
+Update: 2016-09-27
+
+### Player ships
+1	睦月	2 - Destroyer
+2	如月	2 - Destroyer
+6	長月	2 - Destroyer
+7	三日月	2 - Destroyer
+9	吹雪	2 - Destroyer
+10	白雪	2 - Destroyer
+11	深雪	2 - Destroyer
+12	磯波	2 - Destroyer
+13	綾波	2 - Destroyer
+14	敷波	2 - Destroyer
+15	曙	2 - Destroyer
+16	潮	2 - Destroyer
+17	陽炎	2 - Destroyer
+18	不知火	2 - Destroyer
+19	黒潮	2 - Destroyer
+20	雪風	2 - Destroyer
+21	長良	3 - Light Cruiser
+22	五十鈴	3 - Light Cruiser
+23	由良	3 - Light Cruiser
+24	大井	3 - Light Cruiser
+25	北上	3 - Light Cruiser
+26	扶桑	9 - Battleship
+27	山城	9 - Battleship
+28	皐月	2 - Destroyer
+29	文月	2 - Destroyer
+30	菊月	2 - Destroyer
+31	望月	2 - Destroyer
+32	初雪	2 - Destroyer
+33	叢雲	2 - Destroyer
+34	暁	2 - Destroyer
+35	響	2 - Destroyer
+36	雷	2 - Destroyer
+37	電	2 - Destroyer
+38	初春	2 - Destroyer
+39	子日	2 - Destroyer
+40	若葉	2 - Destroyer
+41	初霜	2 - Destroyer
+42	白露	2 - Destroyer
+43	時雨	2 - Destroyer
+44	村雨	2 - Destroyer
+45	夕立	2 - Destroyer
+46	五月雨	2 - Destroyer
+47	涼風	2 - Destroyer
+48	霰	2 - Destroyer
+49	霞	2 - Destroyer
+50	島風	2 - Destroyer
+51	天龍	3 - Light Cruiser
+52	龍田	3 - Light Cruiser
+53	名取	3 - Light Cruiser
+54	川内	3 - Light Cruiser
+55	神通	3 - Light Cruiser
+56	那珂	3 - Light Cruiser
+57	大井改	4 - Torpedo Cruiser
+58	北上改	4 - Torpedo Cruiser
+59	古鷹	5 - Heavy Cruiser
+60	加古	5 - Heavy Cruiser
+61	青葉	5 - Heavy Cruiser
+62	妙高	5 - Heavy Cruiser
+63	那智	5 - Heavy Cruiser
+64	足柄	5 - Heavy Cruiser
+65	羽黒	5 - Heavy Cruiser
+66	高雄	5 - Heavy Cruiser
+67	愛宕	5 - Heavy Cruiser
+68	摩耶	5 - Heavy Cruiser
+69	鳥海	5 - Heavy Cruiser
+70	最上	5 - Heavy Cruiser
+71	利根	5 - Heavy Cruiser
+72	筑摩	5 - Heavy Cruiser
+73	最上改	6 - Aircraft Cruiser
+74	祥鳳	7 - Light Aircraft Carrier
+75	飛鷹	7 - Light Aircraft Carrier
+76	龍驤	7 - Light Aircraft Carrier
+77	伊勢	9 - Battleship
+78	金剛	8 - Battleship
+79	榛名	8 - Battleship
+80	長門	9 - Battleship
+81	陸奥	9 - Battleship
+82	伊勢改	10 - Aviation Battleship
+83	赤城	11 - Aircraft Carrier
+84	加賀	11 - Aircraft Carrier
+85	霧島	8 - Battleship
+86	比叡	8 - Battleship
+87	日向	9 - Battleship
+88	日向改	10 - Aviation Battleship
+89	鳳翔	7 - Light Aircraft Carrier
+90	蒼龍	11 - Aircraft Carrier
+91	飛龍	11 - Aircraft Carrier
+92	隼鷹	7 - Light Aircraft Carrier
+93	朧	2 - Destroyer
+94	漣	2 - Destroyer
+95	朝潮	2 - Destroyer
+96	大潮	2 - Destroyer
+97	満潮	2 - Destroyer
+98	荒潮	2 - Destroyer
+99	球磨	3 - Light Cruiser
+100	多摩	3 - Light Cruiser
+101	木曾	3 - Light Cruiser
+102	千歳	16 - Seaplane Carrier
+103	千代田	16 - Seaplane Carrier
+104	千歳改	16 - Seaplane Carrier
+105	千代田改	16 - Seaplane Carrier
+106	千歳甲	16 - Seaplane Carrier
+107	千代田甲	16 - Seaplane Carrier
+108	千歳航	7 - Light Aircraft Carrier
+109	千代田航	7 - Light Aircraft Carrier
+110	翔鶴	11 - Aircraft Carrier
+111	瑞鶴	11 - Aircraft Carrier
+112	瑞鶴改	11 - Aircraft Carrier
+113	鬼怒	3 - Light Cruiser
+114	阿武隈	3 - Light Cruiser
+115	夕張	3 - Light Cruiser
+116	瑞鳳	7 - Light Aircraft Carrier
+117	瑞鳳改	7 - Light Aircraft Carrier
+118	大井改二	4 - Torpedo Cruiser
+119	北上改二	4 - Torpedo Cruiser
+120	三隈	5 - Heavy Cruiser
+121	三隈改	6 - Aircraft Cruiser
+122	舞風	2 - Destroyer
+123	衣笠	5 - Heavy Cruiser
+124	鈴谷	5 - Heavy Cruiser
+125	熊野	5 - Heavy Cruiser
+126	伊168	13 - Submarine
+127	伊58	13 - Submarine
+128	伊8	13 - Submarine
+129	鈴谷改	6 - Aircraft Cruiser
+130	熊野改	6 - Aircraft Cruiser
+131	大和	9 - Battleship
+132	秋雲	2 - Destroyer
+133	夕雲	2 - Destroyer
+134	巻雲	2 - Destroyer
+135	長波	2 - Destroyer
+136	大和改	9 - Battleship
+137	阿賀野	3 - Light Cruiser
+138	能代	3 - Light Cruiser
+139	矢矧	3 - Light Cruiser
+140	酒匂	3 - Light Cruiser
+141	五十鈴改二	3 - Light Cruiser
+142	衣笠改二	5 - Heavy Cruiser
+143	武蔵	9 - Battleship
+144	夕立改二	2 - Destroyer
+145	時雨改二	2 - Destroyer
+146	木曾改二	4 - Torpedo Cruiser
+147	Верный	2 - Destroyer
+148	武蔵改	9 - Battleship
+149	金剛改二	8 - Battleship
+150	比叡改二	8 - Battleship
+151	榛名改二	8 - Battleship
+152	霧島改二	8 - Battleship
+153	大鳳	18 - Armored Aircraft Carrier
+154	香取	21 - Training Cruiser
+155	伊401	14 - Aircraft Carrier Submarine
+156	大鳳改	18 - Armored Aircraft Carrier
+157	龍驤改二	7 - Light Aircraft Carrier
+158	川内改二	3 - Light Cruiser
+159	神通改二	3 - Light Cruiser
+160	那珂改二	3 - Light Cruiser
+161	あきつ丸	17 - Amphibious Assault Ship
+163	まるゆ	13 - Submarine
+164	弥生	2 - Destroyer
+165	卯月	2 - Destroyer
+166	あきつ丸改	17 - Amphibious Assault Ship
+167	磯風	2 - Destroyer
+168	浦風	2 - Destroyer
+169	谷風	2 - Destroyer
+170	浜風	2 - Destroyer
+171	Bismarck	8 - Battleship
+172	Bismarck改	8 - Battleship
+173	Bismarck zwei	8 - Battleship
+174	Z1	2 - Destroyer
+175	Z3	2 - Destroyer
+176	Prinz Eugen	5 - Heavy Cruiser
+177	Prinz Eugen改	5 - Heavy Cruiser
+178	Bismarck drei	8 - Battleship
+179	Z1 zwei	2 - Destroyer
+180	Z3 zwei	2 - Destroyer
+181	天津風	2 - Destroyer
+182	明石	19 - Repair Ship
+183	大淀	3 - Light Cruiser
+184	大鯨	20 - Submarine Tender
+185	龍鳳	7 - Light Aircraft Carrier
+186	時津風	2 - Destroyer
+187	明石改	19 - Repair Ship
+188	利根改二	6 - Aircraft Cruiser
+189	筑摩改二	6 - Aircraft Cruiser
+190	初風	2 - Destroyer
+191	伊19	13 - Submarine
+192	那智改二	5 - Heavy Cruiser
+193	足柄改二	5 - Heavy Cruiser
+194	羽黒改二	5 - Heavy Cruiser
+195	綾波改二	2 - Destroyer
+196	飛龍改二	11 - Aircraft Carrier
+197	蒼龍改二	11 - Aircraft Carrier
+199	大潮改二	2 - Destroyer
+200	阿武隈改二	3 - Light Cruiser
+201	吹雪改	2 - Destroyer
+202	白雪改	2 - Destroyer
+203	初雪改	2 - Destroyer
+204	深雪改	2 - Destroyer
+205	叢雲改	2 - Destroyer
+206	磯波改	2 - Destroyer
+207	綾波改	2 - Destroyer
+208	敷波改	2 - Destroyer
+209	金剛改	8 - Battleship
+210	比叡改	8 - Battleship
+211	榛名改	8 - Battleship
+212	霧島改	8 - Battleship
+213	天龍改	3 - Light Cruiser
+214	龍田改	3 - Light Cruiser
+215	球磨改	3 - Light Cruiser
+216	多摩改	3 - Light Cruiser
+217	木曾改	3 - Light Cruiser
+218	長良改	3 - Light Cruiser
+219	五十鈴改	3 - Light Cruiser
+220	由良改	3 - Light Cruiser
+221	名取改	3 - Light Cruiser
+222	川内改	3 - Light Cruiser
+223	神通改	3 - Light Cruiser
+224	那珂改	3 - Light Cruiser
+225	陽炎改	2 - Destroyer
+226	不知火改	2 - Destroyer
+227	黒潮改	2 - Destroyer
+228	雪風改	2 - Destroyer
+229	島風改	2 - Destroyer
+230	朧改	2 - Destroyer
+231	曙改	2 - Destroyer
+232	漣改	2 - Destroyer
+233	潮改	2 - Destroyer
+234	暁改	2 - Destroyer
+235	響改	2 - Destroyer
+236	雷改	2 - Destroyer
+237	電改	2 - Destroyer
+238	初春改	2 - Destroyer
+239	子日改	2 - Destroyer
+240	若葉改	2 - Destroyer
+241	初霜改	2 - Destroyer
+242	白露改	2 - Destroyer
+243	時雨改	2 - Destroyer
+244	村雨改	2 - Destroyer
+245	夕立改	2 - Destroyer
+246	五月雨改	2 - Destroyer
+247	涼風改	2 - Destroyer
+248	朝潮改	2 - Destroyer
+249	大潮改	2 - Destroyer
+250	満潮改	2 - Destroyer
+251	荒潮改	2 - Destroyer
+252	霰改	2 - Destroyer
+253	霞改	2 - Destroyer
+254	睦月改	2 - Destroyer
+255	如月改	2 - Destroyer
+256	皐月改	2 - Destroyer
+257	文月改	2 - Destroyer
+258	長月改	2 - Destroyer
+259	菊月改	2 - Destroyer
+260	三日月改	2 - Destroyer
+261	望月改	2 - Destroyer
+262	古鷹改	5 - Heavy Cruiser
+263	加古改	5 - Heavy Cruiser
+264	青葉改	5 - Heavy Cruiser
+265	妙高改	5 - Heavy Cruiser
+266	那智改	5 - Heavy Cruiser
+267	足柄改	5 - Heavy Cruiser
+268	羽黒改	5 - Heavy Cruiser
+269	高雄改	5 - Heavy Cruiser
+270	愛宕改	5 - Heavy Cruiser
+271	摩耶改	5 - Heavy Cruiser
+272	鳥海改	5 - Heavy Cruiser
+273	利根改	5 - Heavy Cruiser
+274	筑摩改	5 - Heavy Cruiser
+275	長門改	9 - Battleship
+276	陸奥改	9 - Battleship
+277	赤城改	11 - Aircraft Carrier
+278	加賀改	11 - Aircraft Carrier
+279	蒼龍改	11 - Aircraft Carrier
+280	飛龍改	11 - Aircraft Carrier
+281	龍驤改	7 - Light Aircraft Carrier
+282	祥鳳改	7 - Light Aircraft Carrier
+283	飛鷹改	7 - Light Aircraft Carrier
+284	隼鷹改	7 - Light Aircraft Carrier
+285	鳳翔改	7 - Light Aircraft Carrier
+286	扶桑改	10 - Aviation Battleship
+287	山城改	10 - Aviation Battleship
+288	翔鶴改	11 - Aircraft Carrier
+289	鬼怒改	3 - Light Cruiser
+290	阿武隈改	3 - Light Cruiser
+291	千歳航改	7 - Light Aircraft Carrier
+292	千代田航改	7 - Light Aircraft Carrier
+293	夕張改	3 - Light Cruiser
+294	舞風改	2 - Destroyer
+295	衣笠改	5 - Heavy Cruiser
+296	千歳航改二	7 - Light Aircraft Carrier
+297	千代田航改二	7 - Light Aircraft Carrier
+300	初風改	2 - Destroyer
+301	秋雲改	2 - Destroyer
+302	夕雲改	2 - Destroyer
+303	巻雲改	2 - Destroyer
+304	長波改	2 - Destroyer
+305	阿賀野改	3 - Light Cruiser
+306	能代改	3 - Light Cruiser
+307	矢矧改	3 - Light Cruiser
+308	弥生改	2 - Destroyer
+309	卯月改	2 - Destroyer
+310	Z1改	2 - Destroyer
+311	Z3改	2 - Destroyer
+312	浜風改	2 - Destroyer
+313	谷風改	2 - Destroyer
+314	酒匂改	3 - Light Cruiser
+316	天津風改	2 - Destroyer
+317	浦風改	2 - Destroyer
+318	龍鳳改	7 - Light Aircraft Carrier
+319	妙高改二	5 - Heavy Cruiser
+320	磯風改	2 - Destroyer
+321	大淀改	3 - Light Cruiser
+322	時津風改	2 - Destroyer
+323	春雨改	2 - Destroyer
+324	早霜改	2 - Destroyer
+325	清霜改	2 - Destroyer
+326	初春改二	2 - Destroyer
+327	朝雲改	2 - Destroyer
+328	山雲改	2 - Destroyer
+329	野分改	2 - Destroyer
+330	秋月改	2 - Destroyer
+331	天城	11 - Aircraft Carrier
+332	葛城	11 - Aircraft Carrier
+334	U-511改	13 - Submarine
+343	香取改	21 - Training Cruiser
+344	朝霜改	2 - Destroyer
+345	高波改	2 - Destroyer
+346	照月改	2 - Destroyer
+347	Libeccio改	2 - Destroyer
+348	瑞穂改	16 - Seaplane Carrier
+349	風雲改	2 - Destroyer
+350	海風改	2 - Destroyer
+351	江風改	2 - Destroyer
+352	速吸改	22 - Fleet Oiler
+353	Graf Zeppelin改	11 - Aircraft Carrier
+354	嵐改	2 - Destroyer
+355	萩風改	2 - Destroyer
+356	鹿島改	21 - Training Cruiser
+357	初月改	2 - Destroyer
+358	Zara改	5 - Heavy Cruiser
+359	沖波改	2 - Destroyer
+360	Iowa改	8 - Battleship
+361	Pola改	5 - Heavy Cruiser
+362	親潮改	2 - Destroyer
+363	春風改	2 - Destroyer
+364	Warspite改	9 - Battleship
+365	Aquila改	11 - Aircraft Carrier
+366	水無月改	2 - Destroyer
+367	伊26改	14 - Aircraft Carrier Submarine
+368	浦波改	2 - Destroyer
+398	伊168改	13 - Submarine
+399	伊58改	14 - Aircraft Carrier Submarine
+400	伊8改	14 - Aircraft Carrier Submarine
+401	伊19改	14 - Aircraft Carrier Submarine
+402	まるゆ改	13 - Submarine
+403	伊401改	14 - Aircraft Carrier Submarine
+404	雲龍	11 - Aircraft Carrier
+405	春雨	2 - Destroyer
+406	雲龍改	11 - Aircraft Carrier
+407	潮改二	2 - Destroyer
+408	隼鷹改二	7 - Light Aircraft Carrier
+409	早霜	2 - Destroyer
+410	清霜	2 - Destroyer
+411	扶桑改二	10 - Aviation Battleship
+412	山城改二	10 - Aviation Battleship
+413	朝雲	2 - Destroyer
+414	山雲	2 - Destroyer
+415	野分	2 - Destroyer
+416	古鷹改二	5 - Heavy Cruiser
+417	加古改二	5 - Heavy Cruiser
+418	皐月改二	2 - Destroyer
+419	初霜改二	2 - Destroyer
+420	叢雲改二	2 - Destroyer
+421	秋月	2 - Destroyer
+422	照月	2 - Destroyer
+423	初月	2 - Destroyer
+424	高波	2 - Destroyer
+425	朝霜	2 - Destroyer
+426	吹雪改二	2 - Destroyer
+427	鳥海改二	5 - Heavy Cruiser
+428	摩耶改二	5 - Heavy Cruiser
+429	天城改	11 - Aircraft Carrier
+430	葛城改	11 - Aircraft Carrier
+431	U-511	13 - Submarine
+432	Graf Zeppelin	11 - Aircraft Carrier
+434	睦月改二	2 - Destroyer
+435	如月改二	2 - Destroyer
+436	呂500	13 - Submarine
+437	暁改二	2 - Destroyer
+439	Warspite	9 - Battleship
+440	Iowa	8 - Battleship
+441	Littorio	8 - Battleship
+442	Roma	8 - Battleship
+443	Libeccio	2 - Destroyer
+444	Aquila	11 - Aircraft Carrier
+445	秋津洲	16 - Seaplane Carrier
+446	Italia	8 - Battleship
+447	Roma改	8 - Battleship
+448	Zara	5 - Heavy Cruiser
+449	Pola	5 - Heavy Cruiser
+450	秋津洲改	16 - Seaplane Carrier
+451	瑞穂	16 - Seaplane Carrier
+452	沖波	2 - Destroyer
+453	風雲	2 - Destroyer
+454	嵐	2 - Destroyer
+455	萩風	2 - Destroyer
+456	親潮	2 - Destroyer
+458	海風	2 - Destroyer
+459	江風	2 - Destroyer
+460	速吸	22 - Fleet Oiler
+461	翔鶴改二	11 - Aircraft Carrier
+462	瑞鶴改二	11 - Aircraft Carrier
+463	朝潮改二	2 - Destroyer
+464	霞改二	2 - Destroyer
+465	鹿島	21 - Training Cruiser
+466	翔鶴改二甲	18 - Armored Aircraft Carrier
+467	瑞鶴改二甲	18 - Armored Aircraft Carrier
+468	朝潮改二丁	2 - Destroyer
+469	江風改二	2 - Destroyer
+470	霞改二乙	2 - Destroyer
+471	神風	2 - Destroyer
+473	春風	2 - Destroyer
+476	神風改	2 - Destroyer
+481	水無月	2 - Destroyer
+483	伊26	13 - Submarine
+486	浦波	2 - Destroyer
+
+### Enemy ships
+501	駆逐イ級	2 - Destroyer
+502	駆逐ロ級	2 - Destroyer
+503	駆逐ハ級	2 - Destroyer
+504	駆逐ニ級	2 - Destroyer
+505	軽巡ホ級	3 - Light Cruiser
+506	軽巡ヘ級	3 - Light Cruiser
+507	軽巡ト級	3 - Light Cruiser
+508	雷巡チ級	4 - Torpedo Cruiser
+509	重巡リ級	5 - Heavy Cruiser
+510	軽母ヌ級	7 - Light Aircraft Carrier
+511	戦艦ル級	9 - Battleship
+512	空母ヲ級	11 - Aircraft Carrier
+513	輸送ワ級	15 - Fleet Oiler
+514	駆逐イ級	2 - Destroyer
+515	駆逐ロ級	2 - Destroyer
+516	駆逐ハ級	2 - Destroyer
+517	駆逐ニ級	2 - Destroyer
+518	軽巡ホ級	3 - Light Cruiser
+519	軽巡ヘ級	3 - Light Cruiser
+520	軽巡ト級	3 - Light Cruiser
+521	雷巡チ級	4 - Torpedo Cruiser
+522	重巡リ級	5 - Heavy Cruiser
+523	軽母ヌ級	7 - Light Aircraft Carrier
+524	戦艦ル級	9 - Battleship
+525	空母ヲ級	11 - Aircraft Carrier
+526	輸送ワ級	15 - Fleet Oiler
+527	重巡リ級	5 - Heavy Cruiser
+528	空母ヲ級	11 - Aircraft Carrier
+529	戦艦ル級	9 - Battleship
+530	潜水カ級	13 - Submarine
+531	潜水ヨ級	13 - Submarine
+532	潜水カ級	13 - Submarine
+533	潜水ヨ級	13 - Submarine
+534	潜水カ級	13 - Submarine
+535	潜水ヨ級	13 - Submarine
+536	浮遊要塞	10 - Aviation Battleship
+537	浮遊要塞	10 - Aviation Battleship
+538	浮遊要塞	10 - Aviation Battleship
+539	泊地棲鬼	10 - Aviation Battleship
+540	泊地棲姫	10 - Aviation Battleship
+541	戦艦タ級	8 - Battleship
+542	戦艦タ級	8 - Battleship
+543	戦艦タ級	8 - Battleship
+544	装甲空母鬼	10 - Aviation Battleship
+545	装甲空母姫	10 - Aviation Battleship
+546	南方棲鬼	10 - Aviation Battleship
+547	南方棲戦鬼	10 - Aviation Battleship
+548	南方棲戦姫	10 - Aviation Battleship
+549	護衛要塞	10 - Aviation Battleship
+550	護衛要塞	10 - Aviation Battleship
+551	護衛要塞	10 - Aviation Battleship
+552	駆逐ロ級	2 - Destroyer
+553	駆逐ハ級	2 - Destroyer
+554	軽巡ホ級	3 - Light Cruiser
+555	軽巡ヘ級	3 - Light Cruiser
+556	飛行場姫	10 - Aviation Battleship
+557	戦艦棲姫	9 - Battleship
+558	輸送ワ級	15 - Fleet Oiler
+559	雷巡チ級	4 - Torpedo Cruiser
+560	軽母ヌ級	7 - Light Aircraft Carrier
+561	戦艦レ級	10 - Aviation Battleship
+562	戦艦レ級	10 - Aviation Battleship
+564	駆逐イ級	2 - Destroyer
+565	空母ヲ級改	11 - Aircraft Carrier
+566	重巡リ級改	5 - Heavy Cruiser
+567	戦艦ル級改	9 - Battleship
+570	潜水ソ級	13 - Submarine
+571	潜水ソ級	13 - Submarine
+572	潜水ソ級	13 - Submarine
+573	港湾棲姫	10 - Aviation Battleship
+574	離島棲鬼	10 - Aviation Battleship
+575	駆逐イ級後期型	2 - Destroyer
+576	駆逐ロ級後期型	2 - Destroyer
+577	駆逐ハ級後期型	2 - Destroyer
+578	駆逐ニ級後期型	2 - Destroyer
+579	空母ヲ級	11 - Aircraft Carrier
+581	北方棲姫	10 - Aviation Battleship
+582	北方棲姫	10 - Aviation Battleship
+583	中間棲姫	10 - Aviation Battleship
+584	中間棲姫	10 - Aviation Battleship
+585	空母棲鬼	11 - Aircraft Carrier
+586	空母棲姫	11 - Aircraft Carrier
+587	北方棲姫	10 - Aviation Battleship
+588	北方棲姫	10 - Aviation Battleship
+589	北方棲姫	10 - Aviation Battleship
+590	北方棲姫	10 - Aviation Battleship
+591	軽巡ツ級	3 - Light Cruiser
+592	軽巡ツ級	3 - Light Cruiser
+594	重巡ネ級	5 - Heavy Cruiser
+595	重巡ネ級	5 - Heavy Cruiser
+597	駆逐棲姫	2 - Destroyer
+598	駆逐棲姫	2 - Destroyer
+599	空母水鬼	11 - Aircraft Carrier
+600	空母水鬼	11 - Aircraft Carrier
+601	軽巡棲鬼	3 - Light Cruiser
+602	軽巡棲鬼	3 - Light Cruiser
+603	戦艦水鬼	9 - Battleship
+604	戦艦水鬼	9 - Battleship
+605	港湾水鬼	10 - Aviation Battleship
+606	港湾水鬼	10 - Aviation Battleship
+607	港湾水鬼	10 - Aviation Battleship
+608	港湾水鬼	10 - Aviation Battleship
+609	泊地水鬼	10 - Aviation Battleship
+610	泊地水鬼	10 - Aviation Battleship
+611	泊地水鬼	10 - Aviation Battleship
+612	泊地水鬼	10 - Aviation Battleship
+613	港湾棲姫	10 - Aviation Battleship
+614	空母ヲ級	11 - Aircraft Carrier
+615	空母ヲ級	11 - Aircraft Carrier
+616	空母ヲ級改	11 - Aircraft Carrier
+617	空母ヲ級改	11 - Aircraft Carrier
+618	空母ヲ級改	11 - Aircraft Carrier
+619	空母棲鬼	11 - Aircraft Carrier
+620	空母棲姫	11 - Aircraft Carrier
+621	駆逐イ級後期型	2 - Destroyer
+622	駆逐ロ級後期型	2 - Destroyer
+623	駆逐ハ級後期型	2 - Destroyer
+624	駆逐ニ級後期型	2 - Destroyer
+625	水母棲姫	16 - Seaplane Carrier
+626	水母棲姫	16 - Seaplane Carrier
+627	水母棲姫	16 - Seaplane Carrier
+628	防空棲姫	2 - Destroyer
+629	防空棲姫	2 - Destroyer
+630	防空棲姫	2 - Destroyer
+631	飛行場姫	10 - Aviation Battleship
+632	飛行場姫	10 - Aviation Battleship
+633	飛行場姫	10 - Aviation Battleship
+634	離島棲鬼	10 - Aviation Battleship
+635	離島棲鬼	10 - Aviation Battleship
+636	離島棲鬼	10 - Aviation Battleship
+637	PT小鬼群	2 - Destroyer
+638	PT小鬼群	2 - Destroyer
+639	PT小鬼群	2 - Destroyer
+640	PT小鬼群	2 - Destroyer
+641	軽巡棲姫	3 - Light Cruiser
+642	軽巡棲姫	3 - Light Cruiser
+643	軽巡棲姫	3 - Light Cruiser
+644	潜水棲姫	13 - Submarine
+645	潜水棲姫	13 - Submarine
+646	潜水棲姫	13 - Submarine
+647	駆逐水鬼	2 - Destroyer
+648	駆逐水鬼	2 - Destroyer
+649	駆逐水鬼	2 - Destroyer
+650	飛行場姫	10 - Aviation Battleship
+651	飛行場姫	10 - Aviation Battleship
+652	飛行場姫	10 - Aviation Battleship
+653	集積地棲姫	10 - Aviation Battleship
+654	集積地棲姫	10 - Aviation Battleship
+655	集積地棲姫	10 - Aviation Battleship
+656	集積地棲姫-壊	10 - Aviation Battleship
+657	集積地棲姫-壊	10 - Aviation Battleship
+658	集積地棲姫-壊	10 - Aviation Battleship
+659	重巡棲姫	5 - Heavy Cruiser
+660	重巡棲姫	5 - Heavy Cruiser
+661	重巡棲姫	5 - Heavy Cruiser
+662	重巡棲姫	5 - Heavy Cruiser
+663	重巡棲姫	5 - Heavy Cruiser
+664	重巡棲姫	5 - Heavy Cruiser
+665	砲台小鬼	9 - Battleship
+666	砲台小鬼	9 - Battleship
+667	砲台小鬼	9 - Battleship
+668	離島棲姫	11 - Aircraft Carrier
+669	離島棲姫	11 - Aircraft Carrier
+670	離島棲姫	11 - Aircraft Carrier
+671	離島棲姫	10 - Aviation Battleship
+672	離島棲姫	9 - Battleship
+673	駆逐古鬼	2 - Destroyer
+674	駆逐古鬼	2 - Destroyer
+675	駆逐古鬼	2 - Destroyer
+676	駆逐水鬼	2 - Destroyer
+677	駆逐水鬼	2 - Destroyer
+678	駆逐水鬼	2 - Destroyer
+679	リコリス棲姫	11 - Aircraft Carrier
+680	リコリス棲姫	11 - Aircraft Carrier
+681	リコリス棲姫	11 - Aircraft Carrier
+682	リコリス棲姫	11 - Aircraft Carrier
+683	リコリス棲姫	11 - Aircraft Carrier
+684	中枢棲姫	9 - Battleship
+685	中枢棲姫	9 - Battleship
+686	中枢棲姫	9 - Battleship
+687	中枢棲姫-壊	9 - Battleship
+688	中枢棲姫-壊	9 - Battleship
+689	中枢棲姫-壊	9 - Battleship
+690	駆逐古姫	2 - Destroyer
+691	駆逐古姫	2 - Destroyer
+692	駆逐古姫	2 - Destroyer
+693	潜水夏姫	13 - Submarine
+694	潜水夏姫	13 - Submarine
+695	潜水夏姫	13 - Submarine
+696	戦艦夏姫	9 - Battleship
+697	戦艦夏姫	9 - Battleship
+698	戦艦夏姫	9 - Battleship
+699	港湾夏姫	10 - Aviation Battleship
+700	港湾夏姫	10 - Aviation Battleship
+701	港湾夏姫	10 - Aviation Battleship
+702	港湾夏姫-壊	10 - Aviation Battleship
+703	港湾夏姫-壊	10 - Aviation Battleship
+704	港湾夏姫-壊	10 - Aviation Battleship
+705	重巡夏姫	5 - Heavy Cruiser
+706	重巡夏姫	5 - Heavy Cruiser
+707	重巡夏姫	5 - Heavy Cruiser
+
+# Player special illustration ships
+869	夏2016曙	2 - Destroyer
+870	夏2016朧	2 - Destroyer
+871	夏2016朧改	2 - Destroyer
+872	夏風雲	2 - Destroyer
+873	夏沖波	2 - Destroyer
+874	夏五十鈴	3 - Light Cruiser
+875	夏扶桑	9 - Battleship
+876	夏山城	9 - Battleship
+877	夏瑞穂	16 - Seaplane Carrier
+878	夏大和	9 - Battleship
+879	夏榛名改二	8 - Battleship
+880	夏大鯨	20 - Submarine Tender
+881	夏龍鳳	7 - Light Aircraft Carrier
+882	夏三隅	5 - Heavy Cruiser
+883	夏大淀	3 - Light Cruiser
+884	夏大淀改	3 - Light Cruiser
+885	夏Libeccio	2 - Destroyer
+886	夏Z3	2 - Destroyer
+887	梅雨曙	2 - Destroyer
+888	梅雨早霜	2 - Destroyer
+889	梅雨清霜	2 - Destroyer
+890	梅雨瑞穂	16 - Seaplane Carrier
+891	梅雨夕立改二	2 - Destroyer
+892	梅雨最上	5 - Heavy Cruiser
+893	梅雨夕張	3 - Light Cruiser
+894	梅雨千歳	16 - Seaplane Carrier
+895	梅雨千代田	16 - Seaplane Carrier
+896	携帯白露	2 - Destroyer
+897	記念日夕雲	2 - Destroyer
+898	記念日長波	2 - Destroyer
+899	記念日春雨改	2 - Destroyer
+900	記念日瑞穂	16 - Seaplane Carrier
