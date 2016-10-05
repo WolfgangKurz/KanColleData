@@ -1,4 +1,4 @@
-Update: 2016-09-27
+Update: 2016-10-05
 
 ### Packed items : [Fuel],[Ammo],[Steel],[Bauxite],[Instance Build],[Instance Repair],[Dev. Material],[Dock Key]
 
@@ -29,3 +29,4 @@ ID	Type	Name	Packed items	Price
 24	0	戦闘糧食	0,0,0,0,0,0,0,0	300
 25	0	洋上補給	0,0,0,0,0,0,0,0	300
 26	0	補強増設	0,0,0,0,0,0,0,0	500
+27	0	設営隊	0,0,0,0,0,0,0,0	800

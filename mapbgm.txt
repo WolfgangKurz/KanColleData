@@ -1,4 +1,4 @@
-Update: 2016-09-27
+Update: 2016-10-05
 
 ### Global/Boss BGM : [Day bgm],[Night bgm]
 
@@ -33,3 +33,4 @@ ID	MapArea ID	Map No.	Global BGM	Boss BGM
 62	6	2	29,9	3,3
 63	6	3	8,3	4,5
 64	6	4	38,4	49,41
+65	6	5	75,75	68,68
