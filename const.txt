@@ -1,4 +1,4 @@
-Update: 2016-09-27
+Update: 2016-11-04
 
 ### dpflag_quest
 ### *Unknown
@@ -8,7 +8,7 @@ String Value	Int Value
 ### boko_max_ships
 ### Limit ship count in system
 String Value	Int Value
-	300
+	310
 
 ### parallel_quest_max
 ### Limit parralel quests count in system

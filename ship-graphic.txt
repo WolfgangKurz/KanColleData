@@ -1,4 +1,4 @@
-Update: 2016-09-27
+Update: 2016-11-04
 
 ### Player ships
 ID	Name	Graphic Name	Missing?	Comment
@@ -456,6 +456,7 @@ ID	Name	Graphic Name	Missing?	Comment
 484		zvjbcleziwsc	*404	
 485		hskuxickjvmq	*404	
 486	浦波	qhphdxqmvzbq		
+487	鬼怒改二	glyidgppuqgp		
 
 ### Enemy ships
 ID	Name	Graphic Name	Missing?	Comment
@@ -669,6 +670,33 @@ ID	Name	Graphic Name	Missing?	Comment
 
 ### Player special illustrations ships
 ID	Name	Graphic Name	Missing?	Comment
+842	浴衣由良	vnhbkfjruikl		
+843	浴衣白露	cxmxeqsgxcix		
+844	浴衣秋月	tolgcxoomscl		
+845	浴衣陸奥	xpedaxvnvqgx		
+846	浴衣長波	zlhmohkqussw		
+847	法被吹雪	sehxytrphuxw		
+848	法被吹雪改二	qnmefxopcssh		
+849	法被朝霜	sduqgcukckil		
+850	法被夕雲	evgewnjxplnw		
+851	法被扶桑	mnbzjtgevkey		
+852	秋刀魚多摩	yvvgrjleziyn		
+853	秋刀魚あきつ丸	cnchtwdgehkc		
+854	秋刀魚時雨改二	styrhweqvizy		
+855	秋刀魚大鯨	uwfdjmyijrtb		
+856	秋刀魚龍鳳	cfjtqygxbcak		
+857	秋刀魚Zara	njlsuukdxrhj		
+858	親子丼秋雲	dokcdrcflqny		
+859	親子丼瑞穂	gjgogzpuwprg		
+860	親子丼赤城	tohgloixhvkg		
+861	親子丼秋津洲	siqutnqjmfbb		
+862	親子丼山城	htwkvjneqvsv		
+863	親子丼夕立改二	sibuqqflpldw		
+864	買い出し金剛	wcyosiiiaqyu		
+865	買い出し金剛改二	smpphyxmgtbb		
+866	買い出し天城	ffweetfkupoz		
+867	親子丼Roma	imrniyblbspo		
+868	親子丼曙	rgbqipzruvqx		
 869	夏2016曙	ucnnjkrhtmwp		
 870	夏2016朧	fzgycvebrwfw		
 871	夏2016朧改	lrosjupgxfte		
