@@ -1,4 +1,4 @@
-Update: 2016-11-04
+Update: 2016-11-19
 
 ### Player ships
 ID	Name	Graphic Name	Missing?	Comment
@@ -457,6 +457,10 @@ ID	Name	Graphic Name	Missing?	Comment
 485		hskuxickjvmq	*404	
 486	浦波	qhphdxqmvzbq		
 487	鬼怒改二	glyidgppuqgp		
+488		rwectccrwkub	*404	
+489		nhulrhmihxop	*404	
+490		hrkuspdmjtmd	*404	
+491	Commandant Teste	ighfxhygboim	*404	
 
 ### Enemy ships
 ID	Name	Graphic Name	Missing?	Comment
@@ -667,6 +671,14 @@ ID	Name	Graphic Name	Missing?	Comment
 705	重巡夏姫	fkycdytrlsoi		
 706	重巡夏姫	vypyuolwdpvk		
 707	重巡夏姫	lfkukwtsuruo		
+708	水母水姫	wakhgkznssbr	*404	
+709	水母水姫	onwowtuekpjn	*404	
+710	水母水姫	koyguaurwprc	*404	
+711	深海海月姫	slqhgxidlkwx	*404	
+712	深海海月姫	wpakfsjikjdg	*404	
+713	深海海月姫	qdrobavpfofp	*404	
+714	空母ヲ級改	gwptvxbbxkqp	*404	
+715	空母ヲ級改	hjdgjoifrubd	*404	
 
 ### Player special illustrations ships
 ID	Name	Graphic Name	Missing?	Comment

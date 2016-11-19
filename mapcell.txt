@@ -1,4 +1,7 @@
-Update: 2016-10-05
+Update: 2016-11-19
+
+### Comment
+api_start2 do not contains mapcell data anymore.
 
 ### Cell type
 0	Start position

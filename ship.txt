@@ -1,4 +1,4 @@
-Update: 2016-11-04
+Update: 2016-11-19
 
 ### Ship Type : See shiptype.txt
 ### After Upgrade : Ship id after upgrade
@@ -378,6 +378,8 @@ ID	Sort No.	Name	Yomi	Ship Type	Upgrade Level	After Upgrade	Max Hp	Armor	Fire po
 366	1446	水無月改	みなづき	2	0	0	24,39	11,39	9,39	18,69	12,39	16,66	10	1	3	0,0,0,0,0	18	1,1,4,0	1,1,0,0	5	0	0	15	15	3
 367	1447	伊26改	い26	14	0	0	18,24	5,19	3,12	39,86	0,0	16,66	5	1	2	1,1,0,0,0	22	1,2,2,2	0,2,1,0	5	0	0	10	25	3
 368	1448	浦波改	うらなみ	2	0	0	30,49	13,49	12,49	28,79	16,54	17,67	10	1	3	0,0,0,0,0	20	1,2,10,0	1,1,1,1	5	0	0	15	20	3
+369	1449	山風改	やまかぜ	2	0	0	30,48	14,48	13,51	28,82	15,49	8,59	10	1	3	0,0,0,0,0	22	1,2,10,0	1,1,1,1	5	0	0	15	20	3
+372	1452	Commandant Teste改	コマンダン・テスト	16	0	0	43,64	26,56	32,58	0,0	20,48	20,88	5	1	4	12,12,7,7,0	140	3,4,13,6	2,0,1,3	7	0	0	40	50	3
 398	1498	伊168改	い168	13	0	0	15,19	5,18	3,11	30,69	0,0	10,49	5	1	2	0,0,0,0,0	22	1,2,2,1	0,2,0,0	4	0	0	10	20	3
 399	1499	伊58改	い58	14	0	0	18,24	5,19	3,12	36,84	0,0	50,79	5	1	2	1,1,0,0,0	22	1,2,2,2	0,2,1,0	5	0	0	10	25	3
 400	1500	伊8改	い8	14	0	0	19,25	5,19	4,14	36,84	0,0	25,69	5	1	2	1,1,0,0,0	22	1,2,2,2	0,2,1,0	6	0	0	10	25	3
@@ -435,6 +437,7 @@ ID	Sort No.	Name	Yomi	Ship Type	Upgrade Level	After Upgrade	Max Hp	Armor	Fire po
 454	254	嵐	あらし	2	35	354	16,34	6,19	10,29	24,69	9,39	11,49	10	1	2	0,0,0,0,0	24	1,1,6,0	0,1,0,1	5	110	140	15	20	1
 455	255	萩風	はぎかぜ	2	35	355	16,34	6,19	11,30	24,69	9,39	11,49	10	1	2	0,0,0,0,0	24	1,1,6,0	0,1,0,1	5	110	140	15	20	1
 456	256	親潮	おやしお	2	35	362	16,34	6,19	10,30	24,68	9,37	13,50	10	1	2	0,0,0,0,0	24	1,1,6,0	0,1,0,1	5	110	140	15	20	1
+457	257	山風	やまかぜ	2	45	369	16,32	6,19	11,31	24,69	8,38	6,39	10	1	2	0,0,0,0,0	22	1,1,5,0	0,1,0,0	4	100	180	15	20	1
 458	258	海風	うみかぜ	2	30	350	16,32	6,19	10,29	24,69	10,40	10,49	10	1	2	0,0,0,0,0	22	1,1,5,0	0,1,0,0	4	100	150	15	20	1
 459	259	江風	かわかぜ	2	30	351	16,32	6,19	10,29	25,70	9,39	10,49	10	1	2	0,0,0,0,0	22	1,1,5,0	0,1,0,0	4	100	150	15	20	1
 460	260	速吸	はやすい	22	25	352	43,50	3,15	4,22	0,0	10,32	7,39	5	1	2	6,1,0,0,0	220	6,0,20,1	0,0,1,1	6	270	200	100	15	1
@@ -455,6 +458,7 @@ ID	Sort No.	Name	Yomi	Ship Type	Upgrade Level	After Upgrade	Max Hp	Armor	Fire po
 483	283	伊26	い26	13	50	367	14,19	4,18	2,9	32,75	0,0	14,51	5	1	1	0,0,0,0,0	22	1,2,2,1	0,2,0,0	4	140	200	10	20	1
 486	286	浦波	うらなみ	2	30	368	15,29	5,19	10,29	27,69	10,39	14,54	10	1	2	0,0,0,0,0	20	1,1,5,0	0,1,0,0	4	100	100	15	20	1
 487	287	鬼怒改二	きぬ	3	0	0	45,61	29,68	15,55	28,82	41,83	17,72	10	1	3	1,1,1,0,0	75	2,2,10,0	1,2,2,2	7	0	0	25	30	3
+491	291	Commandant Teste	コマンダン・テスト	16	40	372	42,63	24,50	28,48	0,0	18,40	17,79	5	1	3	12,7,7,0,0	140	3,4,13,6	2,0,1,3	6	200	380	
 
 ### Enemy ships
 ID	Sort No.	Name	Yomi	Ship Type	Upgrade Level	After Upgrade	Max Hp	Armor	Fire power	Torpedo power	AA Power	Luck	Speed	Range	Slot count	Airplanes	Build mins	Materials on broken	Powerup point	Rarity	Required fuel	Required ammo	Max fuel	Max ammo	Voice bits
@@ -659,6 +663,14 @@ ID	Sort No.	Name	Yomi	Ship Type	Upgrade Level	After Upgrade	Max Hp	Armor	Fire po
 705		重巡夏姫		5									10		4										
 706		重巡夏姫		5									10		4										
 707		重巡夏姫		5									10		4										
+708		水母水姫		16									5		4										
+709		水母水姫		16									5		4										
+710		水母水姫		16									5		4										
+711		深海海月姫		11									10		4										
+712		深海海月姫		11									10		4										
+713		深海海月姫		11									10		4										
+714		空母ヲ級改	flagship	11									10		4										
+715		空母ヲ級改	flagship	11									10		4						
 
 # Player special illustration ships
 ID	Sort No.	Name	Yomi	Ship Type	Upgrade Level	After Upgrade	Max Hp	Armor	Fire power	Torpedo power	AA Power	Luck	Speed	Range	Slot count	Airplanes	Build mins	Materials on broken	Powerup point	Rarity	Required fuel	Required ammo	Max fuel	Max ammo	Voice bits

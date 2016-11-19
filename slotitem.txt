@@ -1,4 +1,4 @@
-Update: 2016-11-04
+Update: 2016-11-19
 
 ### Types : [Big Category],[Dictionary Category],[Category],[Icon ID],[Airplane Category]
 
@@ -331,6 +331,12 @@ ID	Name	Types	HP	Armor	Fire power	Torpedo power	Speed	Bombing	AA Power	Anti-Subm
 191	QF 2ポンド8連装ポンポン砲	4,6,21,15,0	0	0	1	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	3	0,6,1,2	0	6	3
 192	38.1cm Mk.I/N連装砲改	1,1,3,3,0	0	0	19	0	0	0	3	0	0	2	0	0	0	0	0	0	0	3	4	0,12,19,2	0	6	3
 193	特大発動艇	8,14,24,20,0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2,2,0,1	0	6	3
+194	Laté 298B	5,7,11,10,2	0	0	2	4	0	5	1	2	0	0	0	1	0	0	4	0	0	0	3	2,4,0,5	0	7	4
+195	SBD	3,5,7,7,14	0	0	1	0	0	6	2	3	0	1	0	2	0	0	2	0	0	0	2	1,3,0,2	0	5	4
+196	TBD	3,5,8,8,14	0	0	1	5	0	0	0	4	0	0	0	0	0	0	2	0	0	0	2	1,4,0,3	0	6	4
+197	F4F-3	3,5,6,6,14	0	0	1	0	0	0	4	0	0	0	0	2	0	0	0	0	0	0	2	1,2,0,2	0	5	4
+198	F4F-4	3,5,6,6,14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1,0,0,0	0	5	4
+199	SB2U	3,5,7,7,15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1,0,0,0	0	5	4
 
 ### Enemy slotitems
 ID	Name	Types	HP	Armor	Fire	Torpedo	Speed	Bombing	Anti-Air	Anti-Submerine	???	Hit chance	Torpedo hit chance	Evasion	Evasion chance	Bombing evasion chance	Search	Search interruption	Luck	Length	Rarity	Materials on broken	UseBull(???)	Airplane Cost	Airplane Distance
@@ -404,3 +410,5 @@ ID	Name	Types	HP	Armor	Fire	Torpedo	Speed	Bombing	Anti-Air	Anti-Submerine	???	Hi
 568	16inch三連装砲	1,1,3,3,0	0	1	24	0	0	0	3	0	0	4	0	0	0	0	0	0	0	3	5	0,0,0,0	0	6	3
 569	深海偵察飛行艇	5,7,10,10,0	0	0	3	0	0	0	1	2	0	8	0	0	0	0	9	0	0	0	4	0,0,0,0	0	6	3
 570	高速深海魚雷 mod.2	2,3,22,5,0	0	0	0	13	0	0	0	0	0	3	0	0	0	0	0	0	0	1	4	0,0,0,0	0	6	3
+571	深海水母小鬼機	5,7,11,10,0	0	4	4	0	0	15	11	15	0	8	0	0	0	0	8	0	0	4	5	0,0,0,0	0	5	4
+572	深海熊猫艦戦	3,5,6,6,0	0	8	8	0	0	0	18	0	0	8	0	8	0	0	0	0	0	0	5	0,0,0,0	0	5	4
