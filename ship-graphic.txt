@@ -1,4 +1,4 @@
-Update: 2016-11-19
+Update: 2016-11-19 v2
 
 ### Player ships
 ID	Name	Graphic Name	Missing?	Comment
@@ -367,6 +367,10 @@ ID	Name	Graphic Name	Missing?	Comment
 366	水無月改	mnqveismubcz		
 367	伊26改	whdxgwhsflxf		
 368	浦波改	uvihthcdkhof		
+369	山風改	qfyztscquxza	*404	
+370	朝風改	sfhznwdwstgj	*404	
+371		bzigjflbyxbe	*404	
+372	Commandant Teste改	wgyatqtsrghn	*404	
 398	伊168改	dyfnguymthbd		
 399	伊58改	hosmgvuzyjlw		
 400	伊8改	fggcskrfkpnr		
@@ -402,12 +406,12 @@ ID	Name	Graphic Name	Missing?	Comment
 430	葛城改	bohmlbbvqtfs		
 431	U-511	ksvosfducgbe		
 432	Graf Zeppelin	tepoqqczfonx		
-433		qtuuhjmqmvfh	*404	
+433	Saratoga	qtuuhjmqmvfh	*404	
 434	睦月改二	idhoawqrgkqh		
 435	如月改二	ygqdfllpkbee		
 436	呂500	wnibjvejengh		
 437	暁改二	gzerqivthcrd		
-438		wmebertagnxm	*404	
+438	Saratoga改	wmebertagnxm	*404	
 439	Warspite	lnltescodihe		
 440	Iowa	tgknyzwyexxt		
 441	Littorio	hkhkiqkleprp		
@@ -426,7 +430,7 @@ ID	Name	Graphic Name	Missing?	Comment
 454	嵐	nguivbnbevwd		
 455	萩風	xxbsgzxwjqxh		
 456	親潮	dvcslbfkmdsy		
-457		tvieoobotato	*404	
+457	山風	tvieoobotato	*404	
 458	海風	rnmsjjndxlgj		
 459	江風	jdpiljspxgpz		
 460	速吸	ajggcaaaocgh		
@@ -441,7 +445,7 @@ ID	Name	Graphic Name	Missing?	Comment
 469	江風改二	rwrhhyeloenn		
 470	霞改二乙	vxrvwfxhlbag		
 471	神風	xqqqhgvzjuae		
-472		fmsaumjkejlm	*404	
+472	朝風	fmsaumjkejlm	*404	
 473	春風	gfogtnmgovlq		
 474		uesladlyqrru	*404	
 475		sbvnvwfihmrd	*404	
