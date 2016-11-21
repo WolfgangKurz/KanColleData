@@ -1,7 +1,7 @@
 <?php
 require_once('common.php');
 
-// echo print_r( json_decode($src), true );
+// echo print_r( $json, true );
 // exit;
 
 echo "\nbgm.txt -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n";
