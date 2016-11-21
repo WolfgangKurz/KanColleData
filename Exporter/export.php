@@ -181,43 +181,6 @@ foreach($json->api_mst_ship as $s){
 	echo "\n";
 }
 
-// 함선 리스트
-/*
-$xx = array(); // 제외 번호
-foreach($out->ships as $s){
-	$id = $s['x']->api_id;
-	$id = intval($id);
-
-	if( in_array($id, $xx) ) continue;
-
-	//print_r($s);
-//	echo "\t\t\t";
-//	echo '<option value="' . $s['x']->api_id . '">';
-	echo "ship".$s['x']->api_id."\t";
-	echo $s['name'] . ' (' . $s['yomi'] . ')';
-//	echo "</option>";
-	echo "\n";
-}
-// */
-
-/*
-// 특정 이름의 함선만
-foreach($json->api_mst_ship as $s){
-	$id = $s->api_id;
-	$id = intval($id);
-
-	if( strpos($s->api_name, '夏姫')===false ) continue;
-	// if( in_array($id, $xx) ) continue;
-
-	//print_r($s);
-	echo "\t\t\t";
-	echo '<option value="' . $s->api_id . '">';
-	echo $s->api_name;
-	echo "</option>";
-	echo "\n";
-}
-// */
-
 echo "\nship-graphic.txt -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n";
 
 // 함선 그래픽 리스트 (ship-graphic.txt)
@@ -361,9 +324,3 @@ foreach($json->api_mst_useitem as $s){
 	echo "\t" . $s->api_price;
 	echo "\n";
 }
-
-// 전체 raw 데이터
-/*
-echo print_r( json_decode($src), true );
-// echo $src;
-*/
