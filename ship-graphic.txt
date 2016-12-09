@@ -1,4 +1,4 @@
-Update: 2016-11-19 v2
+Update: 2016-12-09
 
 ### Player ships
 ID	Name	Graphic Name	Missing?	Comment
@@ -686,6 +686,7 @@ ID	Name	Graphic Name	Missing?	Comment
 
 ### Player special illustrations ships
 ID	Name	Graphic Name	Missing?	Comment
+841	Xmas漣改	lsxmdfvwuvnj	*404	
 842	浴衣由良	vnhbkfjruikl		
 843	浴衣白露	cxmxeqsgxcix		
 844	浴衣秋月	tolgcxoomscl		
