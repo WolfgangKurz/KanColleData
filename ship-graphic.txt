@@ -1,4 +1,4 @@
-Update: 2016-12-09
+Update: 2017-01-25
 
 ### Player ships
 ID	Name	Graphic Name	Missing?	Comment
@@ -463,7 +463,7 @@ ID	Name	Graphic Name	Missing?	Comment
 487	鬼怒改二	glyidgppuqgp		
 488		rwectccrwkub	*404	
 489		nhulrhmihxop	*404	
-490		hrkuspdmjtmd	*404	
+490	荒潮改二	hrkuspdmjtmd	
 491	Commandant Teste	ighfxhygboim	*404	
 
 ### Enemy ships

@@ -1,4 +1,4 @@
-Update: 2016-12-24
+Update: 2017-01-25
 
 ### Types : [Big Category],[Dictionary Category],[Category],[Icon ID],[Airplane Category]
 
@@ -339,6 +339,7 @@ ID	Name	Types	HP	Armor	Fire power	Torpedo power	Speed	Bombing	AA Power	Anti-Subm
 199	噴式景雲改	3,40,57,39,22	0	0	0	0	0	15	6	0	0	1	0	0	0	0	3	0	0	3	5	7,5,12,16	0	14	3
 200	橘花改	3,40,57,40,23	0	0	0	0	0	11	12	0	0	0	0	1	0	0	0	0	0	3	5	6,4,10,14	0	13	2
 204	艦本新設計 増設バルジ(大型艦)	6,17,28,23,0	0	10	0	0	0	0	0	0	0	0	0	-2	0	0	0	0	0	0	3	0,0,30,3	0	13	2
+205	F6F-3	3,5,6,6,21	0	0	1	0	0	0	8	0	0	1	0	2	0	0	1	0	0	0	4	1,2,0,3	0	8	5
 
 ### Enemy slotitems
 ID	Name	Types	HP	Armor	Fire	Torpedo	Speed	Bombing	Anti-Air	Anti-Submerine	???	Hit chance	Torpedo hit chance	Evasion	Evasion chance	Bombing evasion chance	Search	Search interruption	Luck	Length	Rarity	Materials on broken	UseBull(???)	Airplane Cost	Airplane Distance
