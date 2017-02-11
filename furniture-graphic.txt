@@ -1,4 +1,4 @@
-Update: 2017-01-25
+Update: 2017-02-12
 
 ### Animated/Reactive furnitures only on this data (swf)
 
@@ -43,3 +43,5 @@ ID	Category	No.	Name	Filename	Version
 318	2	45	ラヂオの窓	046	1
 319	2	46	ラヂオと高級職人窓	047	1
 328	5	72	節分の原稿机	073	1
+333	2	47	如月の窓	048	1
+334	4	47	潜水空母な桐箪笥	048	1

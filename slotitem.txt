@@ -1,4 +1,4 @@
-Update: 2017-01-25
+Update: 2017-02-12
 
 ### Types : [Big Category],[Dictionary Category],[Category],[Icon ID],[Airplane Category]
 
@@ -340,6 +340,12 @@ ID	Name	Types	HP	Armor	Fire power	Torpedo power	Speed	Bombing	AA Power	Anti-Subm
 200	橘花改	3,40,57,40,23	0	0	0	0	0	11	12	0	0	0	0	1	0	0	0	0	0	3	5	6,4,10,14	0	13	2
 204	艦本新設計 増設バルジ(大型艦)	6,17,28,23,0	0	10	0	0	0	0	0	0	0	0	0	-2	0	0	0	0	0	0	3	0,0,30,3	0	13	2
 205	F6F-3	3,5,6,6,21	0	0	1	0	0	0	8	0	0	1	0	2	0	0	1	0	0	0	4	1,2,0,3	0	8	5
+207	瑞雲(六三一空)	5,7,11,10,2	0	0	0	0	0	7	1	2	0	2	0	0	0	0	4	0	0	0	3	2,3,0,5	0	6	5
+208	晴嵐(六三一空)	5,7,11,10,2	0	0	0	0	0	12	0	3	0	2	0	0	0	0	6	0	0	0	5	4,5,0,20	0	10	4
+209	彩雲(輸送用分解済)	23,41,50,41,0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2,0,0,11	0	10	4
+210	潜水艦搭載電探&水防式望遠鏡	24,42,51,42,0	0	0	1	0	0	0	1	0	0	2	0	8	0	0	4	0	0	0	2	0,0,12,13	0	10	4
+211	潜水艦搭載電探&逆探(E27)	24,42,51,42,0	0	0	1	0	0	0	1	0	0	3	0	11	0	0	5	0	0	0	4	0,0,13,15	0	10	4
+212	彩雲(東カロリン空)	5,7,9,9,1	0	0	1	0	0	0	0	0	0	2	0	0	0	0	10	0	0	0	4	2,0,0,11	0	9	8
 
 ### Enemy slotitems
 ID	Name	Types	HP	Armor	Fire	Torpedo	Speed	Bombing	Anti-Air	Anti-Submerine	???	Hit chance	Torpedo hit chance	Evasion	Evasion chance	Bombing evasion chance	Search	Search interruption	Luck	Length	Rarity	Materials on broken	UseBull(???)	Airplane Cost	Airplane Distance
@@ -415,3 +421,4 @@ ID	Name	Types	HP	Armor	Fire	Torpedo	Speed	Bombing	Anti-Air	Anti-Submerine	???	Hi
 570	高速深海魚雷 mod.2	2,3,22,5,0	0	0	0	13	0	0	0	0	0	3	0	0	0	0	0	0	0	1	4	0,0,0,0	0	6	3
 571	深海水母小鬼機	5,7,11,10,0	0	4	4	0	0	15	11	15	0	8	0	0	0	0	8	0	0	4	5	0,0,0,0	0	5	4
 572	深海熊猫艦戦	3,5,6,6,0	0	8	8	0	0	0	18	0	0	8	0	8	0	0	0	0	0	0	5	0,0,0,0	0	5	4
+573	深海潜水下駄履き	5,7,11,10,0	0	3	6	0	0	18	6	9	0	12	0	6	0	0	3	0	0	5	5	0,0,0,0	0	9	8

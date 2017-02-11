@@ -1,4 +1,4 @@
-Update: 2017-01-25
+Update: 2017-02-12
 
 ### Player ships
 ID	Name	Graphic Name	Missing?	Comment
@@ -369,8 +369,11 @@ ID	Name	Graphic Name	Missing?	Comment
 368	浦波改	uvihthcdkhof		
 369	山風改	qfyztscquxza	*404	
 370	朝風改	sfhznwdwstgj	*404	
-371		bzigjflbyxbe	*404	
+371	松風改	bzigjflbyxbe	*404	
 372	Commandant Teste改	wgyatqtsrghn	*404	
+373	藤波改	kbnitqplofhm	*404	
+374	伊13改	hmjwmfpdcuur	*404	
+375	伊14改	fhcabilueqsn	*404	
 398	伊168改	dyfnguymthbd		
 399	伊58改	hosmgvuzyjlw		
 400	伊8改	fggcskrfkpnr		
@@ -447,7 +450,7 @@ ID	Name	Graphic Name	Missing?	Comment
 471	神風	xqqqhgvzjuae		
 472	朝風	fmsaumjkejlm	*404	
 473	春風	gfogtnmgovlq		
-474		uesladlyqrru	*404	
+474	松風	uesladlyqrru	*404	
 475		sbvnvwfihmrd	*404	
 476	神風改	osxrcrtldvru		
 477		aoprntdhsoqa	*404	
@@ -458,13 +461,17 @@ ID	Name	Graphic Name	Missing?	Comment
 482		zknpscxchueo	*404	
 483	伊26	qrubiqfijtfp		
 484		zvjbcleziwsc	*404	
-485		hskuxickjvmq	*404	
+485	藤波	hskuxickjvmq	*404	
 486	浦波	qhphdxqmvzbq		
 487	鬼怒改二	glyidgppuqgp		
 488		rwectccrwkub	*404	
 489		nhulrhmihxop	*404	
 490	荒潮改二	hrkuspdmjtmd	
 491	Commandant Teste	ighfxhygboim	*404	
+492		mbuqrrnwsofd	*404	
+493		lksmyghdkbsg	*404	
+494	伊13	sfficpxrcodd	*404	
+495	伊14	umpejcgdjwrp	*404	
 
 ### Enemy ships
 ID	Name	Graphic Name	Missing?	Comment
@@ -683,6 +690,12 @@ ID	Name	Graphic Name	Missing?	Comment
 713	深海海月姫	qdrobavpfofp	*404	
 714	空母ヲ級改	gwptvxbbxkqp	*404	
 715	空母ヲ級改	hjdgjoifrubd	*404	
+716	深海双子棲姫	hnyleqioqwbg	*404	
+717	深海双子棲姫	eyavbkujyhgg	*404	
+718	深海双子棲姫	elutjwomljhb	*404	
+719	深海双子棲姫-壊	zjpejeuzugmm	*404	
+720	深海双子棲姫-壊	axsfthjltgqj	*404	
+721	深海双子棲姫-壊	cbxpmvwybotl	*404	
 
 ### Player special illustrations ships
 ID	Name	Graphic Name	Missing?	Comment

@@ -1,4 +1,4 @@
-Update: 2017-01-25
+Update: 2017-02-12
 
 ### Global/Boss BGM : [Day bgm],[Night bgm]
 
@@ -34,3 +34,6 @@ ID	MapArea ID	Map No.	Global BGM	Boss BGM
 63	6	3	8,3	4,5
 64	6	4	38,4	49,41
 65	6	5	75,75	68,68
+371	37	1	87,87	87,87
+372	37	2	87,87	88,88
+373	37	3	88,88	89,89
