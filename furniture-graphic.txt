@@ -1,4 +1,4 @@
-Update: 2017-02-12
+Update: 2017-02-28
 
 ### Animated/Reactive furnitures only on this data (swf)
 
@@ -45,3 +45,4 @@ ID	Category	No.	Name	Filename	Version
 328	5	72	節分の原稿机	073	1
 333	2	47	如月の窓	048	1
 334	4	47	潜水空母な桐箪笥	048	1
+336	2	48	弥生の窓	049	1

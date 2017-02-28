@@ -1,4 +1,4 @@
-Update: 2017-01-25
+Update: 2017-02-28
 
 ### After,Before,Base : Ship id
 
@@ -73,3 +73,4 @@ After	Before	Base	After Name	Before Name	Original Name	Upgrade Type	Upgrade Leve
 470	464	49	霞改二乙	霞改二	霞	1	3	0	0	267
 487	289	113	鬼怒改二	鬼怒改	鬼怒	1	2	1	0	287
 490	251	98	荒潮改二	荒潮改	荒潮	1	2	1	0	290
+496	358	448	Zara due	Zara改	Zara	1	2	1	0	296

@@ -1,4 +1,4 @@
-Update: 2017-02-12
+Update: 2017-02-28
 
 ### Player ships
 ID	Name	Graphic Name	Missing?	Comment
@@ -472,6 +472,7 @@ ID	Name	Graphic Name	Missing?	Comment
 493		lksmyghdkbsg	*404	
 494	伊13	sfficpxrcodd	*404	
 495	伊14	umpejcgdjwrp	*404	
+496	Zara due	jprnkicueltw	*404	
 
 ### Enemy ships
 ID	Name	Graphic Name	Missing?	Comment
@@ -699,6 +700,31 @@ ID	Name	Graphic Name	Missing?	Comment
 
 ### Player special illustrations ships
 ID	Name	Graphic Name	Missing?	Comment
+816	Valentine水無月	zvkxppkfckwp	*404	
+817	Valentine朧	rotcxwtkglry	*404	
+818	Valentine高波	wuyeeipzxvdo	*404	
+819	ValentineCommandant Teste	eoyicecihhto	*404	
+820	節分明石	eboypbxgbjmf	*404	
+821	節分明石改	mdaifbnlfgnu	*404	
+822	節分風雲	ioqikvmbsopc	*404	
+823	節分浦波	rtykufjhyqmr	*404	
+824	節分Commandant Teste	sssddmrqqxrc	*404	
+825	正月Iowa	jbqnlsbgvlll	*404	
+826	正月鳳翔	epvwbrsckdxd	*404	
+827	正月山風	jbdxzljeqpvb	*404	
+828	買い物Pola	itbynvalzvbp	*404	
+829	Xmas鈴谷	cainepgyisnq	*404	
+830	Xmas熊野	glvdojurfytu	*404	
+831	Xmas朝雲	dsjkefdxnkab	*404	
+832	Xmas山雲	xjwfkgnujghl	*404	
+833	Xmas瑞穂	qcdjbqihbwdi	*404	
+834	Xmas筑摩改二	qyfkupkrotyi	*404	
+835	Xmas利根改二	amsnfcvsfnmg	*404	
+836	Xmasまるゆ	rbxxrczhilmo	*404	
+837	Xmas球磨	gmemyaqwodws	*404	
+838	XmasCommandant Teste	qfrkqmngcmsh	*404	
+839	Xmas明石改	leohcvdxisxm	*404	
+840	Xmas明石	clbllbonryxc	*404	
 841	Xmas漣改	lsxmdfvwuvnj	*404	
 842	浴衣由良	vnhbkfjruikl		
 843	浴衣白露	cxmxeqsgxcix		

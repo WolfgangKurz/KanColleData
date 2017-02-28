@@ -1,4 +1,4 @@
-Update: 2017-02-12
+Update: 2017-02-28
 
 ### Ship Type : See shiptype.txt
 ### After Upgrade : Ship id after upgrade
@@ -472,6 +472,7 @@ ID	Sort No.	Name	Yomi	Ship Type	Upgrade Level	After Upgrade	Max Hp	Armor	Fire po
 491	291	Commandant Teste	コマンダン・テスト	16	40	372	42,63	24,50	28,48	0,0	18,40	17,79	5	1	3	12,7,7,0,0	140	3,4,13,6	2,0,1,3	6	200	380	35	40	1
 494	294	伊13	い13	14	35	374	20,24	5,24	2,9	36,72	0,0	20,59	5	1	1	3,0,0,0,0	200	1,2,3,2	0,1,1,1	5	300	100	20	15	1
 495	295	伊14	い14	14	35	375	20,24	5,24	2,9	36,72	0,0	20,59	5	1	1	3,0,0,0,0	200	1,2,3,2	0,1,1,1	6	300	100	20	15	1
+496	296	Zara due	ザラ	5	0	0	62,74	55,88	57,87	0,48	35,90	17,70	10	3	4	6,3,3,3,0	70	4,10,25,5	4,0,2,3	8	0	0	50	80	3
 
 ### Enemy ships
 ID	Sort No.	Name	Yomi	Ship Type	Upgrade Level	After Upgrade	Max Hp	Armor	Fire power	Torpedo power	AA Power	Luck	Speed	Range	Slot count	Airplanes	Build mins	Materials on broken	Powerup point	Rarity	Required fuel	Required ammo	Max fuel	Max ammo	Voice bits
@@ -693,6 +694,15 @@ ID	Sort No.	Name	Yomi	Ship Type	Upgrade Level	After Upgrade	Max Hp	Armor	Fire po
 
 # Player special illustration ships
 ID	Sort No.	Name	Yomi	Ship Type	Upgrade Level	After Upgrade	Max Hp	Armor	Fire power	Torpedo power	AA Power	Luck	Speed	Range	Slot count	Airplanes	Build mins	Materials on broken	Powerup point	Rarity	Required fuel	Required ammo	Max fuel	Max ammo	Voice bits
+816		Valentine水無月	みなづき	2									10		2										
+817		Valentine朧	おぼろ	2									10		2										
+818		Valentine高波	たかなみ	2									10		2										
+819		ValentineCommandant Teste	コマンダン・テスト	16									5		3										
+820		節分明石	あかし	19									5		3										
+821		節分明石改	あかし	19									5		4										
+822		節分風雲	かざぐも	2									10		2										
+823		節分浦波	うらなみ	2									10		2										
+824		節分Commandant Teste	コマンダン・テスト	16									5		3										
 825		正月Iowa	アイオワ	8									10		4										
 826		正月鳳翔	ほうしょう	7									5		2										
 827		正月山風	やまかぜ	2									10		2										
