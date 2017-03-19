@@ -1,4 +1,4 @@
-Update: 2017-02-28
+Update: 2017-03-19
 
 ### After,Before,Base : Ship id
 
@@ -19,6 +19,7 @@ After	Before	Base	After Name	Before Name	Original Name	Upgrade Type	Upgrade Leve
 72	0	72	筑摩		筑摩	1	0	0	0	64
 95	0	95	朝潮		朝潮	1	0	0	0	85
 96	0	96	大潮		大潮	1	0	0	0	86
+98	0	98	荒潮		荒潮	1	0	0	0	88
 110	0	110	翔鶴		翔鶴	1	0	0	0	106
 111	0	111	瑞鶴		瑞鶴	1	0	0	0	107
 112	111	111	瑞鶴改	瑞鶴	瑞鶴	1	1	0	0	108
@@ -36,6 +37,7 @@ After	Before	Base	After Name	Before Name	Original Name	Upgrade Type	Upgrade Leve
 200	290	114	阿武隈改二	阿武隈改	阿武隈	1	2	1	0	200
 248	95	95	朝潮改	朝潮	朝潮	1	1	0	0	1348
 249	96	96	大潮改	大潮	大潮	1	1	0	0	1349
+251	98	98	荒潮改	荒潮	荒潮	1	1	0	0	1351
 253	49	49	霞改	霞	霞	1	1	0	0	108
 272	69	69	鳥海改	鳥海	鳥海	1	1	0	0	1372
 273	71	71	利根改	利根	利根	1	1	0	0	373
@@ -48,6 +50,7 @@ After	Before	Base	After Name	Before Name	Original Name	Upgrade Type	Upgrade Leve
 318	185	184	龍鳳改	龍鳳	大鯨	1	2	0	0	190
 331	0	331	天城		天城	1	0	0	0	202
 332	0	332	葛城		葛城	1	0	0	0	203
+358	448	448	Zara改	Zara	Zara	1	1	0	0	1438
 404	0	404	雲龍		雲龍	1	0	0	0	201
 406	404	404	雲龍改	雲龍	雲龍	1	1	1	0	206
 411	286	26	扶桑改二	扶桑改	扶桑	1	2	1	0	211
@@ -59,6 +62,7 @@ After	Before	Base	After Name	Before Name	Original Name	Upgrade Type	Upgrade Leve
 442	0	442	Roma		Roma	1	0	0	0	242
 446	441	441	Italia	Littorio	Littorio	1	1	1	0	246
 447	442	442	Roma改	Roma	Roma	1	1	1	0	247
+448	0	448	Zara		Zara	1	0	0	0	248
 461	288	110	翔鶴改二	翔鶴改	翔鶴	1	2	1	1	261
 461	466	110	翔鶴改二	翔鶴改二甲	翔鶴	1	4	0	0	261
 462	112	111	瑞鶴改二	瑞鶴改	瑞鶴	1	2	1	1	262

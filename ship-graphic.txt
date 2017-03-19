@@ -1,11 +1,11 @@
-Update: 2017-02-28
+Update: 2017-02-12
 
 ### Player ships
 ID	Name	Graphic Name	Missing?	Comment
 1	睦月	snohitatusbk		
 2	如月	wujywbyjntbp		
-3		mhqqhhvvpzxg		Christmas 那珂
-4		rzgndzraoddu		??? 弥生
+3		mhqqhhvvpzxg		
+4		rzgndzraoddu		
 5		hbhkiyykheeq	*404	
 6	長月	kksiqffpclxh		
 7	三日月	ujhxqqlcorxv		
@@ -466,7 +466,7 @@ ID	Name	Graphic Name	Missing?	Comment
 487	鬼怒改二	glyidgppuqgp		
 488		rwectccrwkub	*404	
 489		nhulrhmihxop	*404	
-490	荒潮改二	hrkuspdmjtmd	
+490	荒潮改二	hrkuspdmjtmd	*404	
 491	Commandant Teste	ighfxhygboim	*404	
 492		mbuqrrnwsofd	*404	
 493		lksmyghdkbsg	*404	
@@ -700,6 +700,11 @@ ID	Name	Graphic Name	Missing?	Comment
 
 ### Player special illustrations ships
 ID	Name	Graphic Name	Missing?	Comment
+811	桃節句潮	kxmwbqtugllx	*404	
+812	桃節句潮改二	tjhqapzvykpb	*404	
+813	桃節句瑞穂	ltlenteyerdk	*404	
+814	桃節句Commandant Teste	jzupdwwocscu	*404	
+815	桃節句山風	fgpmngsqqmqp	*404	
 816	Valentine水無月	zvkxppkfckwp	*404	
 817	Valentine朧	rotcxwtkglry	*404	
 818	Valentine高波	wuyeeipzxvdo	*404	

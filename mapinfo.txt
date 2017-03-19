@@ -1,4 +1,4 @@
-Update: 2017-02-12
+Update: 2017-03-19
 
 ### Sally Flag : Fleet organizing flag
 [1, 0]	Single fleet
@@ -41,6 +41,3 @@ ID	MapArea ID	Map No.	Name	Level	Operation Name	Items	Map Hp	Required defeat cou
 63	6	3	グアノ環礁沖海域	7	K作戦	34,32,0,0		4	1,0
 64	6	4	中部北海域ピーコック島沖	9	離島再攻略作戦	0,0,0,0		5	1,0
 65	6	5	KW環礁沖海域	13	空母機動部隊迎撃戦	0,0,0,0		6	1,0
-371	37	1	日本近海/七尾北湾/舞鶴湾	7	「光」作戦準備	31,0,0,0	300		1,0
-372	37	2	小笠原諸島航路	9	小笠原諸島哨戒線強化	0,0,0,0	300		0,7
-373	37	3	トラック泊地沖	11	発動！「光」作戦	0,0,0,0	300		1,0
