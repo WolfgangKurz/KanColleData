@@ -1,4 +1,4 @@
-Update: 2017-03-19
+Update: 2017-03-28
 
 ### Types : [Big Category],[Dictionary Category],[Category],[Icon ID],[Airplane Category]
 
@@ -368,6 +368,8 @@ ID	Name	Types	HP	Armor	Fire power	Torpedo power	Speed	Bombing	AA Power	Anti-Subm
 214	熟練聴音員+後期型艦首魚雷(6門)	2,3,32,5,0	0	0	0	15	0	0	0	0	0	5	0	4	0	0	1	0	0	1	4	2,3,2,2	0		
 215	Ro.44水上戦闘機bis	5,36,45,43,25	0	0	0	0	0	0	3	1	0	2	0	2	0	0	3	0	0	0	4	1,1,0,2	0	4	3
 216	二式水戦改(熟練)	5,36,45,43,3	0	0	0	0	0	0	5	1	0	1	0	2	0	0	1	0	0	0	4	1,1,0,4	0	5	4
+217	強風改	5,36,45,43,26	0	0	0	0	0	0	5	0	0	0	0	3	0	0	1	0	0	0	3	1,1,0,6	0	6	3
+219	零式艦戦63型(爆戦)	3,5,7,7,12	0	0	0	0	0	5	5	2	0	0	0	0	0	0	0	0	0	0	3	1,4,0,4	0	6	4
 
 ### Enemy slotitems
 ID	Name	Types	HP	Armor	Fire	Torpedo	Speed	Bombing	Anti-Air	Anti-Submerine	???	Hit chance	Torpedo hit chance	Evasion	Evasion chance	Bombing evasion chance	Search	Search interruption	Luck	Length	Rarity	Materials on broken	UseBull(???)	Airplane Cost	Airplane Distance
