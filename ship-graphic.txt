@@ -163,7 +163,7 @@ ID	Name	Graphic Name	Missing?	Comment
 159	神通改二	xyqotgpmnjih		
 160	那珂改二	lvjcqqulbluo		
 161	あきつ丸	nvnwjedsdgcl		
-162		jqvoyyolpqgv	*404	
+162	神威	jqvoyyolpqgv	*404	
 163	まるゆ	joaeulumcgbh		
 164	弥生	jnvcrrgmtvwl		
 165	卯月	gjtvekieqatn		
@@ -367,13 +367,17 @@ ID	Name	Graphic Name	Missing?	Comment
 366	水無月改	mnqveismubcz		
 367	伊26改	whdxgwhsflxf		
 368	浦波改	uvihthcdkhof		
-369	山風改	qfyztscquxza	*404	
-370	朝風改	sfhznwdwstgj	*404	
-371	松風改	bzigjflbyxbe	*404	
-372	Commandant Teste改	wgyatqtsrghn	*404	
-373	藤波改	kbnitqplofhm	*404	
-374	伊13改	hmjwmfpdcuur	*404	
-375	伊14改	fhcabilueqsn	*404	
+369	山風改	qfyztscquxza		
+370	朝風改	sfhznwdwstgj		
+371	松風改	bzigjflbyxbe		
+372	Commandant Teste改	wgyatqtsrghn		
+373	藤波改	kbnitqplofhm		
+374	伊13改	hmjwmfpdcuur		
+375	伊14改	fhcabilueqsn		
+376	占守改	vtnbtspwclng	*404	
+377	国後改	qvjugtvdmppy	*404	
+380	大鷹改	gjdwbkyoqrwv	*404	
+383	択捉改	glvwrolqeexv	*404	
 398	伊168改	dyfnguymthbd		
 399	伊58改	hosmgvuzyjlw		
 400	伊8改	fggcskrfkpnr		
@@ -409,12 +413,12 @@ ID	Name	Graphic Name	Missing?	Comment
 430	葛城改	bohmlbbvqtfs		
 431	U-511	ksvosfducgbe		
 432	Graf Zeppelin	tepoqqczfonx		
-433	Saratoga	qtuuhjmqmvfh	*404	
+433	Saratoga	qtuuhjmqmvfh		
 434	睦月改二	idhoawqrgkqh		
 435	如月改二	ygqdfllpkbee		
 436	呂500	wnibjvejengh		
 437	暁改二	gzerqivthcrd		
-438	Saratoga改	wmebertagnxm	*404	
+438	Saratoga改	wmebertagnxm		
 439	Warspite	lnltescodihe		
 440	Iowa	tgknyzwyexxt		
 441	Littorio	hkhkiqkleprp		
@@ -433,7 +437,7 @@ ID	Name	Graphic Name	Missing?	Comment
 454	嵐	nguivbnbevwd		
 455	萩風	xxbsgzxwjqxh		
 456	親潮	dvcslbfkmdsy		
-457	山風	tvieoobotato	*404	
+457	山風	tvieoobotato		
 458	海風	rnmsjjndxlgj		
 459	江風	jdpiljspxgpz		
 460	速吸	ajggcaaaocgh		
@@ -448,9 +452,9 @@ ID	Name	Graphic Name	Missing?	Comment
 469	江風改二	rwrhhyeloenn		
 470	霞改二乙	vxrvwfxhlbag		
 471	神風	xqqqhgvzjuae		
-472	朝風	fmsaumjkejlm	*404	
+472	朝風	fmsaumjkejlm		
 473	春風	gfogtnmgovlq		
-474	松風	uesladlyqrru	*404	
+474	松風	uesladlyqrru		
 475		sbvnvwfihmrd	*404	
 476	神風改	osxrcrtldvru		
 477		aoprntdhsoqa	*404	
@@ -461,20 +465,31 @@ ID	Name	Graphic Name	Missing?	Comment
 482		zknpscxchueo	*404	
 483	伊26	qrubiqfijtfp		
 484		zvjbcleziwsc	*404	
-485	藤波	hskuxickjvmq	*404	
+485	藤波	hskuxickjvmq		
 486	浦波	qhphdxqmvzbq		
 487	鬼怒改二	glyidgppuqgp		
 488		rwectccrwkub	*404	
 489		nhulrhmihxop	*404	
-490	荒潮改二	hrkuspdmjtmd	*404	
-491	Commandant Teste	ighfxhygboim	*404	
+490	荒潮改二	hrkuspdmjtmd		
+491	Commandant Teste	ighfxhygboim		
 492		mbuqrrnwsofd	*404	
 493		lksmyghdkbsg	*404	
-494	伊13	sfficpxrcodd	*404	
-495	伊14	umpejcgdjwrp	*404	
-496	Zara due	jprnkicueltw	*404	
-503	鈴谷改二	zkiopeqgwlog	*404	
-508	鈴谷航改二	kkloilykwado	*404	
+494	伊13	sfficpxrcodd		
+495	伊14	umpejcgdjwrp		
+496	Zara due	jprnkicueltw		
+499	神威改	tuzyehskgaup	*404	
+500	神威改母	mxltvkpyuklh	*404	
+503	鈴谷改二	zkiopeqgwlog		
+508	鈴谷航改二	kkloilykwado		
+511	Гангут	cqcrtbwortoi	*404	
+512	Октябрьская революция	famtkxknboyg	*404	
+513	Гангут два	rnuehhgtsiay	*404	
+517	占守	mztdruitgisb	*404	
+518	国後	duclkhpiwzon	*404	
+521	春日丸	ycfrigxehfwt	*404	
+524	択捉	lupcrslexuxo	*404	
+526	大鷹	gvryjheydxtt	*404	
+529	大鷹改二	biuzgypssrhi	*404	
 
 ### Enemy ships
 ID	Name	Graphic Name	Missing?	Comment
@@ -685,20 +700,34 @@ ID	Name	Graphic Name	Missing?	Comment
 1705	重巡夏姫	fkycdytrlsoi		
 1706	重巡夏姫	vypyuolwdpvk		
 1707	重巡夏姫	lfkukwtsuruo		
-1708	水母水姫	wakhgkznssbr	*404	
-1709	水母水姫	onwowtuekpjn	*404	
-1710	水母水姫	koyguaurwprc	*404	
-1711	深海海月姫	slqhgxidlkwx	*404	
-1712	深海海月姫	wpakfsjikjdg	*404	
-1713	深海海月姫	qdrobavpfofp	*404	
-1714	空母ヲ級改	gwptvxbbxkqp	*404	
-1715	空母ヲ級改	hjdgjoifrubd	*404	
-1716	深海双子棲姫	hnyleqioqwbg	*404	
-1717	深海双子棲姫	eyavbkujyhgg	*404	
+1708	水母水姫	wakhgkznssbr		
+1709	水母水姫	onwowtuekpjn		
+1710	水母水姫	koyguaurwprc		
+1711	深海海月姫	slqhgxidlkwx		
+1712	深海海月姫	wpakfsjikjdg		
+1713	深海海月姫	qdrobavpfofp		
+1714	空母ヲ級改	gwptvxbbxkqp		
+1715	空母ヲ級改	hjdgjoifrubd		
+1716	深海双子棲姫	hnyleqioqwbg		
+1717	深海双子棲姫	eyavbkujyhgg		
 1718	深海双子棲姫	elutjwomljhb	*404	
-1719	深海双子棲姫-壊	zjpejeuzugmm	*404	
+1719	深海双子棲姫-壊	zjpejeuzugmm		
 1720	深海双子棲姫-壊	axsfthjltgqj	*404	
-1721	深海双子棲姫-壊	cbxpmvwybotl	*404	
+1721	深海双子棲姫-壊	cbxpmvwybotl		
+1722	護衛棲姫	rjtsxtdwvebj	*404	
+1723	護衛棲姫	cstdjqyyrhlg	*404	
+1724	護衛棲姫	qajlkxkhicly	*404	
+1725	北端上陸姫	jxhrosyjovuu	*404	
+1726	北端上陸姫	skergdfltpys	*404	
+1727	北端上陸姫	tnrlvlmispab	*404	
+1728	北方水姫	tesgqiylklvi	*404	
+1729	北方水姫	ljvghewcyvwd	*404	
+1730	北方水姫	escjjqybirkn	*404	
+1731	北方水姫-壊	tywdhadjqwzs	*404	
+1732	北方水姫-壊	eyjejtqhefjn	*404	
+1733	北方水姫-壊	sutsfoetiofu	*404	
+1734	軽母ヌ級改	jlfigkjvghnl	*404	
+1735	軽母ヌ級改	laqatdmlfwcb	*404	
 
 ### Player special illustrations ships
 ID	Name	Graphic Name	Missing?	Comment

@@ -1,4 +1,4 @@
-Update: 2017-04-26
+Update: 2017-05-03
 
 ### Animated/Reactive furnitures only on this data (swf)
 
@@ -47,3 +47,4 @@ ID	Category	No.	Name	Filename	Version
 334	4	47	潜水空母な桐箪笥	048	1
 336	2	48	弥生の窓	049	1
 342	3	70	桜の和のアレンジメント	071	3
+343	3	71	「四周年記念」掛け軸	072	1

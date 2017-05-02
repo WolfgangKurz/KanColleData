@@ -1,4 +1,4 @@
-Update: 2017-04-05
+Update: 2017-05-03
 
 ### No. starts from 0
 
@@ -355,3 +355,4 @@ ID	Type	No.	Name	Rarity	Price	Is for sale?	Season
 340	3	69	お返し掛け軸	3	2000	0	0
 341	1	53	桜色の壁紙	3	1300	1	0
 342	3	70	桜の和のアレンジメント	4	2200	1	0
+343	3	71	「四周年記念」掛け軸	5	0	0	0
