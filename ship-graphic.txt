@@ -1,4 +1,4 @@
-Update: 2017-04-05
+Update: 2017-05-22
 
 ### Player ships
 ID	Name	Graphic Name	Missing?	Comment
@@ -490,6 +490,7 @@ ID	Name	Graphic Name	Missing?	Comment
 524	択捉	lupcrslexuxo	*404	
 526	大鷹	gvryjheydxtt	*404	
 529	大鷹改二	biuzgypssrhi	*404	
+541	長門改二	kjmmeaxfbmhx	*404	
 
 ### Enemy ships
 ID	Name	Graphic Name	Missing?	Comment
@@ -731,6 +732,7 @@ ID	Name	Graphic Name	Missing?	Comment
 
 ### Player special illustrations ships
 ID	Name	Graphic Name	Missing?	Comment
+810		jajwgljppiig	*404	
 811	桃節句潮	kxmwbqtugllx	*404	
 812	桃節句潮改二	tjhqapzvykpb	*404	
 813	桃節句瑞穂	ltlenteyerdk	*404	
