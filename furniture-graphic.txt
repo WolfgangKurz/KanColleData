@@ -1,4 +1,4 @@
-Update: 2017-05-22
+Update: 2017-06-06
 
 ### Animated/Reactive furnitures only on this data (swf)
 
@@ -49,3 +49,5 @@ ID	Category	No.	Name	Filename	Version
 342	3	70	桜の和のアレンジメント	071	3
 343	3	71	「四周年記念」掛け軸	072	1
 346	2	50	村雨の窓	051	1
+347	3	72	「空飛ぶ二航戦」掛け軸	073	1
+348	4	48	「瑞雲」の桐箪笥	049	1

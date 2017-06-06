@@ -1,4 +1,4 @@
-Update: 2017-05-22
+Update: 2017-06-06
 
 ### Player ships
 ID	Name	Graphic Name	Missing?	Comment
@@ -480,7 +480,9 @@ ID	Name	Graphic Name	Missing?	Comment
 499	神威改	tuzyehskgaup	*404	
 500	神威改母	mxltvkpyuklh	*404	
 503	鈴谷改二	zkiopeqgwlog		
+504	熊野改二	babicartxhcm	*404	
 508	鈴谷航改二	kkloilykwado		
+509	熊野航改二	oqjojspqklln	*404	
 511	Гангут	cqcrtbwortoi	*404	
 512	Октябрьская революция	famtkxknboyg	*404	
 513	Гангут два	rnuehhgtsiay	*404	
