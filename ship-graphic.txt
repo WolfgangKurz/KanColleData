@@ -1,498 +1,498 @@
-Update: 2017-06-06
+Update: 2017-06-23
 
 ### Player ships
 ID	Name	Graphic Name	Missing?	Comment
-1	睦月	snohitatusbk		
-2	如月	wujywbyjntbp		
-3		mhqqhhvvpzxg		
-4		rzgndzraoddu		
-5		hbhkiyykheeq	*404	
-6	長月	kksiqffpclxh		
-7	三日月	ujhxqqlcorxv		
-8		boxlrnnmjkhb	*404	
-9	吹雪	gyckjmemgqoe		
-10	白雪	xqnkdultpvaf		
-11	深雪	cdidanqovcfr		
-12	磯波	ljesxnctkmmf		
-13	綾波	icpexclhwthr		
-14	敷波	gcbiuhgmgjbm		
-15	曙	fwptxiocqkyd		
-16	潮	xqjemfzdbjox		
-17	陽炎	nkvvrszimkre		
-18	不知火	louolngpmrwj		
-19	黒潮	ihengpjwmfrt		
-20	雪風	pueufyccujmd		
-21	長良	debsnofmttkx		
-22	五十鈴	tcqsalkhzurk		
-23	由良	shjlydqjdfcl		
-24	大井	yomyfjkhndny		
-25	北上	oxqlrctsmegi		
-26	扶桑	ubntuiyurxwk		
-27	山城	dyurkaeenkdh		
-28	皐月	qvmfwjitflgw		
-29	文月	pjkwpxniwgge		
-30	菊月	jatvhskutlck		
-31	望月	isiuepygxdzq		
-32	初雪	pxogwcltgjkn		
-33	叢雲	hpfcwdqxgyvl		
-34	暁	mtvkfikepcfr		
-35	響	nfzmalhtwved		
-36	雷	aejfywpsegbv		
-37	電	uuilouoffjoj		
-38	初春	nlobofyxzvku		
-39	子日	zgerairddhko		
-40	若葉	ihuijkvksqky		
-41	初霜	qngptlxhrwhj		
-42	白露	ahztpphnuvco		
-43	時雨	kclrmkyzpnpc		
-44	村雨	fhaelooubkbi		
-45	夕立	pnpixtolsebg		
-46	五月雨	tyjrubumfpxy		
-47	涼風	qaryaychpubb		
-48	霰	oiknslickotp		
-49	霞	qukusrsftcgy		
-50	島風	uffgxggsrtti		
-51	天龍	vswgjojfoqdc		
-52	龍田	qvqlfmytkmor		
-53	名取	bqwjdltjktls		
-54	川内	nehcyhpiviue		
-55	神通	icmlpbiditqy		
-56	那珂	vopfxipptsrt		
-57	大井改	gonohkjynpmb		
-58	北上改	jdqefjcpslli		
-59	古鷹	sfbwblstvfmw		
-60	加古	vkmjguonqcsg		
-61	青葉	bhyiqjjifflp		
-62	妙高	grppcbegkphv		
-63	那智	wnkageqzigwd		
-64	足柄	opprvckvhrkv		
-65	羽黒	lvfswfzywnql		
-66	高雄	eqpvjbnbjlhy		
-67	愛宕	aqpnbsizhjij		
-68	摩耶	gpshoozxgutk		
-69	鳥海	qmmdyeprdqsu		
-70	最上	lcmobkdeizph		
-71	利根	kmcllyhenjnk		
-72	筑摩	gcqjowlpkbde		
-73	最上改	ethdbrvnuznc		
-74	祥鳳	qihrkkfwekpo		
-75	飛鷹	sdiauxhgyfkj		
-76	龍驤	iyondwbusgym		
-77	伊勢	skgpomqtcedb		
-78	金剛	oygjwmgvcdyv		
-79	榛名	vzgrqylbwegp		
-80	長門	jnxoytktolbb		
-81	陸奥	jkjqeleyhbus		
-82	伊勢改	guwzhmxxnwol		
-83	赤城	uswetrxvttms		
-84	加賀	oeimwwkynzlt		
-85	霧島	icwowutxbvgh		
-86	比叡	bxzhnjffdppv		
-87	日向	cfqmhviykuup		
-88	日向改	jprpbvbeillv		
-89	鳳翔	bwgbubdrhvfg		
-90	蒼龍	nppdykjbwmkx		
-91	飛龍	gobumojesgfi		
-92	隼鷹	ltdlvothcqnr		
-93	朧	jqexjuembtvh		
-94	漣	lnarycubyzrr		
-95	朝潮	eeyrwdehbixg		
-96	大潮	svcuufdqcqmy		
-97	満潮	fhpgicaysllm		
-98	荒潮	vksjkggcuvik		
-99	球磨	zrmviexnupjy		
-100	多摩	jiftwdxqwtin		
-101	木曾	veulocbvzaqy		
-102	千歳	dkmxevqgbxmr		
-103	千代田	cayfwlehtvgj		
-104	千歳改	wvkpfygaipjq		
-105	千代田改	tsfbgfyeqxhg		
-106	千歳甲	ttkeodhvrmog		
-107	千代田甲	agybvcshxbpm		
-108	千歳航	wlvvcpnulyer		
-109	千代田航	rsmzverhwskc		
-110	翔鶴	pdricqoovxfe		
-111	瑞鶴	suivtkpjnmpt		
-112	瑞鶴改	ihwgeegenykh		
-113	鬼怒	rgribyhrzjjl		
-114	阿武隈	sgwumdfgzais		
-115	夕張	hieimxbtcqrt		
-116	瑞鳳	ktexichqewel		
-117	瑞鳳改	xmzltsferzto		
-118	大井改二	khtgrpfyurcm		
-119	北上改二	cqtlanpwihpj		
-120	三隈	oqqerytyeisg		
-121	三隈改	yyvxfxdusxlx		
-122	舞風	emjpbjscgcvf		
-123	衣笠	tyumrhcigliq		
-124	鈴谷	lvmlqrzbobpe		
-125	熊野	mlzpthwviwnf		
-126	伊168	wmzbyvhflrhy		
-127	伊58	fqbwbmmdcjby		
-128	伊8	zoaptkoerfpv		
-129	鈴谷改	oyjqdsswurhl		
-130	熊野改	pcdygwofwfib		
-131	大和	liqjxscjkogx		
-132	秋雲	khxsxmiuccsf		
-133	夕雲	jtfihmyrvmiw		
-134	巻雲	piobwloefpcz		
-135	長波	xwvykvklvvqk		
-136	大和改	drdaipjrohfl		
-137	阿賀野	ljzijyhhgrnx		
-138	能代	lpiecumljbyp		
-139	矢矧	hmivswfdmdem		
-140	酒匂	vrtbgpzuepqx		
-141	五十鈴改二	nnkmuxqyewyk		
-142	衣笠改二	ykrokmtrnaqw		
-143	武蔵	ilxnmfogntbo		
-144	夕立改二	lngqiqvigduj		
-145	時雨改二	ogkwigciybxf		
-146	木曾改二	gpfqngdreebe		
-147	Верный	gmqsmiszmftf		
-148	武蔵改	eqgvmdsvjerq		
-149	金剛改二	wugwvdccggcp		
-150	比叡改二	mhpalcnpxmgz		
-151	榛名改二	ilxltdgucgbg		
-152	霧島改二	kspwuqsyhipy		
-153	大鳳	ysidnchjxvfc		
-154	香取	jtyqmhgstese		
-155	伊401	hmiwrqvijwvv		
-156	大鳳改	vsnkqdgtcjbs		
-157	龍驤改二	mslkutojcolj		
-158	川内改二	qpnrcirsvqcr		
-159	神通改二	xyqotgpmnjih		
-160	那珂改二	lvjcqqulbluo		
-161	あきつ丸	nvnwjedsdgcl		
-162	神威	jqvoyyolpqgv	*404	
-163	まるゆ	joaeulumcgbh		
-164	弥生	jnvcrrgmtvwl		
-165	卯月	gjtvekieqatn		
-166	あきつ丸改	vxryfhvytcig		
-167	磯風	bctrxdxrugqp		
-168	浦風	cmupwurocdpn		
-169	谷風	gsrzkautnghc		
-170	浜風	rubtymuqfeuq		
-171	Bismarck	ntmjjittqkcj		
-172	Bismarck改	frkfpymtydmg		
-173	Bismarck zwei	etxdlqnvwqtx		
-174	Z1	pvhdtbuddjhb		
-175	Z3	rxzrrkjqvyqy		
-176	Prinz Eugen	shcsmfegtxhf		
-177	Prinz Eugen改	cmmiahpwdamx		
-178	Bismarck drei	twvnkvqgyiru		
-179	Z1 zwei	qgkjswznylty		
-180	Z3 zwei	utmejyqmcvbk		
-181	天津風	fdpybckruodj		
-182	明石	kynputhclcdl		
-183	大淀	uockopeurqdf		
-184	大鯨	xumujwygrmby		
-185	龍鳳	bfsrsnqivpms		
-186	時津風	dljghewzktat		
-187	明石改	scobmrrdbmsw		
-188	利根改二	rjggwwmmppth		
-189	筑摩改二	ilnimhfcivpt		
-190	初風	rwqqgmxpdwbu		
-191	伊19	jdsszkolhitg		
-192	那智改二	bpegnatlfibc		
-193	足柄改二	bxbyaifmqdxk		
-194	羽黒改二	ecwgnneuzbcv		
-195	綾波改二	tiqezicxwpry		
-196	飛龍改二	gbxvfsrqbyxg		
-197	蒼龍改二	mwlzgwdjlpxx		
-199	大潮改二	jqqkmitxodgw		
-200	阿武隈改二	qjkjyqhsvcpx		
-201	吹雪改	dufziinsornt		
-202	白雪改	kkpwecgmftci		
-203	初雪改	sejqtlkfjwkc		
-204	深雪改	zlshfpystoqp		
-205	叢雲改	rmcvsljwdyur		
-206	磯波改	olkahitypycq		
-207	綾波改	sgpilzypnejy		
-208	敷波改	epjlpvhwcjvw		
-209	金剛改	fxypdctjnicq		
-210	比叡改	iatmdvvwlngq		
-211	榛名改	nolhhoujolpc		
-212	霧島改	kexwyrcqjxfs		
-213	天龍改	wjcrloeyiyxw		
-214	龍田改	chmytqkkilrv		
-215	球磨改	mbgjkzlvemui		
-216	多摩改	cxhxktltjtbg		
-217	木曾改	gjyqwffsmfgw		
-218	長良改	jmpkkzqwgxtc		
-219	五十鈴改	espxbipsjiyt		
-220	由良改	xtqbjysffsvx		
-221	名取改	aqgjvutybsbk		
-222	川内改	zhixojcwijfj		
-223	神通改	ncijtxixkghu		
-224	那珂改	vxkcklmfevkk		
-225	陽炎改	ffyychaekjsj		
-226	不知火改	algyyokhbnwz		
-227	黒潮改	qsnkljxqtrgb		
-228	雪風改	avfbkpphumso		
-229	島風改	cjhtlviffiwb		
-230	朧改	sbdfpooechyn		
-231	曙改	wnocckxgfmnh		
-232	漣改	xfxhmadcxfdq		
-233	潮改	dpqjexkcixhw		
-234	暁改	slzosqvxjxus		
-235	響改	wpaqzeclspdr		
-236	雷改	eathbqlrqvda		
-237	電改	bqvrrfdcuvdr		
-238	初春改	tedevipdbvdr		
-239	子日改	nkrmsykdohgo		
-240	若葉改	tkcwrodgemlj		
-241	初霜改	woutqrqtdzqi		
-242	白露改	xcbmsjqrostq		
-243	時雨改	wmskekfmgdio		
-244	村雨改	wvnchfzhekfo		
-245	夕立改	wpsyznjwvlmd		
-246	五月雨改	ofneitwqroxe		
-247	涼風改	jukighzxmudn		
-248	朝潮改	xbbfxeemifpv		
-249	大潮改	ngcxxfxovpmn		
-250	満潮改	eypcwtnjgoyb		
-251	荒潮改	pmjnkqodgjpo		
-252	霰改	oxttbkywusfp		
-253	霞改	ohpnwjgzfesg		
-254	睦月改	pvomxydmldoi		
-255	如月改	lwlmcwxyvcyz		
-256	皐月改	ttcofyyswaum		
-257	文月改	ysgtnamukxoi		
-258	長月改	wrxtfahvtyqi		
-259	菊月改	zrrxemjrtmql		
-260	三日月改	sxrrihbkdkjl		
-261	望月改	aufduiatycow		
-262	古鷹改	iolnrzaovbhn		
-263	加古改	qsmurjkprhku		
-264	青葉改	udkkmzgsimgq		
-265	妙高改	fcydxtnwtaon		
-266	那智改	nvftqenyroyu		
-267	足柄改	bekjyovmrmfd		
-268	羽黒改	uilfcyypnbwm		
-269	高雄改	ghgphbvmzjrx		
-270	愛宕改	gbkqnzirjyid		
-271	摩耶改	ajhdojqfykfu		
-272	鳥海改	nsgytjsjbfdp		
-273	利根改	fkatobgcyygb		
-274	筑摩改	paqnehcojygu		
-275	長門改	szgthkexanxl		
-276	陸奥改	hujriolkmhzy		
-277	赤城改	gtmwrbaniaud		
-278	加賀改	uuqdlbtrkmvk		
-279	蒼龍改	mxohelwcpocv		
-280	飛龍改	kftqxfempust		
-281	龍驤改	wvcpwlwuxwhq		
-282	祥鳳改	numjsnomjspr		
-283	飛鷹改	yiwwnppitqpf		
-284	隼鷹改	pwokyefpmqwi		
-285	鳳翔改	xjotoxrgwfrj		
-286	扶桑改	mnkjkgammeds		
-287	山城改	bnbdxfioqxtt		
-288	翔鶴改	vcftaofxkvgk		
-289	鬼怒改	ikwmknqjpvkg		
-290	阿武隈改	uuxoixtoemiv		
-291	千歳航改	ufcqfujavyyg		
-292	千代田航改	hgitzuyaysvw		
-293	夕張改	hfhcjjdyqyzn		
-294	舞風改	ssvrjquubpim		
-295	衣笠改	qgkmjgfbanxl		
-296	千歳航改二	kavryopoywwx		
-297	千代田航改二	jhefpwucyxiq		
-300	初風改	ukwcjqlolezy		
-301	秋雲改	ijhrnvnbqkmj		
-302	夕雲改	bbgkikxppksy		
-303	巻雲改	gekgxdsvrliq		
-304	長波改	lovstgcfspwr		
-305	阿賀野改	cmpqwemjahur		
-306	能代改	hvnqlrdovfqe		
-307	矢矧改	acajrnrqxplq		
-308	弥生改	ozjrctjajnpx		
-309	卯月改	xwjlobdutrwv		
-310	Z1改	vbuxfozqoemo		
-311	Z3改	vksfcnchqurh		
-312	浜風改	ojkgkujsenly		
-313	谷風改	jdyqtxzmsyng		
-314	酒匂改	kbdewgsfrkra		
-315		igezlfrivcar		
-316	天津風改	cpcycglgelxd		
-317	浦風改	exedxncqauws		
-318	龍鳳改	rjtnzguullvo		
-319	妙高改二	kadfixosusrf		
-320	磯風改	dyupugfxshtd		
-321	大淀改	gixbrtnuabge		
-322	時津風改	svglgiwjfyxn		
-323	春雨改	cispmgxqaedk		
-324	早霜改	uvfgjekdjlcw		
-325	清霜改	xomrbwrvjwfv		
-326	初春改二	xoiprnaxqxbj		
-327	朝雲改	vdieczinfgce		
-328	山雲改	pyfdxrfqwldn		
-329	野分改	qegrehgswrpg		
-330	秋月改	tubwmcjwtlqx		
-331	天城	gmlbignzjwmq		
-332	葛城	fgyvwqymkekn		
-333		fwywlrdttcoc	*404	
-334	U-511改	dfrmfmjvschh		
-335		fuzvvipztlod	*404	
-336		nyveugfueqrn	*404	
-337		ospkpclnhxkj	*404	
-338		yotuoourymyr	*404	
-339		utbekttrwkug	*404	
-340		tmodouudtfbl	*404	
-341		zzjoppqteksh	*404	
-342		rybmohpldpuq	*404	
-343	香取改	kexcbmpnmmwv		
-344	朝霜改	jozbiyweyksl		
-345	高波改	ydsbnsiogwij		
-346	照月改	urpnkwaneqfb		
-347	Libeccio改	rgfuelwdntub		
-348	瑞穂改	ycgllqsxwdgy		
-349	風雲改	gykqxdkfpzih		
-350	海風改	djszrxlnhbuv		
-351	江風改	litugbpkilsf		
-352	速吸改	niuenzxpukjq		
-353	Graf Zeppelin改	uljlkucfqqcc		
-354	嵐改	stvkbeqhwmmj		
-355	萩風改	vbqucvbohcex		
-356	鹿島改	grgeljjshnfk		
-357	初月改	wwuwxxrkzxex		
-358	Zara改	waviopoxryme		
-359	沖波改	higuuqsbfkvb		
-360	Iowa改	nwntjkczdexl		
-361	Pola改	btfmqyxunhkj		
-362	親潮改	fkrtllluordb		
-363	春風改	ihdaromldkrr		
-364	Warspite改	bwsoozmjkbde		
-365	Aquila改	ywgeborrihwb		
-366	水無月改	mnqveismubcz		
-367	伊26改	whdxgwhsflxf		
-368	浦波改	uvihthcdkhof		
-369	山風改	qfyztscquxza		
-370	朝風改	sfhznwdwstgj		
-371	松風改	bzigjflbyxbe		
-372	Commandant Teste改	wgyatqtsrghn		
-373	藤波改	kbnitqplofhm		
-374	伊13改	hmjwmfpdcuur		
-375	伊14改	fhcabilueqsn		
-376	占守改	vtnbtspwclng	*404	
-377	国後改	qvjugtvdmppy	*404	
-380	大鷹改	gjdwbkyoqrwv	*404	
-383	択捉改	glvwrolqeexv	*404	
-398	伊168改	dyfnguymthbd		
-399	伊58改	hosmgvuzyjlw		
-400	伊8改	fggcskrfkpnr		
-401	伊19改	jwrlielrnfpr		
-402	まるゆ改	nrdgjqcgecmg		
-403	伊401改	tuvoqtqrddem		
-404	雲龍	xgoisifuerjd		
-405	春雨	dbtrdgatxdpl		
-406	雲龍改	rqsbaiaqlunp		
-407	潮改二	fsgwccpesgfh		
-408	隼鷹改二	yyyfqcpumpxj		
-409	早霜	kgwxvcnblfjb		
-410	清霜	gdbwncyaopob		
-411	扶桑改二	gmnsxwkdssmj		
-412	山城改二	xjsgvmgfleuu		
-413	朝雲	xjtxwkwwfdze		
-414	山雲	xthvimkarzgq		
-415	野分	skmmrmdljugc		
-416	古鷹改二	vqdgxtrgintc		
-417	加古改二	riiwaegupstv		
-418	皐月改二	uhbkffblgplp		
-419	初霜改二	ufgydlyjdaxb		
-420	叢雲改二	ugxgvgtjsxud		
-421	秋月	wkvdcpaogfii		
-422	照月	fvcfdjvmxlko		
-423	初月	uscckqoguchc		
-424	高波	hvxoppojkyge		
-425	朝霜	cdsgjcufyxlz		
-426	吹雪改二	rtkekdbkqrkg		
-427	鳥海改二	jcrdsdpsjcgj		
-428	摩耶改二	xljtrrmemnon		
-429	天城改	zgscfjpbxnir		
-430	葛城改	bohmlbbvqtfs		
-431	U-511	ksvosfducgbe		
-432	Graf Zeppelin	tepoqqczfonx		
-433	Saratoga	qtuuhjmqmvfh		
-434	睦月改二	idhoawqrgkqh		
-435	如月改二	ygqdfllpkbee		
-436	呂500	wnibjvejengh		
-437	暁改二	gzerqivthcrd		
-438	Saratoga改	wmebertagnxm		
-439	Warspite	lnltescodihe		
-440	Iowa	tgknyzwyexxt		
-441	Littorio	hkhkiqkleprp		
-442	Roma	gyywcqqfnjkc		
-443	Libeccio	nsutzbtifaji		
-444	Aquila	beymvxmvhoct		
-445	秋津洲	oswtwcbzgbfm		
-446	Italia	feyfhhruhjse		
-447	Roma改	yfpnftpuwkrx		
-448	Zara	spmuptretooz		
-449	Pola	zbwwxnwyxhps		
-450	秋津洲改	wwqmolrsxfvz		
-451	瑞穂	zqwwomufsbpq		
-452	沖波	xxnlcxflgfji		
-453	風雲	xooelfidumnp		
-454	嵐	nguivbnbevwd		
-455	萩風	xxbsgzxwjqxh		
-456	親潮	dvcslbfkmdsy		
-457	山風	tvieoobotato		
-458	海風	rnmsjjndxlgj		
-459	江風	jdpiljspxgpz		
-460	速吸	ajggcaaaocgh		
-461	翔鶴改二	hpxsthymxmki		
-462	瑞鶴改二	giytrybpknos		
-463	朝潮改二	grmdtyheocuc		
-464	霞改二	mqlroxfnufpz		
-465	鹿島	nwiyrjfnqvux		
-466	翔鶴改二甲	ekuxnovhattm		
-467	瑞鶴改二甲	qgrxbhuvtrbf		
-468	朝潮改二丁	schftfqkstxa		
-469	江風改二	rwrhhyeloenn		
-470	霞改二乙	vxrvwfxhlbag		
-471	神風	xqqqhgvzjuae		
-472	朝風	fmsaumjkejlm		
-473	春風	gfogtnmgovlq		
-474	松風	uesladlyqrru		
-475		sbvnvwfihmrd	*404	
-476	神風改	osxrcrtldvru		
-477		aoprntdhsoqa	*404	
-478		usewjvwytald	*404	
-479		xvgcgmwruygk	*404	
-480		tbgbgvlvagls	*404	
-481	水無月	xzuthqfclfmp		
-482		zknpscxchueo	*404	
-483	伊26	qrubiqfijtfp		
-484		zvjbcleziwsc	*404	
-485	藤波	hskuxickjvmq		
-486	浦波	qhphdxqmvzbq		
-487	鬼怒改二	glyidgppuqgp		
-488		rwectccrwkub	*404	
-489		nhulrhmihxop	*404	
-490	荒潮改二	hrkuspdmjtmd		
-491	Commandant Teste	ighfxhygboim		
-492		mbuqrrnwsofd	*404	
-493		lksmyghdkbsg	*404	
-494	伊13	sfficpxrcodd		
-495	伊14	umpejcgdjwrp		
-496	Zara due	jprnkicueltw		
-499	神威改	tuzyehskgaup	*404	
-500	神威改母	mxltvkpyuklh	*404	
-503	鈴谷改二	zkiopeqgwlog		
-504	熊野改二	babicartxhcm	*404	
-508	鈴谷航改二	kkloilykwado		
-509	熊野航改二	oqjojspqklln	*404	
-511	Гангут	cqcrtbwortoi	*404	
-512	Октябрьская революция	famtkxknboyg	*404	
-513	Гангут два	rnuehhgtsiay	*404	
-517	占守	mztdruitgisb	*404	
-518	国後	duclkhpiwzon	*404	
-521	春日丸	ycfrigxehfwt	*404	
-524	択捉	lupcrslexuxo	*404	
-526	大鷹	gvryjheydxtt	*404	
-529	大鷹改二	biuzgypssrhi	*404	
-541	長門改二	kjmmeaxfbmhx	*404	
+1	睦月	snohitatusbk		21,19,606
+2	如月	wujywbyjntbp		22,20,606
+3		mhqqhhvvpzxg		1,1,1
+4		rzgndzraoddu		1,1,1
+5		hbhkiyykheeq	*404	1,1,1
+6	長月	kksiqffpclxh		10,10,1
+7	三日月	ujhxqqlcorxv		11,11,1
+8		boxlrnnmjkhb	*404	1,1,1
+9	吹雪	gyckjmemgqoe		22,20,606
+10	白雪	xqnkdultpvaf		16,16,606
+11	深雪	cdidanqovcfr		11,11,606
+12	磯波	ljesxnctkmmf		11,11,606
+13	綾波	icpexclhwthr		13,13,606
+14	敷波	gcbiuhgmgjbm		14,14,606
+15	曙	fwptxiocqkyd		29,20,606
+16	潮	xqjemfzdbjox		25,19,606
+17	陽炎	nkvvrszimkre		13,13,1
+18	不知火	louolngpmrwj		13,13,1
+19	黒潮	ihengpjwmfrt		13,13,606
+20	雪風	pueufyccujmd		12,12,606
+21	長良	debsnofmttkx		5,3,1
+22	五十鈴	tcqsalkhzurk		3,1,1
+23	由良	shjlydqjdfcl		21,20,606
+24	大井	yomyfjkhndny		15,15,1
+25	北上	oxqlrctsmegi		13,13,1
+26	扶桑	ubntuiyurxwk		23,16,606
+27	山城	dyurkaeenkdh		21,15,606
+28	皐月	qvmfwjitflgw		12,12,606
+29	文月	pjkwpxniwgge		12,12,1
+30	菊月	jatvhskutlck		10,10,1
+31	望月	isiuepygxdzq		15,15,606
+32	初雪	pxogwcltgjkn		18,18,606
+33	叢雲	hpfcwdqxgyvl		20,18,606
+34	暁	mtvkfikepcfr		3,3,606
+35	響	nfzmalhtwved		3,3,606
+36	雷	aejfywpsegbv		7,5,606
+37	電	uuilouoffjoj		7,5,606
+38	初春	nlobofyxzvku		14,14,1
+39	子日	zgerairddhko		16,14,1
+40	若葉	ihuijkvksqky		10,10,1
+41	初霜	qngptlxhrwhj		10,10,1
+42	白露	ahztpphnuvco		27,23,606
+43	時雨	kclrmkyzpnpc		23,24,606
+44	村雨	fhaelooubkbi		25,25,606
+45	夕立	pnpixtolsebg		24,25,606
+46	五月雨	tyjrubumfpxy		12,12,606
+47	涼風	qaryaychpubb		9,9,606
+48	霰	oiknslickotp		9,9,606
+49	霞	qukusrsftcgy		9,9,606
+50	島風	uffgxggsrtti		9,9,606
+51	天龍	vswgjojfoqdc		14,12,606
+52	龍田	qvqlfmytkmor		14,12,606
+53	名取	bqwjdltjktls		5,3,1
+54	川内	nehcyhpiviue		7,7,606
+55	神通	icmlpbiditqy		8,8,606
+56	那珂	vopfxipptsrt		14,12,606
+57	大井改	gonohkjynpmb		16,16,1
+58	北上改	jdqefjcpslli		14,14,1
+59	古鷹	sfbwblstvfmw		15,15,1
+60	加古	vkmjguonqcsg		13,13,1
+61	青葉	bhyiqjjifflp		4,4,606
+62	妙高	grppcbegkphv		15,15,606
+63	那智	wnkageqzigwd		14,14,1
+64	足柄	opprvckvhrkv		14,14,1
+65	羽黒	lvfswfzywnql		14,15,1
+66	高雄	eqpvjbnbjlhy		9,9,606
+67	愛宕	aqpnbsizhjij		8,8,606
+68	摩耶	gpshoozxgutk		17,19,606
+69	鳥海	qmmdyeprdqsu		18,20,606
+70	最上	lcmobkdeizph		8,5,606
+71	利根	kmcllyhenjnk		11,11,606
+72	筑摩	gcqjowlpkbde		11,11,606
+73	最上改	ethdbrvnuznc		9,6,606
+74	祥鳳	qihrkkfwekpo		19,16,606
+75	飛鷹	sdiauxhgyfkj		7,7,1
+76	龍驤	iyondwbusgym		16,13,1
+77	伊勢	skgpomqtcedb		13,13,1
+78	金剛	oygjwmgvcdyv		20,20,606
+79	榛名	vzgrqylbwegp		16,16,1
+80	長門	jnxoytktolbb		16,16,606
+81	陸奥	jkjqeleyhbus		11,9,606
+82	伊勢改	guwzhmxxnwol		15,14,1
+83	赤城	uswetrxvttms		17,15,606
+84	加賀	oeimwwkynzlt		12,12,606
+85	霧島	icwowutxbvgh		14,16,1
+86	比叡	bxzhnjffdppv		14,16,1
+87	日向	cfqmhviykuup		20,20,606
+88	日向改	jprpbvbeillv		22,21,606
+89	鳳翔	bwgbubdrhvfg		5,3,606
+90	蒼龍	nppdykjbwmkx		16,17,1
+91	飛龍	gobumojesgfi		15,16,1
+92	隼鷹	ltdlvothcqnr		3,3,1
+93	朧	jqexjuembtvh		21,18,606
+94	漣	lnarycubyzrr		23,19,606
+95	朝潮	eeyrwdehbixg		10,10,606
+96	大潮	svcuufdqcqmy		11,11,606
+97	満潮	fhpgicaysllm		11,11,606
+98	荒潮	vksjkggcuvik		9,9,606
+99	球磨	zrmviexnupjy		17,11,606
+100	多摩	jiftwdxqwtin		14,11,606
+101	木曾	veulocbvzaqy		12,12,606
+102	千歳	dkmxevqgbxmr		14,9,606
+103	千代田	cayfwlehtvgj		14,9,606
+104	千歳改	wvkpfygaipjq		15,10,606
+105	千代田改	tsfbgfyeqxhg		17,12,606
+106	千歳甲	ttkeodhvrmog		15,10,606
+107	千代田甲	agybvcshxbpm		17,12,606
+108	千歳航	wlvvcpnulyer		15,10,606
+109	千代田航	rsmzverhwskc		16,11,606
+110	翔鶴	pdricqoovxfe		13,13,606
+111	瑞鶴	suivtkpjnmpt		14,14,606
+112	瑞鶴改	ihwgeegenykh		15,15,606
+113	鬼怒	rgribyhrzjjl		15,15,606
+114	阿武隈	sgwumdfgzais		15,16,606
+115	夕張	hieimxbtcqrt		18,15,606
+116	瑞鳳	ktexichqewel		19,17,606
+117	瑞鳳改	xmzltsferzto		21,19,606
+118	大井改二	khtgrpfyurcm		16,16,1
+119	北上改二	cqtlanpwihpj		14,14,1
+120	三隈	oqqerytyeisg		5,3,606
+121	三隈改	yyvxfxdusxlx		6,4,606
+122	舞風	emjpbjscgcvf		16,16,606
+123	衣笠	tyumrhcigliq		3,4,606
+124	鈴谷	lvmlqrzbobpe		18,15,606
+125	熊野	mlzpthwviwnf		18,15,606
+126	伊168	wmzbyvhflrhy		4,5,606
+127	伊58	fqbwbmmdcjby		3,4,606
+128	伊8	zoaptkoerfpv		8,8,606
+129	鈴谷改	oyjqdsswurhl		18,16,606
+130	熊野改	pcdygwofwfib		18,15,606
+131	大和	liqjxscjkogx		6,4,606
+132	秋雲	khxsxmiuccsf		5,3,606
+133	夕雲	jtfihmyrvmiw		14,5,606
+134	巻雲	piobwloefpcz		7,5,606
+135	長波	xwvykvklvvqk		10,3,606
+136	大和改	drdaipjrohfl		7,5,606
+137	阿賀野	ljzijyhhgrnx		9,9,606
+138	能代	lpiecumljbyp		9,9,606
+139	矢矧	hmivswfdmdem		9,9,606
+140	酒匂	vrtbgpzuepqx		9,9,606
+141	五十鈴改二	nnkmuxqyewyk		4,2,1
+142	衣笠改二	ykrokmtrnaqw		7,6,606
+143	武蔵	ilxnmfogntbo		8,8,606
+144	夕立改二	lngqiqvigduj		32,26,606
+145	時雨改二	ogkwigciybxf		36,28,606
+146	木曾改二	gpfqngdreebe		13,13,606
+147	Верный	gmqsmiszmftf		5,5,606
+148	武蔵改	eqgvmdsvjerq		9,9,606
+149	金剛改二	wugwvdccggcp		20,20,606
+150	比叡改二	mhpalcnpxmgz		14,16,1
+151	榛名改二	ilxltdgucgbg		18,16,1
+152	霧島改二	kspwuqsyhipy		14,16,1
+153	大鳳	ysidnchjxvfc		1,1,606
+154	香取	jtyqmhgstese		14,12,1
+155	伊401	hmiwrqvijwvv		5,3,1
+156	大鳳改	vsnkqdgtcjbs		2,2,606
+157	龍驤改二	mslkutojcolj		19,15,1
+158	川内改二	qpnrcirsvqcr		8,9,606
+159	神通改二	xyqotgpmnjih		12,10,606
+160	那珂改二	lvjcqqulbluo		13,11,606
+161	あきつ丸	nvnwjedsdgcl		3,1,606
+162	神威	jqvoyyolpqgv	*404	2,1,606
+163	まるゆ	joaeulumcgbh		4,1,606
+164	弥生	jnvcrrgmtvwl		16,14,606
+165	卯月	gjtvekieqatn		16,14,606
+166	あきつ丸改	vxryfhvytcig		5,3,606
+167	磯風	bctrxdxrugqp		5,3,606
+168	浦風	cmupwurocdpn		16,14,606
+169	谷風	gsrzkautnghc		17,14,606
+170	浜風	rubtymuqfeuq		24,20,606
+171	Bismarck	ntmjjittqkcj		9,9,1
+172	Bismarck改	frkfpymtydmg		11,11,1
+173	Bismarck zwei	etxdlqnvwqtx		10,10,1
+174	Z1	pvhdtbuddjhb		6,4,1
+175	Z3	rxzrrkjqvyqy		4,2,1
+176	Prinz Eugen	shcsmfegtxhf		14,14,1
+177	Prinz Eugen改	cmmiahpwdamx		15,15,1
+178	Bismarck drei	twvnkvqgyiru		9,9,1
+179	Z1 zwei	qgkjswznylty		5,3,1
+180	Z3 zwei	utmejyqmcvbk		3,1,1
+181	天津風	fdpybckruodj		1,1,1
+182	明石	kynputhclcdl		24,18,606
+183	大淀	uockopeurqdf		19,13,606
+184	大鯨	xumujwygrmby		9,3,1
+185	龍鳳	bfsrsnqivpms		9,3,1
+186	時津風	dljghewzktat		14,14,606
+187	明石改	scobmrrdbmsw		28,19,606
+188	利根改二	rjggwwmmppth		15,12,606
+189	筑摩改二	ilnimhfcivpt		15,12,606
+190	初風	rwqqgmxpdwbu		18,15,606
+191	伊19	jdsszkolhitg		8,8,606
+192	那智改二	bpegnatlfibc		14,14,1
+193	足柄改二	bxbyaifmqdxk		14,14,1
+194	羽黒改二	ecwgnneuzbcv		14,15,1
+195	綾波改二	tiqezicxwpry		14,14,606
+196	飛龍改二	gbxvfsrqbyxg		16,17,1
+197	蒼龍改二	mwlzgwdjlpxx		16,17,1
+199	大潮改二	jqqkmitxodgw		1,1,606
+200	阿武隈改二	qjkjyqhsvcpx		15,16,606
+201	吹雪改	dufziinsornt		22,20,606
+202	白雪改	kkpwecgmftci		17,17,606
+203	初雪改	sejqtlkfjwkc		18,18,606
+204	深雪改	zlshfpystoqp		11,11,606
+205	叢雲改	rmcvsljwdyur		19,17,606
+206	磯波改	olkahitypycq		11,11,606
+207	綾波改	sgpilzypnejy		13,13,606
+208	敷波改	epjlpvhwcjvw		14,14,606
+209	金剛改	fxypdctjnicq		20,20,606
+210	比叡改	iatmdvvwlngq		15,17,1
+211	榛名改	nolhhoujolpc		16,16,1
+212	霧島改	kexwyrcqjxfs		14,16,1
+213	天龍改	wjcrloeyiyxw		15,13,606
+214	龍田改	chmytqkkilrv		15,13,606
+215	球磨改	mbgjkzlvemui		17,11,606
+216	多摩改	cxhxktltjtbg		14,11,606
+217	木曾改	gjyqwffsmfgw		12,12,606
+218	長良改	jmpkkzqwgxtc		6,5,1
+219	五十鈴改	espxbipsjiyt		3,1,1
+220	由良改	xtqbjysffsvx		21,21,606
+221	名取改	aqgjvutybsbk		6,5,1
+222	川内改	zhixojcwijfj		7,7,606
+223	神通改	ncijtxixkghu		8,8,606
+224	那珂改	vxkcklmfevkk		14,12,606
+225	陽炎改	ffyychaekjsj		13,13,1
+226	不知火改	algyyokhbnwz		13,13,1
+227	黒潮改	qsnkljxqtrgb		14,14,606
+228	雪風改	avfbkpphumso		12,12,606
+229	島風改	cjhtlviffiwb		10,10,606
+230	朧改	sbdfpooechyn		21,18,606
+231	曙改	wnocckxgfmnh		20,20,606
+232	漣改	xfxhmadcxfdq		23,19,606
+233	潮改	dpqjexkcixhw		25,19,606
+234	暁改	slzosqvxjxus		3,3,606
+235	響改	wpaqzeclspdr		3,3,606
+236	雷改	eathbqlrqvda		7,5,606
+237	電改	bqvrrfdcuvdr		7,5,606
+238	初春改	tedevipdbvdr		14,14,1
+239	子日改	nkrmsykdohgo		16,14,1
+240	若葉改	tkcwrodgemlj		11,11,1
+241	初霜改	woutqrqtdzqi		10,10,1
+242	白露改	xcbmsjqrostq		28,24,606
+243	時雨改	wmskekfmgdio		23,24,606
+244	村雨改	wvnchfzhekfo		31,27,606
+245	夕立改	wpsyznjwvlmd		24,25,606
+246	五月雨改	ofneitwqroxe		12,12,606
+247	涼風改	jukighzxmudn		9,9,606
+248	朝潮改	xbbfxeemifpv		10,10,606
+249	大潮改	ngcxxfxovpmn		12,11,606
+250	満潮改	eypcwtnjgoyb		11,11,606
+251	荒潮改	pmjnkqodgjpo		9,9,606
+252	霰改	oxttbkywusfp		8,8,606
+253	霞改	ohpnwjgzfesg		7,7,606
+254	睦月改	pvomxydmldoi		21,19,606
+255	如月改	lwlmcwxyvcyz		22,20,606
+256	皐月改	ttcofyyswaum		12,12,606
+257	文月改	ysgtnamukxoi		12,12,1
+258	長月改	wrxtfahvtyqi		10,10,1
+259	菊月改	zrrxemjrtmql		10,10,1
+260	三日月改	sxrrihbkdkjl		11,11,1
+261	望月改	aufduiatycow		15,15,606
+262	古鷹改	iolnrzaovbhn		15,15,1
+263	加古改	qsmurjkprhku		14,14,1
+264	青葉改	udkkmzgsimgq		4,4,606
+265	妙高改	fcydxtnwtaon		15,15,606
+266	那智改	nvftqenyroyu		14,14,1
+267	足柄改	bekjyovmrmfd		14,14,1
+268	羽黒改	uilfcyypnbwm		14,15,1
+269	高雄改	ghgphbvmzjrx		9,9,606
+270	愛宕改	gbkqnzirjyid		8,8,606
+271	摩耶改	ajhdojqfykfu		17,19,606
+272	鳥海改	nsgytjsjbfdp		18,20,606
+273	利根改	fkatobgcyygb		11,11,606
+274	筑摩改	paqnehcojygu		11,11,606
+275	長門改	szgthkexanxl		16,17,606
+276	陸奥改	hujriolkmhzy		11,9,606
+277	赤城改	gtmwrbaniaud		16,14,606
+278	加賀改	uuqdlbtrkmvk		12,12,606
+279	蒼龍改	mxohelwcpocv		16,17,1
+280	飛龍改	kftqxfempust		15,16,1
+281	龍驤改	wvcpwlwuxwhq		17,14,1
+282	祥鳳改	numjsnomjspr		20,16,606
+283	飛鷹改	yiwwnppitqpf		8,8,1
+284	隼鷹改	pwokyefpmqwi		3,3,1
+285	鳳翔改	xjotoxrgwfrj		5,3,606
+286	扶桑改	mnkjkgammeds		23,16,606
+287	山城改	bnbdxfioqxtt		22,16,606
+288	翔鶴改	vcftaofxkvgk		13,13,606
+289	鬼怒改	ikwmknqjpvkg		15,15,606
+290	阿武隈改	uuxoixtoemiv		15,16,606
+291	千歳航改	ufcqfujavyyg		14,9,606
+292	千代田航改	hgitzuyaysvw		14,9,606
+293	夕張改	hfhcjjdyqyzn		18,15,606
+294	舞風改	ssvrjquubpim		14,14,606
+295	衣笠改	qgkmjgfbanxl		3,4,606
+296	千歳航改二	kavryopoywwx		15,10,606
+297	千代田航改二	jhefpwucyxiq		15,10,606
+300	初風改	ukwcjqlolezy		18,15,606
+301	秋雲改	ijhrnvnbqkmj		5,3,606
+302	夕雲改	bbgkikxppksy		14,5,606
+303	巻雲改	gekgxdsvrliq		7,5,606
+304	長波改	lovstgcfspwr		11,4,606
+305	阿賀野改	cmpqwemjahur		9,9,606
+306	能代改	hvnqlrdovfqe		9,9,606
+307	矢矧改	acajrnrqxplq		9,9,606
+308	弥生改	ozjrctjajnpx		16,14,606
+309	卯月改	xwjlobdutrwv		17,15,606
+310	Z1改	vbuxfozqoemo		5,3,1
+311	Z3改	vksfcnchqurh		3,1,1
+312	浜風改	ojkgkujsenly		24,20,606
+313	谷風改	jdyqtxzmsyng		17,14,606
+314	酒匂改	kbdewgsfrkra		9,9,606
+315		igezlfrivcar		1,1,1
+316	天津風改	cpcycglgelxd		1,1,1
+317	浦風改	exedxncqauws		16,14,606
+318	龍鳳改	rjtnzguullvo		10,4,1
+319	妙高改二	kadfixosusrf		15,15,606
+320	磯風改	dyupugfxshtd		5,3,606
+321	大淀改	gixbrtnuabge		23,15,606
+322	時津風改	svglgiwjfyxn		14,14,606
+323	春雨改	cispmgxqaedk		15,6,1
+324	早霜改	uvfgjekdjlcw		4,1,606
+325	清霜改	xomrbwrvjwfv		8,3,606
+326	初春改二	xoiprnaxqxbj		15,15,1
+327	朝雲改	vdieczinfgce		18,15,1
+328	山雲改	pyfdxrfqwldn		12,9,1
+329	野分改	qegrehgswrpg		15,15,1
+330	秋月改	tubwmcjwtlqx		13,11,1
+331	天城	gmlbignzjwmq		10,6,1
+332	葛城	fgyvwqymkekn		9,9,1
+333		fwywlrdttcoc	*404	1,1,1
+334	U-511改	dfrmfmjvschh		5,5,1
+335		fuzvvipztlod	*404	1,1,1
+336		nyveugfueqrn	*404	1,1,1
+337		ospkpclnhxkj	*404	1,1,1
+338		yotuoourymyr	*404	1,1,1
+339		utbekttrwkug	*404	1,1,1
+340		tmodouudtfbl	*404	1,1,1
+341		zzjoppqteksh	*404	1,1,1
+342		rybmohpldpuq	*404	1,1,1
+343	香取改	kexcbmpnmmwv		15,13,1
+344	朝霜改	jozbiyweyksl		14,12,606
+345	高波改	ydsbnsiogwij		18,12,606
+346	照月改	urpnkwaneqfb		9,9,606
+347	Libeccio改	rgfuelwdntub		14,10,606
+348	瑞穂改	ycgllqsxwdgy		31,10,606
+349	風雲改	gykqxdkfpzih		13,9,606
+350	海風改	djszrxlnhbuv		10,10,606
+351	江風改	litugbpkilsf		16,11,606
+352	速吸改	niuenzxpukjq		9,9,606
+353	Graf Zeppelin改	uljlkucfqqcc		8,8,606
+354	嵐改	stvkbeqhwmmj		8,8,606
+355	萩風改	vbqucvbohcex		8,8,606
+356	鹿島改	grgeljjshnfk		15,10,606
+357	初月改	wwuwxxrkzxex		3,3,606
+358	Zara改	waviopoxryme		4,2,606
+359	沖波改	higuuqsbfkvb		4,2,606
+360	Iowa改	nwntjkczdexl		3,1,606
+361	Pola改	btfmqyxunhkj		5,1,606
+362	親潮改	fkrtllluordb		1,1,606
+363	春風改	ihdaromldkrr		1,1,606
+364	Warspite改	bwsoozmjkbde		1,1,606
+365	Aquila改	ywgeborrihwb		1,1,606
+366	水無月改	mnqveismubcz		3,1,606
+367	伊26改	whdxgwhsflxf		1,2,1
+368	浦波改	uvihthcdkhof		3,1,606
+369	山風改	qfyztscquxza		5,1,606
+370	朝風改	sfhznwdwstgj		2,1,606
+371	松風改	bzigjflbyxbe		1,1,606
+372	Commandant Teste改	wgyatqtsrghn		9,1,1
+373	藤波改	kbnitqplofhm		1,1,606
+374	伊13改	hmjwmfpdcuur		1,1,1
+375	伊14改	fhcabilueqsn		1,1,1
+376	占守改	vtnbtspwclng	*404	1,1,606
+377	国後改	qvjugtvdmppy	*404	1,1,606
+380	大鷹改	gjdwbkyoqrwv	*404	1,1,606
+383	択捉改	glvwrolqeexv	*404	1,1,606
+398	伊168改	dyfnguymthbd		4,5,606
+399	伊58改	hosmgvuzyjlw		3,4,606
+400	伊8改	fggcskrfkpnr		8,8,606
+401	伊19改	jwrlielrnfpr		8,8,606
+402	まるゆ改	nrdgjqcgecmg		4,1,606
+403	伊401改	tuvoqtqrddem		5,3,1
+404	雲龍	xgoisifuerjd		1,1,606
+405	春雨	dbtrdgatxdpl		8,5,1
+406	雲龍改	rqsbaiaqlunp		2,2,606
+407	潮改二	fsgwccpesgfh		25,19,606
+408	隼鷹改二	yyyfqcpumpxj		4,4,1
+409	早霜	kgwxvcnblfjb		4,1,606
+410	清霜	gdbwncyaopob		8,3,606
+411	扶桑改二	gmnsxwkdssmj		23,16,606
+412	山城改二	xjsgvmgfleuu		22,16,606
+413	朝雲	xjtxwkwwfdze		19,16,1
+414	山雲	xthvimkarzgq		16,13,1
+415	野分	skmmrmdljugc		14,14,1
+416	古鷹改二	vqdgxtrgintc		16,16,1
+417	加古改二	riiwaegupstv		8,8,1
+418	皐月改二	uhbkffblgplp		2,2,606
+419	初霜改二	ufgydlyjdaxb		8,8,1
+420	叢雲改二	ugxgvgtjsxud		14,12,606
+421	秋月	wkvdcpaogfii		13,11,1
+422	照月	fvcfdjvmxlko		9,9,606
+423	初月	uscckqoguchc		3,3,606
+424	高波	hvxoppojkyge		17,12,606
+425	朝霜	cdsgjcufyxlz		13,11,606
+426	吹雪改二	rtkekdbkqrkg		19,17,606
+427	鳥海改二	jcrdsdpsjcgj		14,16,606
+428	摩耶改二	xljtrrmemnon		14,16,606
+429	天城改	zgscfjpbxnir		13,9,1
+430	葛城改	bohmlbbvqtfs		9,9,1
+431	U-511	ksvosfducgbe		4,4,1
+432	Graf Zeppelin	tepoqqczfonx		8,8,606
+433	Saratoga	qtuuhjmqmvfh		2,1,606
+434	睦月改二	idhoawqrgkqh		15,13,606
+435	如月改二	ygqdfllpkbee		16,14,606
+436	呂500	wnibjvejengh		12,12,1
+437	暁改二	gzerqivthcrd		3,3,606
+438	Saratoga改	wmebertagnxm		2,1,606
+439	Warspite	lnltescodihe		1,1,606
+440	Iowa	tgknyzwyexxt		3,1,606
+441	Littorio	hkhkiqkleprp		17,12,606
+442	Roma	gyywcqqfnjkc		17,14,606
+443	Libeccio	nsutzbtifaji		14,10,606
+444	Aquila	beymvxmvhoct		1,1,606
+445	秋津洲	oswtwcbzgbfm		16,13,606
+446	Italia	feyfhhruhjse		17,12,606
+447	Roma改	yfpnftpuwkrx		17,14,606
+448	Zara	spmuptretooz		4,2,606
+449	Pola	zbwwxnwyxhps		5,1,606
+450	秋津洲改	wwqmolrsxfvz		16,13,606
+451	瑞穂	zqwwomufsbpq		31,10,606
+452	沖波	xxnlcxflgfji		4,2,606
+453	風雲	xooelfidumnp		13,9,606
+454	嵐	nguivbnbevwd		8,8,606
+455	萩風	xxbsgzxwjqxh		8,8,606
+456	親潮	dvcslbfkmdsy		1,1,606
+457	山風	tvieoobotato		5,1,606
+458	海風	rnmsjjndxlgj		10,10,606
+459	江風	jdpiljspxgpz		16,11,606
+460	速吸	ajggcaaaocgh		9,9,606
+461	翔鶴改二	hpxsthymxmki		8,8,606
+462	瑞鶴改二	giytrybpknos		8,8,606
+463	朝潮改二	grmdtyheocuc		1,1,606
+464	霞改二	mqlroxfnufpz		4,4,606
+465	鹿島	nwiyrjfnqvux		15,10,606
+466	翔鶴改二甲	ekuxnovhattm		8,8,606
+467	瑞鶴改二甲	qgrxbhuvtrbf		8,8,606
+468	朝潮改二丁	schftfqkstxa		1,1,606
+469	江風改二	rwrhhyeloenn		6,1,606
+470	霞改二乙	vxrvwfxhlbag		4,4,606
+471	神風	xqqqhgvzjuae		1,1,606
+472	朝風	fmsaumjkejlm		2,1,606
+473	春風	gfogtnmgovlq		1,1,606
+474	松風	uesladlyqrru		1,1,606
+475		sbvnvwfihmrd	*404	1,1,1
+476	神風改	osxrcrtldvru		2,1,606
+477		aoprntdhsoqa	*404	1,1,1
+478		usewjvwytald	*404	1,1,1
+479		xvgcgmwruygk	*404	1,1,1
+480		tbgbgvlvagls	*404	1,1,1
+481	水無月	xzuthqfclfmp		3,1,606
+482		zknpscxchueo	*404	1,1,1
+483	伊26	qrubiqfijtfp		1,1,1
+484		zvjbcleziwsc	*404	1,1,1
+485	藤波	hskuxickjvmq		1,1,606
+486	浦波	qhphdxqmvzbq		3,1,606
+487	鬼怒改二	glyidgppuqgp		1,1,606
+488	由良改二	rwectccrwkub	*404	1,1,606
+489		nhulrhmihxop	*404	1,1,1
+490	荒潮改二	hrkuspdmjtmd		1,1,606
+491	Commandant Teste	ighfxhygboim		9,1,1
+492		mbuqrrnwsofd	*404	1,1,1
+493		lksmyghdkbsg	*404	1,1,1
+494	伊13	sfficpxrcodd		1,1,1
+495	伊14	umpejcgdjwrp		1,1,1
+496	Zara due	jprnkicueltw		1,1,606
+499	神威改	tuzyehskgaup	*404	2,1,606
+500	神威改母	mxltvkpyuklh	*404	2,1,606
+503	鈴谷改二	zkiopeqgwlog		51,1,606
+504	熊野改二	babicartxhcm	*404	51,1,606
+508	鈴谷航改二	kkloilykwado		51,1,606
+509	熊野航改二	oqjojspqklln	*404	51,1,606
+511	Гангут	cqcrtbwortoi	*404	51,1,606
+512	Октябрьская революция	famtkxknboyg	*404	51,1,606
+513	Гангут два	rnuehhgtsiay	*404	51,1,606
+517	占守	mztdruitgisb	*404	51,1,606
+518	国後	duclkhpiwzon	*404	51,1,606
+521	春日丸	ycfrigxehfwt	*404	51,1,606
+524	択捉	lupcrslexuxo	*404	51,1,606
+526	大鷹	gvryjheydxtt	*404	51,2,606
+529	大鷹改二	biuzgypssrhi	*404	51,1,606
+541	長門改二	kjmmeaxfbmhx	*404	51,1,606
 
 ### Enemy ships
 ID	Name	Graphic Name	Missing?	Comment

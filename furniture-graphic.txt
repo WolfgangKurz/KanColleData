@@ -1,4 +1,4 @@
-Update: 2017-06-06
+Update: 2017-06-23
 
 ### Animated/Reactive furnitures only on this data (swf)
 
@@ -51,3 +51,4 @@ ID	Category	No.	Name	Filename	Version
 346	2	50	村雨の窓	051	1
 347	3	72	「空飛ぶ二航戦」掛け軸	073	1
 348	4	48	「瑞雲」の桐箪笥	049	1
+349	3	73	「瑞雲魂」掛け軸	074	1
