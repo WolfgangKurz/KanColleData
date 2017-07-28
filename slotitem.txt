@@ -1,4 +1,4 @@
-Update: 2017-07-14
+Update: 2017-07-28
 
 ### Types : [Big Category],[Dictionary Category],[Category],[Icon ID],[Airplane Category]
 
@@ -391,6 +391,8 @@ ID	Name	Types	HP	Armor	Fire power	Torpedo power	Speed	Bombing	AA Power	Anti-Subm
 237	瑞雲(六三四空/熟練)	5,43,11,10,2	0	0	0	0	0	9	4	6	0	1	0	1	0	0	7	0	0	0	5	2,3,0,5	0	7	5
 238	零式水上偵察機11型乙	5,7,10,10,2	0	0	1	0	0	0	1	7	0	2	0	0	0	0	6	0	0	0	3	1,2,0,3	0	5	7
 241	戦闘糧食(特別なおにぎり)	18,34,43,34,0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1,0,0,1	0		
+242	Swordfish	3,5,8,8,28	0	0	2	3	0	0	0	4	0	1	0	0	0	0	1	0	0	0	2	1,1,0,1	0	3	3
+243	Swordfish Mk.II(熟練)	3,5,8,8,28	0	0	3	5	0	0	0	6	0	3	0	0	0	0	2	0	0	0	3	1,2,0,1	0	3	3
 
 ### Enemy slotitems
 ID	Name	Types	HP	Armor	Fire	Torpedo	Speed	Bombing	Anti-Air	Anti-Submerine	???	Hit chance	Torpedo (Aircraft)	Evasion	Evasion chance	Bombing evasion chance	Search	Search interruption	Luck	Length	Rarity	Materials on broken	UseBull(???)	Airplane Cost	Airplane Distance
