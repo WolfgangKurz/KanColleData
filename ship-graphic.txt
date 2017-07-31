@@ -1,4 +1,4 @@
-Update: 2017-07-14
+Update: 2017-07-31
 
 ### Player ships
 ID	Name	Graphic Name	Missing?	Comment
@@ -493,6 +493,7 @@ ID	Name	Graphic Name	Missing?	Comment
 526	大鷹	gvryjheydxtt	*404	51,2,714
 529	大鷹改二	biuzgypssrhi	*404	51,1,714
 541	長門改二	kjmmeaxfbmhx	*404	51,1,714
+548	文月改二	ewtmrxzqvupm	*404	51,2,714
 
 ### Enemy ships
 ID	Name	Graphic Name	Missing?	Comment
