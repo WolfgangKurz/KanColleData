@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Update: 2017-08-11
+=======
+Update: 2017-07-31
+>>>>>>> 1539ecafc82e0dd429492f078869a24ddcc42f83
 
 ### Ship Type : See shiptype.txt
 ### After Upgrade : Ship id after upgrade
