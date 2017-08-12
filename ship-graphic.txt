@@ -1,4 +1,4 @@
-Update: 2017-08-11
+Update: 2017-08-12
 
 ### Player ships
 ID	Name	Graphic Name	Missing?	Comment
@@ -332,7 +332,7 @@ ID	Name	Graphic Name	Missing?	Comment
 331	天城	gmlbignzjwmq		10,6,1
 332	葛城	fgyvwqymkekn		9,9,1
 333		fwywlrdttcoc	*404	1,1,1
-334	U-511改	dfrmfmjvschh		5,5,1
+334	U-511改	dfrmfmjvschb	*404	6,5,1
 335		fuzvvipztlod	*404	1,1,1
 336		nyveugfueqrn	*404	1,1,1
 337		ospkpclnhxkj	*404	1,1,1
@@ -417,12 +417,12 @@ ID	Name	Graphic Name	Missing?	Comment
 428	摩耶改二	xljtrrmemnon		14,16,1
 429	天城改	zgscfjpbxnir		13,9,1
 430	葛城改	bohmlbbvqtfs		9,9,1
-431	U-511	ksvosfducgbe		4,4,1
+431	U-511	ksvosfducgbb	*404	5,4,1
 432	Graf Zeppelin	tepoqqczfonx		8,8,1
 433	Saratoga	qtuuhjmqmvfh		2,1,714
 434	睦月改二	idhoawqrgkqh		15,13,731
 435	如月改二	ygqdfllpkbee		16,14,731
-436	呂500	wnibjvejengh		12,12,714
+436	呂500	wnibjvejengb	*404	13,12,714
 437	暁改二	gzerqivthcrd		3,3,1
 438	Saratoga改	wmebertagnxm		2,1,714
 439	Warspite	lnltescodihe		1,1,731
@@ -505,6 +505,7 @@ ID	Name	Graphic Name	Missing?	Comment
 539	UIT-25	jisyljtqgqcj	*404	51,1,1
 541	長門改二	kjmmeaxfbmhx	*404	51,1,714
 548	文月改二	ewtmrxzqvupm	*404	51,2,714
+605	Luigi Torelli改	drbcfdxjgwgx	*404	51,1,1
 
 ### Enemy ships
 ID	Name	Graphic Name	Missing?	Comment
