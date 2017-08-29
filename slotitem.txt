@@ -1,4 +1,4 @@
-Update: 2017-08-11
+Update: 2017-08-29
 
 ### Types : [Big Category],[Dictionary Category],[Category],[Icon ID],[Airplane Category]
 
@@ -118,6 +118,8 @@ Update: 2017-08-11
 41	輸送用分解済
 42	潜水艦装備
 43	水上戦闘機
+44	陸軍戦闘機
+45	夜間戦闘機
 
 
 ### Types - Airplane Category
@@ -147,6 +149,10 @@ Update: 2017-08-11
 23	橘花改
 24	試製南山, 瑞雲(六三一空)  // 黄色の航空機…?
 25	Ro航空機
+26	強風改
+27	陸軍戦闘機
+28	イギリス攻撃機
+29	イギリス戦闘機
 
 
 ### Materials on broken : [Fuel],[Ammo],[Steel],[Bauxite]
@@ -403,6 +409,8 @@ ID	Name	Types	HP	Armor	Fire power	Torpedo power	Speed	Bombing	AA Power	Anti-Subm
 251	Spitfire Mk.V	22,39,48,44,29	0	0	1	0	0	0	9	0	0	3	0	2	0	0	0	0	0	0	4	1,2,0,6	0	5	5
 252	Seafire LF.Mk.III	3,5,6,6,29	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	1,1,0,1	0		
 253	Spitfire Mk.IX(熟練)	22,39,48,44,29	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	1,1,0,4	0		
+254	F6F-3N	3,5,6,45,21	0	0	0	0	0	0	8	4	0	2	0	3	0	0	2	0	0	0	4	2,3,0,5	0	9	5
+255	F6F-5N	3,5,6,45,21	0	0	0	0	0	0	10	5	0	3	0	3	0	0	3	0	0	0	5	2,4,0,6	0	9	5
 
 ### Enemy slotitems
 ID	Name	Types	HP	Armor	Fire	Torpedo	Speed	Bombing	Anti-Air	Anti-Submerine	???	Hit chance	Torpedo (Aircraft)	Evasion	Evasion chance	Bombing evasion chance	Search	Search interruption	Luck	Length	Rarity	Materials on broken	UseBull(???)	Airplane Cost	Airplane Distance
