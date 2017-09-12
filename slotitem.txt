@@ -1,4 +1,4 @@
-Update: 2017-08-29
+Update: 2017-09-12
 
 ### Types : [Big Category],[Dictionary Category],[Category],[Icon ID],[Airplane Category]
 
@@ -404,13 +404,17 @@ ID	Name	Types	HP	Armor	Fire power	Torpedo power	Speed	Bombing	AA Power	Anti-Subm
 246	38cm四連装砲改	1,1,3,3,0	0	1	22	0	0	0	2	0	0	3	0	0	0	0	0	0	0	2	5	0,21,24,4	0		
 247	15.2cm三連装砲	1,2,4,4,0	0	0	6	0	0	0	1	0	0	3	0	0	0	0	0	0	0	2	3	0,2,5,0	0		
 248	Skua	3,5,7,7,14	0	0	0	0	0	4	2	2	0	0	0	2	0	0	0	0	0	0	2	1,2,0,1	0	4	4
-249	Fulmar	3,5,6,6,14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1,1,0,1	0		
+249	Fulmar	3,5,6,6,14	0	0	1	0	0	0	3	2	0	2	0	1	0	0	1	0	0	0	2	1,2,0,2	0	5	4
 250	Spitfire Mk.I	22,39,48,44,29	0	0	1	0	0	0	7	0	0	2	0	1	0	0	0	0	0	0	3	1,2,0,4	0	5	4
 251	Spitfire Mk.V	22,39,48,44,29	0	0	1	0	0	0	9	0	0	3	0	2	0	0	0	0	0	0	4	1,2,0,6	0	5	5
-252	Seafire LF.Mk.III	3,5,6,6,29	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	1,1,0,1	0		
-253	Spitfire Mk.IX(熟練)	22,39,48,44,29	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	1,1,0,4	0		
+252	Seafire Mk.III改	3,5,6,6,29	0	1	1	0	0	0	9	0	0	1	0	2	0	0	0	0	0	0	4	1,2,0,6	0	6	4
+253	Spitfire Mk.IX(熟練)	22,39,48,44,29	0	0	1	0	0	0	10	0	0	2	0	4	0	0	0	0	0	0	5	2,2,0,7	0	6	4
 254	F6F-3N	3,5,6,45,21	0	0	0	0	0	0	8	4	0	2	0	3	0	0	2	0	0	0	4	2,3,0,5	0	9	5
 255	F6F-5N	3,5,6,45,21	0	0	0	0	0	0	10	5	0	3	0	3	0	0	3	0	0	0	5	2,4,0,6	0	9	5
+256	TBF	3,5,8,8,21	0	0	2	9	0	0	1	6	0	0	0	0	0	0	2	0	0	0	3	3,6,0,11	0	10	6
+257	TBM-3D	3,5,8,46,21	0	0	2	9	0	0	1	8	0	2	0	0	0	0	4	0	0	0	4	3,7,0,12	0	11	6
+258	夜間作戦航空要員	13,23,35,29,0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	1,10,1,10	0		
+259	夜間作戦航空要員+熟練甲板員	13,23,35,29,0	0	1	3	0	0	0	0	0	0	2	0	1	0	0	0	0	0	3	4	1,10,1,10	0		
 
 ### Enemy slotitems
 ID	Name	Types	HP	Armor	Fire	Torpedo	Speed	Bombing	Anti-Air	Anti-Submerine	???	Hit chance	Torpedo (Aircraft)	Evasion	Evasion chance	Bombing evasion chance	Search	Search interruption	Luck	Length	Rarity	Materials on broken	UseBull(???)	Airplane Cost	Airplane Distance
