@@ -1,4 +1,4 @@
-Update: 2017-09-12
+Update: 2017-09-28
 
 ### After,Before,Base : Ship id
 
@@ -67,6 +67,8 @@ After	Before	Base	After Name	Before Name	Original Name	Upgrade Type	Upgrade Leve
 427	272	69	鳥海改二	鳥海改	鳥海	1	2	1	0	227
 429	331	331	天城改	天城	天城	1	1	1	0	229
 430	332	332	葛城改	葛城	葛城	1	1	1	0	230
+433	0	433	Saratoga		Saratoga	1	0	0	0	233
+438	433	433	Saratoga改	Saratoga	Saratoga	1	1	0	0	238
 441	0	441	Littorio		Littorio	1	0	0	0	241
 442	0	442	Roma		Roma	1	0	0	0	242
 446	441	441	Italia	Littorio	Littorio	1	1	1	0	246
