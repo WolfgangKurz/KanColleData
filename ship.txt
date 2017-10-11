@@ -1,4 +1,4 @@
-Update: 2017-09-12
+Update: 2017-09-29
 
 ### Ship Type : See shiptype.txt
 ### After Upgrade : Ship id after upgrade
@@ -775,6 +775,7 @@ ID	Sort No.	Name	Yomi	Ship Type	Upgrade Level	After Upgrade	Max Hp	Armor	Fire po
 
 # Player special illustration ships (Deleted from original data?)
 ID	Sort No.	Name	Yomi	Ship Type	Upgrade Level	After Upgrade	Max Hp	Armor	Fire power	Torpedo power	AA Power	Luck	Speed	Range	Slot count	Airplanes	Build mins	Materials on broken	Powerup point	Rarity	Required fuel	Required ammo	Max fuel	Max ammo	Voice bits
+787		浴衣朝霜	あさしも	13									10		2										
 788		炒飯長波	ながなみ	2									10		2										
 789		夏Z1	レーベレヒト・マース	2									10		3										
 790		夏海風	うみかぜ	2									10		2										

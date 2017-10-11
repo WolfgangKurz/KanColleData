@@ -1,4 +1,4 @@
-Update: 2017-09-12
+Update: 2017-09-29
 
 ### Animated/Reactive furnitures only on this data (swf)
 
@@ -55,3 +55,4 @@ ID	Category	No.	Name	Filename	Version
 354	2	51	文月の窓	052	1
 359	2	52	長月の秋窓	053	1
 360	4	49	月夜海の蓄音機	050	1
+361	4	76	一七式大漁旗	077	1
