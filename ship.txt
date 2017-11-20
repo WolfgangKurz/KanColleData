@@ -1,4 +1,4 @@
-Update: 2017-11-19
+Update: 2017-11-20
 
 ### Ship Type : See shiptype.txt
 ### After Upgrade : Ship id after upgrade
@@ -792,9 +792,9 @@ ID	Sort No.	Name	Yomi	Ship Type	Upgrade Level	After Upgrade	Max Hp	Armor	Fire po
 1770		海峡夜棲姫-壊		10									10		4										
 1771		海峡夜棲姫-壊		10									10		4										
 1772		海峡夜棲姫-壊		10									10		4										
-1773		防空埋姫		10									10		4										
-1774		防空埋姫		10									10		4										
-1775		防空埋姫		10									10		4										
+1773		防空埋護姫		10									10		3										
+1774		防空埋護姫		10									10		3										
+1775		防空埋護姫		10									10		3										
 
 # Player special illustration ships (Deleted from original data?)
 ID	Sort No.	Name	Yomi	Ship Type	Upgrade Level	After Upgrade	Max Hp	Armor	Fire power	Torpedo power	AA Power	Luck	Speed	Range	Slot count	Airplanes	Build mins	Materials on broken	Powerup point	Rarity	Required fuel	Required ammo	Max fuel	Max ammo	Voice bits
