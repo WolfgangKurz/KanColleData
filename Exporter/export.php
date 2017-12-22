@@ -33,6 +33,7 @@ foreach($json->api_mst_furniture as $s){
 	echo $id . "\t" . $s->api_type . "\t" . $s->api_no . "\t" . $s->api_title;
 	echo "\t" . $s->api_rarity . "\t" . $s->api_price;
 	echo "\t" . $s->api_saleflg . "\t" . $s->api_season;
+	echo "\t" . $s->api_description;
 	echo "\n";
 }
 
@@ -190,7 +191,12 @@ foreach($json->api_mst_shipgraph as $y){
 	$name = '';
 	$id = intval($y->api_id);
 
-	if($id != 0) $name = $out->ships2[$id]['name'];
+	if($id != 0) {
+		$name = linq_where($json->api_mst_ship, function($x) use ($id){
+			return $id == $x->api_id;
+		});
+		$name = array_pop($name)->api_name;
+	}
 
 	$f1 = file_exists(dirname(__FILE__).'/kcv/ships/'.$b.'.swf');
 	$f2 = file_exists(dirname(__FILE__).'/kcv/ships/'.$b.'/');
