@@ -1,4 +1,4 @@
-Update: 2017-12-22
+Update: 2017-12-29
 
 ### After,Before,Base : Ship id
 
@@ -102,6 +102,7 @@ After	Before	Base	After Name	Before Name	Original Name	Upgrade Type	Upgrade Leve
 526	521	521	大鷹	春日丸	春日丸	1	1	0	0	326
 529	380	521	大鷹改二	大鷹改	春日丸	1	3	1	1	331
 541	275	80	長門改二	長門改	長門	1	2	1	0	341
+543	304	135	長波改二	長波改	長波	1	2	1	0	343
 545	438	433	Saratoga Mk.II	Saratoga改	Saratoga	1	2	1	1	345
 545	550	433	Saratoga Mk.II	Saratoga Mk.II Mod.2	Saratoga	1	4	0	0	345
 547	216	100	多摩改二	多摩改	多摩	1	2	1	0	347

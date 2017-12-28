@@ -1,4 +1,4 @@
-Update: 2017-12-22
+Update: 2017-12-29
 
 ### Player ships
 ID	Name	Graphic Name	Missing?	Comment
@@ -510,6 +510,7 @@ ID	Name	Graphic Name	Missing?	Comment
 539	UIT-25	jisyljtqgqcj		
 540	対馬	mgofelnbpslm		
 541	長門改二	kjmmeaxfbmhx		
+543	長波改二	tdextuaybvpj	
 545	Saratoga Mk.II	rhhklxaodsld		
 547	多摩改二	pcmipikyqfxe		
 548	文月改二	ewtmrxzqvupm		

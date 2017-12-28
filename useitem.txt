@@ -1,4 +1,4 @@
-Update: 2017-12-22
+Update: 2017-12-29
 
 ### Type
 0	使用不可
@@ -88,3 +88,4 @@ ID	Type	Category	Name	Price (?)
 77	0	0	新型航空兵装資材	0
 78	0	0	戦闘詳報	0
 79	0	0	海峡章	0
+80	4	0	Xmas Select Gift Box	0
