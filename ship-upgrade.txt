@@ -1,4 +1,4 @@
-Update: 2017-12-29
+Update: 2018-01-17
 
 ### After,Before,Base : Ship id
 
@@ -92,6 +92,7 @@ After	Before	Base	After Name	Before Name	Original Name	Upgrade Type	Upgrade Leve
 488	220	23	由良改二	由良改	由良	1	2	1	0	288
 490	251	98	荒潮改二	荒潮改	荒潮	1	2	1	0	290
 496	358	448	Zara due	Zara改	Zara	1	2	1	0	296
+498	244	44	村雨改二	村雨改	村雨	1	2	0	0	343
 503	129	124	鈴谷改二	鈴谷改	鈴谷	1	2	1	0	303
 503	508	124	鈴谷改二	鈴谷航改二	鈴谷	1	4	0	0	303
 504	130	125	熊野改二	熊野改	熊野	1	2	1	0	304

@@ -1,4 +1,4 @@
-Update: 2017-12-29
+Update: 2018-01-17
 
 ### Player ships
 ID	Name	Graphic Name	Missing?	Comment
@@ -466,7 +466,7 @@ ID	Name	Graphic Name	Missing?	Comment
 475	旗風	sbvnvwfihmrd		
 476	神風改	osxrcrtldvru		
 477		aoprntdhsoqa		
-478		usewjvwytald		
+478	龍田改二	usewjvwytald		
 479	天霧	xvgcgmwruygk		
 480	狭霧	tbgbgvlvagls		
 481	水無月	xzuthqfclfmp		
@@ -485,6 +485,7 @@ ID	Name	Graphic Name	Missing?	Comment
 494	伊13	sfficpxrcodd		
 495	伊14	umpejcgdjwrp		
 496	Zara due	jprnkicueltw		
+498	村雨改二	cppixsrylduw		
 499	神威改	tuzyehskgaup		
 500	神威改母	mxltvkpyuklh		
 503	鈴谷改二	zkiopeqgwlog		
