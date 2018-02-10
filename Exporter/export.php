@@ -265,6 +265,7 @@ foreach($json->api_mst_shipupgrade as $s){
 	echo "\t". $s->api_upgrade_level;
 	echo "\t". $s->api_drawing_count;
 	echo "\t". $s->api_catapult_count;
+	echo "\t". $s->api_report_count;
 	echo "\t". $s->api_sortno;
 	echo "\n";
 }
