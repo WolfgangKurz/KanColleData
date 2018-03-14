@@ -1,4 +1,4 @@
-Update: 2018-02-18
+Update: 2018-03-15
 
 ### Player ships
 ID	Name	Graphic Name	Missing?	Comment
@@ -381,7 +381,7 @@ ID	Name	Graphic Name	Missing?	Comment
 384	松輪改	cggjgvkbrdby	*404	5,1,216
 385	佐渡改	xtesmpinnnxy	*404	5,1,216
 386	対馬改	soujslbigbak	*404	4,1,216
-387	旗風改	ciugyosuqrdu	*404	1,1,216
+387	旗風改	ciugyosuqrdu	*404	1,1,217
 390	天霧改	qdkwbvntcvpw	*404	4,1,216
 391	狭霧改	xvelofmpcaga	*404	6,1,216
 392	Richelieu改	bvtpgrfoqzhq	*404	5,1,216
@@ -389,7 +389,7 @@ ID	Name	Graphic Name	Missing?	Comment
 394	Jervis改	ejdfsurhnkbu	*404	1,1,216
 395	Ташкент改	jdnsunmrleho	*404	1,1,216
 396	Gambier Bay改	hhffnryhkveu	*404	1,1,216
-397	Intrepid改	oieohletkdmg	*404	1,1,216
+397	Intrepid改	oieohletkdmg	*404	2,1,216
 398	伊168改	dyfnguymthbd		4,5,216
 399	伊58改	hosmgvuzyjlw		3,4,216
 400	伊8改	fggcskrfkpnr		10,10,216
@@ -467,7 +467,7 @@ ID	Name	Graphic Name	Missing?	Comment
 472	朝風	fmsaumjkejlm		2,1,216
 473	春風	gfogtnmgovlq		1,1,216
 474	松風	uesladlyqrru		1,1,216
-475	旗風	sbvnvwfihmrd	*404	1,1,216
+475	旗風	sbvnvwfihmrd	*404	1,1,217
 476	神風改	osxrcrtldvru		4,1,216
 477		aoprntdhsoqa	*404	1,1,1
 478	龍田改二	usewjvwytald	*404	1,1,216
@@ -527,6 +527,8 @@ ID	Name	Graphic Name	Missing?	Comment
 550	Saratoga Mk.II Mod.2	ambyahmkpxlz	*404	51,1,216
 551	日振	vpnpmgxoibfa	*404	51,1,216
 552	大東	jzjtuwefxhut	*404	51,1,216
+555	瑞鳳改二	nhjogdwxmuyo	*404	51,1,216
+560	瑞鳳改二乙	heurfaqfuvok	*404	51,1,216
 605	Luigi Torelli改	drbcfdxjgwgx	*404	51,1,216
 606	伊400改	dpcmmtepdfbn	*404	51,2,216
 678	日振改	mnlyjfsjqitd	*404	51,1,216
@@ -825,6 +827,21 @@ ID	Name	Graphic Name	Missing?	Comment
 1787	護衛棲水姫-壊	haxmqmfvgbsu	*404	1,1,1
 1788	護衛棲水姫-壊	xmhvxihoxcge	*404	1,1,1
 1789	潜水新棲姫	ypssirkeuaie	*404	1,1,1
+1790	戦艦棲姫改	agmkilsflsvd	*404	1,1,1
+1791	戦艦棲姫改	fetdiuftrgpr	*404	1,1,1
+1792	戦艦棲姫改	vealrdoolzyp	*404	1,1,1
+1793	戦艦水鬼改	sbkxesnhcnxw	*404	1,1,1
+1794	戦艦水鬼改	gfmskzlzmliw	*404	1,1,1
+1795	戦艦水鬼改	jfhsvcuzwqic	*404	1,1,1
+1796	戦艦水鬼改-壊	zrmwwfkxqnfq	*404	1,1,1
+1797	戦艦水鬼改-壊	pqwrewlbfxer	*404	1,1,1
+1798	戦艦水鬼改-壊	esecgyfpuxwl	*404	1,1,1
+1799	深海鶴棲姫	dyvhjbmzrxpv	*404	1,1,1
+1800	深海鶴棲姫	utqjqewlhffj	*404	1,1,1
+1801	深海鶴棲姫	dwrqmrvldpyy	*404	1,1,1
+1802	深海鶴棲姫-壊	icnjaqglhhym	*404	1,1,1
+1803	深海鶴棲姫-壊	cqbbcvbladkd	*404	1,1,1
+1804	深海鶴棲姫-壊	zioniwjalwng	*404	1,1,1
 
 
 ### Player special illustrations ships

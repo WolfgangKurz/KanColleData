@@ -1,4 +1,4 @@
-Update: 2018-02-18
+Update: 2018-03-15
 
 ### Types : [Big Category],[Dictionary Category],[Category],[Icon ID],[Airplane Category]
 
@@ -423,7 +423,7 @@ ID	Name	Types	HP	Armor	Fire power	Torpedo power	Speed	Bombing	AA Power	Anti-Subm
 260	Type124 ASDIC	7,10,14,18,0	0	0	0	0	0	0	0	11	0	2	0	1	0	0	0	0	0	0	3	0,0,1,4	0		
 261	Type144/147 ASDIC	7,10,14,18,0	0	0	0	0	0	0	0	13	0	3	0	1	0	0	0	0	0	0	4	0,0,1,5	0		
 262	HF/DF + Type144/147 ASDIC	7,10,14,18,0	0	0	0	0	0	0	0	15	0	3	0	2	0	0	2	0	0	0	5	0,0,1,6	0		
-263	紫電改(三四三空) 戦闘301	22,39,48,38,12	0	2	0	0	0	0	11	0	0	2	0	3	0	0	0	0	0	0	4	2,4,0,8	0	6	4
+263	紫電改(三四三空) 戦闘301	22,39,48,38,12	0	2	0	0	0	0	11	0	0	2	0	4	0	0	0	0	0	0	4	2,4,0,8	0	6	4
 266	12.7cm連装砲C型改二	1,1,1,1,0	0	1	3	0	0	0	2	0	0	1	0	0	0	0	0	0	0	1	2	0,1,2,0	0		
 267	12.7cm連装砲D型改二	1,1,1,1,0	0	1	3	0	0	0	3	0	0	2	0	1	0	0	0	0	0	1	3	0,2,2,1	0		
 268	北方迷彩(+北方装備)	6,17,27,23,0	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	1,0,3,1	0		
@@ -437,11 +437,12 @@ ID	Name	Types	HP	Armor	Fire power	Torpedo power	Speed	Bombing	AA Power	Anti-Subm
 276	46cm三連装砲改	1,1,3,3,0	0	2	27	0	0	0	6	0	0	2	0	0	0	0	0	0	0	4	4	0,25,26,2	0		
 277	FM-2	3,5,7,7,21	0	0	2	0	0	2	6	1	0	2	0	2	0	0	0	0	0	0	4	1,3,0,3	0	6	4
 278	SK レーダー	5,8,13,11,0	0	0	0	0	0	0	8	0	0	1	0	2	0	0	10	0	0	0	3	0,0,21,25	0		
-279	SK&SG レーダー	5,8,13,11,0	0	0	1	0	0	0	9	0	0	4	0	4	0	0	12	0	0	2	4	0,0,22,27	0		
+279	SK+SG レーダー	5,8,13,11,0	0	0	1	0	0	0	9	0	0	4	0	4	0	0	12	0	0	2	4	0,0,22,27	0		
 280	QF 4.7inch砲 Mk.XII改	1,1,1,1,0	0	0	3	0	0	0	3	1	0	1	0	1	0	0	0	0	0	1	3	0,2,2,1	0		
 281	51cm連装砲	1,1,3,3,0	0	2	32	0	0	0	5	0	0	1	0	-1	0	0	0	0	0	4	5	0,30,28,0	0		
 282	130mm B-13連装砲	1,1,1,1,0	0	1	4	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	3	0,2,3,0	0		
 283	533mm 三連装魚雷	2,3,5,5,0	0	0	1	5	0	0	0	0	0	0	0	1	0	0	0	0	0	1	2	1,1,1,0	0		
+284	5inch単装砲 Mk.30	1,1,1,16,0	0	1	2	0	0	0	6	0	0	1	0	2	0	0	0	0	0	1	3	0,1,2,2	0		
 
 ### Enemy slotitems
 ID	Name	Types	HP	Armor	Fire	Torpedo	Speed	Bombing	Anti-Air	Anti-Submerine	???	Hit chance	Torpedo (Aircraft)	Evasion	Evasion chance	Bombing evasion chance	Search	Search interruption	Luck	Length	Rarity	Materials on broken	UseBull(???)	Airplane Cost	Airplane Distance
@@ -528,3 +529,5 @@ ID	Name	Types	HP	Armor	Fire	Torpedo	Speed	Bombing	Anti-Air	Anti-Submerine	???	Hi
 581	夜猫深海艦戦	3,5,6,45,0	0	0	2	0	0	0	11	0	0	3	0	3	0	0	2	0	0	1	5	0,0,0,0	0		
 582	夜深海艦爆	3,5,7,7,0	0	0	3	0	0	16	5	11	0	4	0	0	0	0	6	0	0	2	5	0,0,0,0	0		
 583	夜復讐深海艦攻	3,5,8,46,0	0	0	4	15	0	0	6	12	0	5	0	0	0	0	7	0	0	2	5	0,0,0,0	0		
+584	深海14inch連装砲改	1,1,3,3,0	0	4	22	0	0	0	4	0	0	14	0	4	0	0	0	0	0	3	5	0,0,0,0	0		
+585	深海16inch三連装砲改	1,1,3,3,0	0	5	27	0	0	0	4	0	0	20	0	0	0	0	0	0	0	4	5	0,0,0,0	0		
