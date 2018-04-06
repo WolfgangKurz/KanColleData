@@ -1,4 +1,4 @@
-Update: 2018-02-18
+Update: 2018-04-06
 
 ### Return Flag : Can cancel?
 
@@ -48,5 +48,3 @@ ID	MapArea ID	Name	Time (mins)	Difficulty	Use fuels	Use ammos	Win item 1	Win ite
 102	1	長時間対潜警戒	135	4	0.65	0.35	1,1	3,2	1
 110	2	南西方面航空偵察作戦	35	4	0.45	0.15	10,1	1,1	1
 111	2	敵泊地強襲反撃作戦	520	4	0.8	0.65	3,2	1,2	1
-301	41	前衛支援任務	15	1	0.5	0.8	0,0	0,0	0
-302	41	艦隊決戦支援任務	30	1	0.5	0.8	0,0	0,0	0

@@ -1,4 +1,4 @@
-Update: 2018-03-15
+Update: 2018-04-06
 
 ### After,Before,Base : Ship id
 
@@ -15,6 +15,7 @@ After	Before	Base	After Name	Before Name	Original Name	Upgrade Type	Upgrade Leve
 26	0	26	扶桑		扶桑	1	0	0	0	0	26
 27	0	27	山城		山城	1	0	0	0	0	27
 44	0	44	村雨		村雨	1	0	0	0	0	81
+48	0	48	霰		霰	1	0	0	0	0	89
 49	0	49	霞		霞	1	0	0	0	0	107
 69	0	69	鳥海		鳥海	1	0	0	0	0	62
 71	0	71	利根		利根	1	0	0	0	0	63
@@ -46,6 +47,7 @@ After	Before	Base	After Name	Before Name	Original Name	Upgrade Type	Upgrade Leve
 185	184	184	龍鳳	大鯨	大鯨	1	1	1	0	0	185
 188	273	71	利根改二	利根改	利根	1	2	1	0	0	186
 189	274	72	筑摩改二	筑摩改	筑摩	1	2	1	0	0	187
+198	252	48	霰改二	霰改	霰	1	2	1	0	0	198
 199	249	96	大潮改二	大潮改	大潮	1	2	1	0	0	199
 200	290	114	阿武隈改二	阿武隈改	阿武隈	1	2	1	0	0	200
 216	100	100	多摩改	多摩	多摩	1	1	0	0	0	1316
@@ -54,6 +56,7 @@ After	Before	Base	After Name	Before Name	Original Name	Upgrade Type	Upgrade Leve
 248	95	95	朝潮改	朝潮	朝潮	1	1	0	0	0	1348
 249	96	96	大潮改	大潮	大潮	1	1	0	0	0	1349
 251	98	98	荒潮改	荒潮	荒潮	1	1	0	0	0	1351
+252	48	48	霰改	霰	霰	1	1	0	0	0	1352
 253	49	49	霞改	霞	霞	1	1	0	0	0	108
 272	69	69	鳥海改	鳥海	鳥海	1	1	0	0	0	1372
 273	71	71	利根改	利根	利根	1	1	0	0	0	373
