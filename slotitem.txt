@@ -1,4 +1,4 @@
-Update: 2018-03-15
+Update: 2018-05-19
 
 ### Types : [Big Category],[Dictionary Category],[Category],[Icon ID],[Airplane Category]
 
@@ -443,6 +443,10 @@ ID	Name	Types	HP	Armor	Fire power	Torpedo power	Speed	Bombing	AA Power	Anti-Subm
 282	130mm B-13連装砲	1,1,1,1,0	0	1	4	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	3	0,2,3,0	0		
 283	533mm 三連装魚雷	2,3,5,5,0	0	0	1	5	0	0	0	0	0	0	0	1	0	0	0	0	0	1	2	1,1,1,0	0		
 284	5inch単装砲 Mk.30	1,1,1,16,0	0	1	2	0	0	0	6	0	0	1	0	2	0	0	0	0	0	1	3	0,1,2,2	0		
+285	61cm三連装(酸素)魚雷後期型	2,3,5,5,0	0	1	0	9	0	0	0	0	0	2	0	2	0	0	0	0	0	1	3	2,2,2,1	0		
+286	61cm四連装(酸素)魚雷後期型	2,3,5,5,0	0	1	0	11	0	0	0	0	0	2	0	0	0	0	0	0	0	1	3	2,3,2,1	0		
+287	三式爆雷投射機 集中配備	7,32,15,17,0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	3	0,6,2,2	0		
+288	試製15cm9連装対潜噴進砲	7,32,15,17,0	0	0	0	0	0	0	0	15	0	1	0	0	0	0	0	0	0	0	4	0,9,3,2	0		
 
 ### Enemy slotitems
 ID	Name	Types	HP	Armor	Fire	Torpedo	Speed	Bombing	Anti-Air	Anti-Submerine	???	Hit chance	Torpedo (Aircraft)	Evasion	Evasion chance	Bombing evasion chance	Search	Search interruption	Luck	Length	Rarity	Materials on broken	UseBull(???)	Airplane Cost	Airplane Distance

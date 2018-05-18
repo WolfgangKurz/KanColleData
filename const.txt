@@ -8,7 +8,7 @@ String Value	Int Value
 ### boko_max_ships
 ### Limit ship count in system
 String Value	Int Value
-	360
+	370
 
 ### parallel_quest_max
 ### Limit parralel quests count in system

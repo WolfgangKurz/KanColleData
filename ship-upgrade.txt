@@ -1,4 +1,4 @@
-Update: 2018-04-06
+Update: 2018-05-19
 
 ### After,Before,Base : Ship id
 
@@ -11,6 +11,8 @@ Update: 2018-04-06
 
 id	current_ship_id	original_ship_id	-	-	-	upgrade_type	upgrade_level	drawing_count	catapult_count	report_count	sortno
 After	Before	Base	After Name	Before Name	Original Name	Upgrade Type	Upgrade Level	Blueprint count	Catapult Count	Report Count	Sort No.
+17	0	17	陽炎		陽炎	1	0	0	0	0	91
+18	0	18	不知火		不知火	1	0	0	0	0	92
 23	0	23	由良		由良	1	0	0	0	0	45
 26	0	26	扶桑		扶桑	1	0	0	0	0	26
 27	0	27	山城		山城	1	0	0	0	0	27
@@ -52,6 +54,8 @@ After	Before	Base	After Name	Before Name	Original Name	Upgrade Type	Upgrade Leve
 200	290	114	阿武隈改二	阿武隈改	阿武隈	1	2	1	0	0	200
 216	100	100	多摩改	多摩	多摩	1	1	0	0	0	1316
 220	23	23	由良改	由良	由良	1	1	0	0	0	1320
+225	17	17	陽炎改	陽炎	陽炎	1	1	0	0	0	1325
+226	18	18	不知火改	不知火	不知火	1	1	0	0	0	1326
 244	44	44	村雨改	村雨	村雨	1	1	0	0	0	1344
 248	95	95	朝潮改	朝潮	朝潮	1	1	0	0	0	1348
 249	96	96	大潮改	大潮	大潮	1	1	0	0	0	1349
@@ -123,3 +127,5 @@ After	Before	Base	After Name	Before Name	Original Name	Upgrade Type	Upgrade Leve
 555	117	116	瑞鳳改二	瑞鳳改	瑞鳳	1	2	0	0	0	355
 555	560	116	瑞鳳改二	瑞鳳改二乙	瑞鳳	1	4	0	0	0	355
 560	555	116	瑞鳳改二乙	瑞鳳改二	瑞鳳	1	3	0	0	0	360
+566	225	17	陽炎改二	陽炎改	陽炎	1	2	1	0	0	366
+567	226	18	不知火改二	不知火改	不知火	1	2	1	0	0	367
