@@ -70,6 +70,7 @@ foreach($json->api_mst_mapbgm as $s){
 	$id = intval($id);
 
 	echo $id . "\t" . $s->api_maparea_id . "\t" . $s->api_no;
+	echo "\t" . $s->api_moving_bgm;
 	echo "\t" . join(",", $s->api_map_bgm);
 	echo "\t" . join(",", $s->api_boss_bgm);
 	echo "\n";
