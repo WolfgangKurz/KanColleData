@@ -1,4 +1,4 @@
-Update: 2018-06-14
+Update: 2018-07-12
 
 ### After,Before,Base : Ship id
 
@@ -17,6 +17,7 @@ After	Before	Base	After Name	Before Name	Original Name	Upgrade Type	Upgrade Leve
 23	0	23	由良		由良	1	0	0	0	0	45
 26	0	26	扶桑		扶桑	1	0	0	0	0	26
 27	0	27	山城		山城	1	0	0	0	0	27
+42	0	42	白露		白露	1	0	0	0	0	79
 44	0	44	村雨		村雨	1	0	0	0	0	81
 48	0	48	霰		霰	1	0	0	0	0	89
 49	0	49	霞		霞	1	0	0	0	0	107
@@ -41,6 +42,7 @@ After	Before	Base	After Name	Before Name	Original Name	Upgrade Type	Upgrade Leve
 125	0	125	熊野		熊野	1	0	0	0	0	125
 129	124	124	鈴谷改	鈴谷	鈴谷	1	1	0	0	0	129
 130	125	125	熊野改	熊野	熊野	1	1	0	0	0	130
+133	0	133	夕雲		夕雲	1	0	0	0	0	133
 135	0	135	長波		長波	1	0	0	0	0	135
 143	0	143	武蔵		武蔵	1	0	0	0	0	143
 148	143	143	武蔵改	武蔵	武蔵	1	1	0	0	0	148
@@ -60,6 +62,7 @@ After	Before	Base	After Name	Before Name	Original Name	Upgrade Type	Upgrade Leve
 225	17	17	陽炎改	陽炎	陽炎	1	1	0	0	0	1325
 226	18	18	不知火改	不知火	不知火	1	1	0	0	0	1326
 227	19	19	黒潮改	黒潮	黒潮	1	1	0	0	0	1327
+242	42	42	白露改	白露	白露	1	1	0	0	0	1342
 244	44	44	村雨改	村雨	村雨	1	1	0	0	0	1344
 248	95	95	朝潮改	朝潮	朝潮	1	1	0	0	0	1348
 249	96	96	大潮改	大潮	大潮	1	1	0	0	0	1349
@@ -75,6 +78,7 @@ After	Before	Base	After Name	Before Name	Original Name	Upgrade Type	Upgrade Leve
 288	110	110	翔鶴改	翔鶴	翔鶴	1	1	0	0	0	1388
 289	113	113	鬼怒改	鬼怒	鬼怒	1	1	0	0	0	1389
 290	114	114	阿武隈改	阿武隈	阿武隈	1	1	0	0	0	1390
+302	133	133	夕雲改	夕雲	夕雲	1	1	0	0	0	1398
 304	135	135	長波改	長波	長波	1	1	0	0	0	1400
 318	185	184	龍鳳改	龍鳳	大鯨	1	2	0	0	0	190
 331	0	331	天城		天城	1	0	0	0	0	202
@@ -111,6 +115,7 @@ After	Before	Base	After Name	Before Name	Original Name	Upgrade Type	Upgrade Leve
 488	220	23	由良改二	由良改	由良	1	2	1	0	0	288
 490	251	98	荒潮改二	荒潮改	荒潮	1	2	1	0	0	290
 496	358	448	Zara due	Zara改	Zara	1	2	1	0	0	296
+497	242	42	白露改二	白露改	白露	1	2	0	0	1	297
 498	244	44	村雨改二	村雨改	村雨	1	2	0	0	1	298
 503	129	124	鈴谷改二	鈴谷改	鈴谷	1	2	1	0	0	303
 503	508	124	鈴谷改二	鈴谷航改二	鈴谷	1	4	0	0	0	303
@@ -122,6 +127,7 @@ After	Before	Base	After Name	Before Name	Original Name	Upgrade Type	Upgrade Leve
 526	521	521	大鷹	春日丸	春日丸	1	1	0	0	0	326
 529	380	521	大鷹改二	大鷹改	春日丸	1	3	1	1	0	331
 541	275	80	長門改二	長門改	長門	1	2	1	0	0	341
+542	302	133	夕雲改二	夕雲改	夕雲	1	2	1	0	1	342
 543	304	135	長波改二	長波改	長波	1	2	1	0	1	343
 545	438	433	Saratoga Mk.II	Saratoga改	Saratoga	1	2	1	1	0	345
 545	550	433	Saratoga Mk.II	Saratoga Mk.II Mod.2	Saratoga	1	4	0	0	0	345
