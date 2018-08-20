@@ -1,4 +1,4 @@
-Update: 2018-08-01
+Update: 2018-08-20
 
 ### Ship Type : See shiptype.txt
 ### After Upgrade : Ship id after upgrade

@@ -2,7 +2,7 @@
 require_once('linq.php');
 
 $src = file_get_contents(dirname(__FILE__) . '/../api_start2');
-
+/*
 $dec = '';
 $x = '';
 for($i=0; $i<strlen($src); $i++){
@@ -24,6 +24,7 @@ for($i=0; $i<strlen($src); $i++){
 	$x .= $src[$i];
 }
 $src = gzdecode($dec);
+*/
 $src = substr($src, 7);
 
 header('Content-Type: text/plain; charset=UTF-8');

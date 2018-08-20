@@ -6,10 +6,10 @@ ID	Name	Graphic Name	Missing?	Comment
 2	如月	wujywbyjntbp		25,20,801
 3		mhqqhhvvpzxg		1,1,1
 4		rzgndzraoddu		1,1,1
-5		hbhkiyykheeq	*404	1,1,1
+5		hbhkiyykheeq		1,1,1
 6	長月	kksiqffpclxh		12,10,801
 7	三日月	ujhxqqlcorxv		11,11,801
-8		boxlrnnmjkhb	*404	1,1,1
+8		boxlrnnmjkhb		1,1,1
 9	吹雪	gyckjmemgqoe		24,20,801
 10	白雪	xqnkdultpvaf		16,16,801
 11	深雪	cdidanqovcfr		11,11,801
@@ -43,9 +43,9 @@ ID	Name	Graphic Name	Missing?	Comment
 39	子日	zgerairddhko		18,14,801
 40	若葉	ihuijkvksqky		10,14,801
 41	初霜	qngptlxhrwhj		10,13,801
-42	白露	ahztpphnuvco		34,32,801
+42	白露	ahztpphnuvco		34,33,817
 43	時雨	kclrmkyzpnpc		23,37,801
-44	村雨	fhaelooubkbi		37,35,801
+44	村雨	fhaelooubkbi		37,36,817
 45	夕立	pnpixtolsebg		24,25,801
 46	五月雨	tyjrubumfpxy		12,12,801
 47	涼風	qaryaychpubb		9,9,801
@@ -103,17 +103,17 @@ ID	Name	Graphic Name	Missing?	Comment
 99	球磨	zrmviexnupjy		23,11,801
 100	多摩	jiftwdxqwtin		19,11,801
 101	木曾	veulocbvzaqy		12,12,801
-102	千歳	dkmxevqgbxmr		20,9,801
-103	千代田	cayfwlehtvgj		22,9,801
-104	千歳改	wvkpfygaipjq		20,10,801
-105	千代田改	tsfbgfyeqxhg		22,12,801
-106	千歳甲	ttkeodhvrmog		20,10,801
-107	千代田甲	agybvcshxbpm		22,12,801
-108	千歳航	wlvvcpnulyer		20,10,801
-109	千代田航	rsmzverhwskc		22,11,801
-110	翔鶴	pdricqoovxfe		15,17,801
-111	瑞鶴	suivtkpjnmpt		14,19,801
-112	瑞鶴改	ihwgeegenykh		15,19,801
+102	千歳	dkmxevqgbxmr		20,10,817
+103	千代田	cayfwlehtvgj		22,10,817
+104	千歳改	wvkpfygaipjq		20,11,817
+105	千代田改	tsfbgfyeqxhg		22,13,817
+106	千歳甲	ttkeodhvrmog		20,11,817
+107	千代田甲	agybvcshxbpm		22,13,817
+108	千歳航	wlvvcpnulyer		20,11,817
+109	千代田航	rsmzverhwskc		22,12,817
+110	翔鶴	pdricqoovxfe		15,18,817
+111	瑞鶴	suivtkpjnmpt		14,20,817
+112	瑞鶴改	ihwgeegenykh		15,20,817
 113	鬼怒	rgribyhrzjjl		15,15,801
 114	阿武隈	sgwumdfgzais		15,16,801
 115	夕張	hieimxbtcqrt		21,17,801
@@ -146,7 +146,7 @@ ID	Name	Graphic Name	Missing?	Comment
 142	衣笠改二	ykrokmtrnaqw		11,6,801
 143	武蔵	ilxnmfogntbo		11,12,801
 144	夕立改二	lngqiqvigduj		39,27,801
-145	時雨改二	ogkwigciybxf		47,37,801
+145	時雨改二	ogkwigciybxf		47,38,801
 146	木曾改二	gpfqngdreebe		13,13,801
 147	Верный	gmqsmiszmftf		7,5,801
 148	武蔵改	eqgvmdsvjerq		11,12,801
@@ -163,7 +163,7 @@ ID	Name	Graphic Name	Missing?	Comment
 159	神通改二	xyqotgpmnjih		15,11,801
 160	那珂改二	lvjcqqulbluo		16,12,801
 161	あきつ丸	nvnwjedsdgcl		5,1,801
-162	神威	jqvoyyolpqgv	*404	10,1,801
+162	神威	jqvoyyolpqgv		10,1,801
 163	まるゆ	joaeulumcgbh		6,1,801
 164	弥生	jnvcrrgmtvwl		20,14,801
 165	卯月	gjtvekieqatn		21,14,801
@@ -199,7 +199,7 @@ ID	Name	Graphic Name	Missing?	Comment
 195	綾波改二	tiqezicxwpry		16,14,801
 196	飛龍改二	gbxvfsrqbyxg		16,17,801
 197	蒼龍改二	mwlzgwdjlpxx		18,17,801
-198	霰改二	wewrcinqshhk	*404	2,2,801
+198	霰改二	wewrcinqshhk		2,2,801
 199	大潮改二	jqqkmitxodgw		1,2,801
 200	阿武隈改二	qjkjyqhsvcpx		17,16,801
 201	吹雪改	dufziinsornt		24,20,801
@@ -244,12 +244,12 @@ ID	Name	Graphic Name	Missing?	Comment
 240	若葉改	tkcwrodgemlj		11,14,801
 241	初霜改	woutqrqtdzqi		10,13,801
 242	白露改	xcbmsjqrostq		35,34,801
-243	時雨改	wmskekfmgdio		23,37,801
+243	時雨改	wmskekfmgdio		23,38,801
 244	村雨改	wvnchfzhekfo		40,35,801
 245	夕立改	wpsyznjwvlmd		24,27,801
 246	五月雨改	ofneitwqroxe		12,12,801
 247	涼風改	jukighzxmudn		9,9,801
-248	朝潮改	xbbfxeemifpv		10,11,801
+248	朝潮改	xbbfxeemifpv		10,12,801
 249	大潮改	ngcxxfxovpmn		12,12,801
 250	満潮改	eypcwtnjgoyb		11,16,801
 251	荒潮改	pmjnkqodgjpo		9,10,801
@@ -289,16 +289,16 @@ ID	Name	Graphic Name	Missing?	Comment
 285	鳳翔改	xjotoxrgwfrj		7,3,801
 286	扶桑改	mnkjkgammeds		34,21,801
 287	山城改	bnbdxfioqxtt		30,21,801
-288	翔鶴改	vcftaofxkvgk		15,17,801
+288	翔鶴改	vcftaofxkvgk		15,18,817
 289	鬼怒改	ikwmknqjpvkg		15,15,801
 290	阿武隈改	uuxoixtoemiv		15,16,801
-291	千歳航改	ufcqfujavyyg		20,9,801
-292	千代田航改	hgitzuyaysvw		22,9,801
+291	千歳航改	ufcqfujavyyg		20,10,817
+292	千代田航改	hgitzuyaysvw		22,10,817
 293	夕張改	hfhcjjdyqyzn		21,17,801
 294	舞風改	ssvrjquubpim		14,14,801
 295	衣笠改	qgkmjgfbanxl		9,4,801
-296	千歳航改二	kavryopoywwx		20,10,801
-297	千代田航改二	jhefpwucyxiq		22,10,801
+296	千歳航改二	kavryopoywwx		20,11,817
+297	千代田航改二	jhefpwucyxiq		22,11,817
 300	初風改	ukwcjqlolezy		20,15,801
 301	秋雲改	ijhrnvnbqkmj		10,3,801
 302	夕雲改	bbgkikxppksy		20,5,801
@@ -332,16 +332,16 @@ ID	Name	Graphic Name	Missing?	Comment
 330	秋月改	tubwmcjwtlqx		15,11,801
 331	天城	gmlbignzjwmq		15,6,801
 332	葛城	fgyvwqymkekn		9,9,801
-333		fwywlrdttcoc	*404	1,1,1
+333		fwywlrdttcoc		1,1,1
 334	U-511改	dfrmfmjvschh		8,5,801
-335		fuzvvipztlod	*404	1,1,1
-336		nyveugfueqrn	*404	1,1,1
-337		ospkpclnhxkj	*404	1,1,1
-338		yotuoourymyr	*404	1,1,1
-339		utbekttrwkug	*404	1,1,1
-340		tmodouudtfbl	*404	1,1,1
-341		zzjoppqteksh	*404	1,1,1
-342		rybmohpldpuq	*404	1,1,1
+335		fuzvvipztlod		1,1,1
+336		nyveugfueqrn		1,1,1
+337		ospkpclnhxkj		1,1,1
+338		yotuoourymyr		1,1,1
+339		utbekttrwkug		1,1,1
+340		tmodouudtfbl		1,1,1
+341		zzjoppqteksh		1,1,1
+342		rybmohpldpuq		1,1,1
 343	香取改	kexcbmpnmmwv		17,13,801
 344	朝霜改	jozbiyweyksl		20,12,801
 345	高波改	ydsbnsiogwij		24,12,801
@@ -371,26 +371,26 @@ ID	Name	Graphic Name	Missing?	Comment
 369	山風改	qfyztscquxza		8,1,801
 370	朝風改	sfhznwdwstgj		2,1,801
 371	松風改	bzigjflbyxbe		1,1,801
-372	Commandant Teste改	wgyatqtsrghn		19,1,801
-373	藤波改	kbnitqplofhm		9,7,801
+372	Commandant Teste改	wgyatqtsrghn		19,1,817
+373	藤波改	kbnitqplofhm		9,7,817
 374	伊13改	hmjwmfpdcuur		1,1,801
 375	伊14改	fhcabilueqsn		1,1,801
-376	占守改	vtnbtspwclng	*404	1,1,801
-377	国後改	qvjugtvdmppy	*404	1,1,801
-380	大鷹改	gjdwbkyoqrwv	*404	1,1,801
-383	択捉改	glvwrolqeexv	*404	55,2,801
-384	松輪改	cggjgvkbrdby	*404	6,1,801
-385	佐渡改	xtesmpinnnxy	*404	57,1,801
-386	対馬改	soujslbigbak	*404	56,1,801
-387	旗風改	ciugyosuqrdu	*404	1,1,801
-390	天霧改	qdkwbvntcvpw	*404	6,1,801
-391	狭霧改	xvelofmpcaga	*404	8,1,801
-392	Richelieu改	bvtpgrfoqzhq	*404	5,1,801
-393	Ark Royal改	ncarbwthwrrx	*404	2,1,801
-394	Jervis改	ejdfsurhnkbu	*404	1,1,801
-395	Ташкент改	jdnsunmrleho	*404	1,1,801
-396	Gambier Bay改	hhffnryhkveu	*404	54,3,801
-397	Intrepid改	oieohletkdmg	*404	2,1,801
+376	占守改	vtnbtspwclng		1,1,801
+377	国後改	qvjugtvdmppy		1,1,801
+380	大鷹改	gjdwbkyoqrwv		1,1,801
+383	択捉改	glvwrolqeexv		55,2,801
+384	松輪改	cggjgvkbrdby		6,1,801
+385	佐渡改	xtesmpinnnxy		57,1,801
+386	対馬改	soujslbigbak		56,1,801
+387	旗風改	ciugyosuqrdu		1,1,801
+390	天霧改	qdkwbvntcvpw		6,1,801
+391	狭霧改	xvelofmpcaga		8,1,801
+392	Richelieu改	bvtpgrfoqzhq		5,1,817
+393	Ark Royal改	ncarbwthwrrx		2,1,801
+394	Jervis改	ejdfsurhnkbu		1,1,801
+395	Ташкент改	jdnsunmrleho		1,1,801
+396	Gambier Bay改	hhffnryhkveu		54,3,801
+397	Intrepid改	oieohletkdmg		2,1,801
 398	伊168改	dyfnguymthbd		4,5,801
 399	伊58改	hosmgvuzyjlw		3,4,801
 400	伊8改	fggcskrfkpnr		10,11,801
@@ -454,100 +454,100 @@ ID	Name	Graphic Name	Missing?	Comment
 458	海風	rnmsjjndxlgj		13,11,801
 459	江風	jdpiljspxgpz		20,11,801
 460	速吸	ajggcaaaocgh		13,14,801
-461	翔鶴改二	hpxsthymxmki		15,17,801
-462	瑞鶴改二	giytrybpknos		10,19,801
-463	朝潮改二	grmdtyheocuc		1,11,801
+461	翔鶴改二	hpxsthymxmki		15,18,817
+462	瑞鶴改二	giytrybpknos		10,20,817
+463	朝潮改二	grmdtyheocuc		1,12,801
 464	霞改二	mqlroxfnufpz		5,5,801
 465	鹿島	nwiyrjfnqvux		21,10,801
-466	翔鶴改二甲	ekuxnovhattm		15,17,801
-467	瑞鶴改二甲	qgrxbhuvtrbf		10,19,801
-468	朝潮改二丁	schftfqkstxa		1,11,801
+466	翔鶴改二甲	ekuxnovhattm		15,18,817
+467	瑞鶴改二甲	qgrxbhuvtrbf		10,20,817
+468	朝潮改二丁	schftfqkstxa		1,12,801
 469	江風改二	rwrhhyeloenn		20,1,801
 470	霞改二乙	vxrvwfxhlbag		5,5,801
 471	神風	xqqqhgvzjuae		4,1,801
 472	朝風	fmsaumjkejlm		2,1,801
 473	春風	gfogtnmgovlq		1,1,801
 474	松風	uesladlyqrru		1,1,801
-475	旗風	sbvnvwfihmrd	*404	1,1,801
+475	旗風	sbvnvwfihmrd		1,1,801
 476	神風改	osxrcrtldvru		4,1,801
-477	天龍改二	aoprntdhsoqa	*404	3,2,801
-478	龍田改二	usewjvwytald	*404	2,1,801
-479	天霧	xvgcgmwruygk	*404	6,1,801
-480	狭霧	tbgbgvlvagls	*404	8,1,801
+477	天龍改二	aoprntdhsoqa		3,2,801
+478	龍田改二	usewjvwytald		2,1,801
+479	天霧	xvgcgmwruygk		6,1,801
+480	狭霧	tbgbgvlvagls		8,1,801
 481	水無月	xzuthqfclfmp		5,1,801
-482		zknpscxchueo	*404	1,1,1
+482		zknpscxchueo		1,1,1
 483	伊26	qrubiqfijtfp		1,1,801
-484	浜波	zvjbcleziwsc	*404	53,1,801
-485	藤波	hskuxickjvmq		9,7,801
+484	浜波	zvjbcleziwsc		53,1,817
+485	藤波	hskuxickjvmq		9,7,817
 486	浦波	qhphdxqmvzbq		9,1,801
 487	鬼怒改二	glyidgppuqgp		3,1,801
-488	由良改二	rwectccrwkub	*404	4,1,801
-489	満潮改二	nhulrhmihxop	*404	13,16,801
+488	由良改二	rwectccrwkub		4,1,801
+489	満潮改二	nhulrhmihxop		13,16,801
 490	荒潮改二	hrkuspdmjtmd		1,2,801
-491	Commandant Teste	ighfxhygboim		19,1,801
-492	Richelieu	mbuqrrnwsofd	*404	5,1,801
-493	伊400	lksmyghdkbsg	*404	1,1,801
+491	Commandant Teste	ighfxhygboim		19,1,817
+492	Richelieu	mbuqrrnwsofd		5,1,817
+493	伊400	lksmyghdkbsg		1,1,801
 494	伊13	sfficpxrcodd		1,1,801
 495	伊14	umpejcgdjwrp		1,1,801
 496	Zara due	jprnkicueltw		3,1,801
-497	白露改二	zeebmcpibdkn	*404	1,3,801
-498	村雨改二	cppixsrylduw	*404	37,35,801
-499	神威改	tuzyehskgaup	*404	10,1,801
-500	神威改母	mxltvkpyuklh	*404	10,1,801
+497	白露改二	zeebmcpibdkn		1,4,817
+498	村雨改二	cppixsrylduw		37,36,817
+499	神威改	tuzyehskgaup		10,1,801
+500	神威改母	mxltvkpyuklh		10,1,801
 503	鈴谷改二	zkiopeqgwlog		55,1,801
-504	熊野改二	babicartxhcm	*404	55,1,801
+504	熊野改二	babicartxhcm		55,1,801
 508	鈴谷航改二	kkloilykwado		55,1,801
-509	熊野航改二	oqjojspqklln	*404	55,1,801
-511	Гангут	cqcrtbwortoi	*404	51,1,801
-512	Октябрьская революция	famtkxknboyg	*404	51,1,801
-513	Гангут два	rnuehhgtsiay	*404	51,1,801
-515	Ark Royal	ohxbfeywubre	*404	52,1,801
-516	Ташкент	etknsijfnuea	*404	51,1,801
-517	占守	mztdruitgisb	*404	51,1,801
-518	国後	duclkhpiwzon	*404	51,1,801
-519	Jervis	ljtlhcbmaqcg	*404	51,1,801
-521	春日丸	ycfrigxehfwt	*404	51,1,801
-524	択捉	lupcrslexuxo	*404	55,1,801
-525	松輪	hakcdulvmfej	*404	56,1,801
-526	大鷹	gvryjheydxtt	*404	51,2,801
-529	大鷹改二	biuzgypssrhi	*404	51,1,801
-530	伊504	eqlthgcwdqqe	*404	51,1,801
-531	佐渡	sujriouphyti	*404	57,2,801
-532	涼月	scgnesxelopp	*404	51,2,801
-535	Luigi Torelli	umofiwwigpjx	*404	51,1,801
-537	涼月改	yjgylyotzuwn	*404	51,2,801
-539	UIT-25	jisyljtqgqcj	*404	51,1,801
-540	対馬	mgofelnbpslm	*404	56,2,801
-541	長門改二	kjmmeaxfbmhx	*404	53,1,801
-542	夕雲改二	sbxjrrwenuzq	*404	51,1,801
-543	長波改二	tdextuaybvpj	*404	56,2,801
-544	Gambier Bay	nrqxieqrvqsh	*404	54,2,801
-545	Saratoga Mk.II	rhhklxaodsld	*404	51,1,801
-546	武蔵改二	gkjmztrtsbmk	*404	51,12,801
-547	多摩改二	pcmipikyqfxe	*404	53,2,801
-548	文月改二	ewtmrxzqvupm	*404	51,2,801
-549	Intrepid	pwipskreiclu	*404	51,1,801
-550	Saratoga Mk.II Mod.2	ambyahmkpxlz	*404	51,1,801
-551	日振	vpnpmgxoibfa	*404	51,1,801
-552	大東	jzjtuwefxhut	*404	51,1,801
-553	伊勢改二	efpfrkdoamqz	*404	51,1,801
-555	瑞鳳改二	nhjogdwxmuyo	*404	51,21,801
-556	浦風丁改	gncspjbuqlja	*404	51,1,801
-557	磯風乙改	olingctmvbpw	*404	51,5,801
-558	浜風乙改	xflykwfogqjb	*404	51,23,801
-560	瑞鳳改二乙	heurfaqfuvok	*404	51,21,801
-561	Samuel B.Roberts	jfyepyfarffz	*404	51,1,801
-565	福江	gefbfrjlqonb	*404	53,2,801
-566	陽炎改二	yvirvqslxmbd	*404	51,1,801
-567	不知火改二	ikijoyxyysig	*404	51,1,801
-568	黒潮改二	wtecnrsoyugp	*404	51,1,801
-605	Luigi Torelli改	drbcfdxjgwgx	*404	51,1,801
-606	伊400改	dpcmmtepdfbn	*404	51,2,801
-678	日振改	mnlyjfsjqitd	*404	51,1,801
-679	大東改	syoduvrmxdbf	*404	51,1,801
-680	浜波改	pqazkbtewvvy	*404	53,1,801
-681	Samuel B.Roberts改	xuwacqygfvpt	*404	51,1,801
-685	福江改	cvglhkjvdhbi	*404	53,2,801
+509	熊野航改二	oqjojspqklln		55,1,801
+511	Гангут	cqcrtbwortoi		51,1,801
+512	Октябрьская революция	famtkxknboyg		51,1,801
+513	Гангут два	rnuehhgtsiay		51,1,801
+515	Ark Royal	ohxbfeywubre		52,1,801
+516	Ташкент	etknsijfnuea		51,1,801
+517	占守	mztdruitgisb		51,1,801
+518	国後	duclkhpiwzon		51,1,801
+519	Jervis	ljtlhcbmaqcg		51,1,801
+521	春日丸	ycfrigxehfwt		51,1,801
+524	択捉	lupcrslexuxo		55,1,801
+525	松輪	hakcdulvmfej		56,1,801
+526	大鷹	gvryjheydxtt		51,2,801
+529	大鷹改二	biuzgypssrhi		51,1,801
+530	伊504	eqlthgcwdqqe		51,1,801
+531	佐渡	sujriouphyti		57,2,801
+532	涼月	scgnesxelopp		52,2,801
+535	Luigi Torelli	umofiwwigpjx		51,1,801
+537	涼月改	yjgylyotzuwn		52,2,801
+539	UIT-25	jisyljtqgqcj		51,1,801
+540	対馬	mgofelnbpslm		56,2,801
+541	長門改二	kjmmeaxfbmhx		53,1,801
+542	夕雲改二	sbxjrrwenuzq		51,1,801
+543	長波改二	tdextuaybvpj		56,2,801
+544	Gambier Bay	nrqxieqrvqsh		54,2,801
+545	Saratoga Mk.II	rhhklxaodsld		51,1,801
+546	武蔵改二	gkjmztrtsbmk		51,12,801
+547	多摩改二	pcmipikyqfxe		53,2,801
+548	文月改二	ewtmrxzqvupm		51,2,801
+549	Intrepid	pwipskreiclu		51,1,801
+550	Saratoga Mk.II Mod.2	ambyahmkpxlz		51,1,801
+551	日振	vpnpmgxoibfa		51,1,801
+552	大東	jzjtuwefxhut		51,1,801
+553	伊勢改二	efpfrkdoamqz		51,1,801
+555	瑞鳳改二	nhjogdwxmuyo		51,21,801
+556	浦風丁改	gncspjbuqlja		51,1,801
+557	磯風乙改	olingctmvbpw		51,5,801
+558	浜風乙改	xflykwfogqjb		51,23,801
+560	瑞鳳改二乙	heurfaqfuvok		51,21,801
+561	Samuel B.Roberts	jfyepyfarffz		51,1,801
+565	福江	gefbfrjlqonb		53,2,801
+566	陽炎改二	yvirvqslxmbd		51,1,801
+567	不知火改二	ikijoyxyysig		51,1,801
+568	黒潮改二	wtecnrsoyugp		51,1,801
+605	Luigi Torelli改	drbcfdxjgwgx		51,1,801
+606	伊400改	dpcmmtepdfbn		51,2,801
+678	日振改	mnlyjfsjqitd		51,1,801
+679	大東改	syoduvrmxdbf		51,1,801
+680	浜波改	pqazkbtewvvy		53,1,817
+681	Samuel B.Roberts改	xuwacqygfvpt		51,1,801
+685	福江改	cvglhkjvdhbi		53,2,801
 
 
 ### Enemy ships
